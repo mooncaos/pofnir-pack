@@ -1,22 +1,103 @@
 {
-	// POFNIR Pack — Traveler's Backpack
-	// Integração Trinkets ATIVA: a mochila ocupa o slot de costas dos acessórios,
-	// liberando o slot de peito para armadura (decisão de infraestrutura de inventário).
+	// POFNIR Pack — Traveler's Backpack 9.1.55 (Fabric)
+	// Esquema REAL do mod: Cloth AutoConfig + Jankson, classe TravelersBackpackConfigData.
+	// Chaves e defaults extraidos do jar (Ordem da mochila). As 4 decisoes da diretoria
+	// estao marcadas com "POFNIR". Tudo o mais e default do mod.
+	//
+	// Arrays de default (allowedAbilities, backpackEffects, cooldowns, listas de entidades,
+	// toolSlotsAcceptableItems, blacklistedItems) foram OMITIDOS de proposito: chave ausente
+	// = o mod usa a propria lista completa. Escreve-los truncados caparia conteudo (Lei 1).
+
+	"backpackSettings": {
+		"leather":   { "inventorySlotCount": 27, "upgradeSlotCount": 2, "toolSlotCount": 2, "tankCapacityPerRow": 81000 },
+		"iron":      { "inventorySlotCount": 45, "upgradeSlotCount": 3, "toolSlotCount": 3, "tankCapacityPerRow": 81000 },
+		"gold":      { "inventorySlotCount": 63, "upgradeSlotCount": 4, "toolSlotCount": 4, "tankCapacityPerRow": 81000 },
+		"diamond":   { "inventorySlotCount": 81, "upgradeSlotCount": 5, "toolSlotCount": 5, "tankCapacityPerRow": 81000 },
+		"netherite": { "inventorySlotCount": 99, "upgradeSlotCount": 6, "toolSlotCount": 6, "tankCapacityPerRow": 81000 },
+
+		"rightClickEquip": true,
+		"rightClickUnequip": false,
+		"allowOnlyEquippedBackpack": false,
+		"allowOpeningFromSlot": false,
+		"preventMultiplePlayersAccess": false,
+
+		// POFNIR: mochila invulneravel (fogo, explosao, cacto)
+		"invulnerableBackpack": true,
+
+		"allowToolSwapping": true,
+		"toolSlotsAcceptEverything": false,
+		"allowShulkerBoxes": false,
+
+		// POFNIR: ao morrer a mochila e POUSADA como bloco no local (nao some); voidProtection
+		// garante que nao cai no vazio. backpackForceDeathPlace fica no default.
+		"voidProtection": true,
+		"backpackDeathPlace": true,
+		"backpackForceDeathPlace": false,
+
+		"quickSleepingBag": true,
+
+		// POFNIR: dormir no saco de dormir marca o spawn (default do mod e false)
+		"enableSleepingBagSpawnPoint": true,
+
+		// POFNIR: integracao com Trinkets ATIVA — a mochila ocupa o slot de costas,
+		// liberando o peito para armadura (decisao de infraestrutura de inventario)
+		"trinketsIntegration": true
+	},
+
+	"backpackUpgrades": {
+		"enableSleepingBag": true,
+		"enableTanksUpgrade": true,
+		"enableCraftingUpgrade": true,
+		"enableFurnaceUpgrade": true,
+		"enableSmokerUpgrade": true,
+		"enableBlastFurnaceUpgrade": true,
+		"enableJukeboxUpgrade": true,
+		"enableLanternUpgrade": true,
+		"pickupUpgradeSettings":  { "enableUpgrade": true, "filterSlotCount": 9, "slotsInRow": 3 },
+		"magnetUpgradeSettings":  { "enableUpgrade": true, "filterSlotCount": 9, "slotsInRow": 3, "pullRange": 5, "tickRate": 10 },
+		"feedingUpgradeSettings": { "enableUpgrade": true, "filterSlotCount": 9, "slotsInRow": 3, "tickRate": 100 },
+		"refillUpgradeSettings":  { "enableUpgrade": true, "filterSlotCount": 9, "slotsInRow": 3, "tickRate": 5 },
+		"voidUpgradeSettings":    { "enableUpgrade": true, "filterSlotCount": 9, "slotsInRow": 3 }
+	},
+
+	"world": {
+		"enableLoot": true,
+		"spawnEntitiesWithBackpack": true,
+		"chance": 0.005,
+		"enableVillagerTrade": true
+	},
+
+	"backpackAbilities": {
+		"enableBackpackAbilities": true,
+		"forceAbilityEnabled": true
+	},
+
+	"slownessDebuff": {
+		"tooManyBackpacksSlowness": false,
+		"maxNumberOfBackpacks": 3,
+		"slownessPerExcessedBackpack": 1
+	},
+
 	"client": {
+		"toolsOverlay": {
+			"swapOnClose": true,
+			"showTooltip": false,
+			"renderBackpackIconInCenter": true,
+			"opacity": 0.75,
+			"offsetX": 0,
+			"offsetY": 0
+		},
 		"overlay": {
 			"enableOverlay": true,
 			"offsetX": 20,
 			"offsetY": 30
 		},
-		"disableBackpackRender": false,
-		"obtainTips": true
-	},
-	"common": {
-		"backpackDeathPlace": true,
-		"enableBackpackBlockWearable": true,
-		"invulnerableBackpack": true,
-		"trinketsIntegration": true,
-		"enableSleepingBagSpawnPoint": true,
-		"nightmareMode": false
+		"showBackpackIconInInventory": true,
+		"sendBackpackCoordinatesMessage": true,
+		"enableToolCycling": true,
+		"disableScrollWheel": false,
+		"obtainTips": true,
+		"renderTools": true,
+		"showSupporterBadge": true
 	}
 }

@@ -130,7 +130,7 @@ hash = "3a809f812139d58d6c189d8cf162a8c0c260841f8ff7cb8514ca5ee419b45cd7"
 
 [[files]]
 file = "config/travelersbackpack.json5"
-hash = "6af48e2a788ed3ccc9fc97dd7823cfe5f883ffb0a67655e76f5e2763eb2388d9"
+hash = "a3c1b438c50f8b2cd5a8b6e600293212608a6861ac723b8a48e4d996a3312978"
 
 [[files]]
 file = "kubejs/client_scripts/pilares_tooltip.js"
