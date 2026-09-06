@@ -597,6 +597,11 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/perspective-api.pw.toml"
+hash = "10912f658d988b8b162f21c420f56405483cc93539f1a177d5dce945b843e490"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
