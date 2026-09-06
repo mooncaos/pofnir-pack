@@ -205,6 +205,14 @@ file = "docs/GARIMPO-CATALOGO-v1.md"
 hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
 [[files]]
+file = "docs/curva/INDEX.md"
+hash = "c6a148e64c684a4e25bc4f16fad27e146e1bb307c55225f2d4cdf988b3c31e0c"
+
+[[files]]
+file = "docs/curva/armas-por-tier.md"
+hash = "2c85eee14f498ce3d38867905400cfa76af36f2370ecaf3e0bf9fd0a33ea815e"
+
+[[files]]
 file = "docs/curva/bosses.md"
 hash = "9369777f6ae83f61e4d697a1f1a9124a598bb04401185dea4f678af2abcc0142"
 
@@ -371,6 +379,10 @@ hash = "e5dcda96fb695ee95afc97a1fdaf479f9ac2f5c25d76ade232fc39a664d87a16"
 [[files]]
 file = "docs/relatorios/ORDEM-004.md"
 hash = "3b1093b622421a6824e4136a176e6f451a13557f237d02a2ac922801075269e3"
+
+[[files]]
+file = "docs/relatorios/ORDEM-005.md"
+hash = "aca30f82b03361312861692de029ea55c84e11b3f17ab97e5413d7bd5c1e0393"
 
 [[files]]
 file = "kubejs/client_scripts/pilares_tooltip.js"
