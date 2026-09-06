@@ -10,6 +10,7 @@
 | Blocos | 675 |
 | Itens | 299 |
 | Efeitos | 6 |
+| Atributos | 1 |
 
 ## Entidades (19)
 
@@ -583,6 +584,12 @@
 | `botania:feather_feet` | Feather Feet |
 | `botania:soul_cross` | Soul Cross |
 
+## Atributos (1)
+
+| ID | Nome |
+|---|---|
+| `botania:pixieSpawnChance` | Pixie Spawn Chance |
+
 ## Tags de item (`botania:`) (62)
 
 burst_viewers, contributor_headflowers, disposable, double_mystical_flowers, dragonstone_gems, dreamwood_logs, elementium_blocks, elementium_ingots, elementium_nuggets, floating_flowers, functional_floating_flowers, functional_special_flowers, generating_floating_flowers, generating_special_flowers, glimmering_dreamwood_logs, glimmering_livingwood_logs, lens, lens_glue, livingwood_logs, loonium_blacklist, loonium_offhand_equipment, magnet_ring_blacklist, mana_diamond_gems, mana_dusts, mana_using_items, manasteel_blocks, manasteel_ingots, manasteel_nuggets, mini_flowers, misc_floating_flowers, misc_special_flowers, mundane_floating_flowers, mystical_flowers, petals, petals/black, petals/blue, petals/brown, petals/cyan, petals/gray, petals/green, petals/light_blue, petals/light_gray, petals/lime, petals/magenta, petals/orange, petals/pink, petals/purple, petals/red, petals/white, petals/yellow, pickable_block_providers, rods, runes, seed_apothecary_reagent, semi_disposable, shimmering_mushrooms, special_floating_flowers, special_flowers, terra_pick_blacklist, terrasteel_blocks, terrasteel_ingots, terrasteel_nuggets
@@ -637,5 +644,5 @@ glass, glass_blocks, glass_pane, glass_panes, lapis_blocks, mushrooms, ores, qua
 
 Prefixos ignorados (texto de UI, tooltips, patchouli, advancements):
 
-`botania` (1769), `block` (294), `botaniamisc` (132), `advancement` (104), `tag` (52), `item` (32), `structure` (30), `emi` (10), `effect` (6), `worldgen` (6), `lexicon` (3), `stat` (3), `death` (2), `fancySkybox` (2)
+`botania` (1769), `block` (294), `botaniamisc` (132), `advancement` (104), `tag` (52), `item` (32), `structure` (30), `emi` (10), `effect` (6), `worldgen` (6), `stat` (3), `lexicon` (3), `death` (2), `harvestLevel` (2)
 

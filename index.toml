@@ -201,12 +201,16 @@ file = "docs/GARIMPO-CATALOGO-v1.md"
 hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
 [[files]]
+file = "docs/inventarios/archers.md"
+hash = "b2df9a154a6c4cf4b3d481c51b99a5cd5e22df7f2ebd88829296db27cccef5b4"
+
+[[files]]
 file = "docs/inventarios/bewitchment.md"
 hash = "4276e0a05c1f358abba3144ed7f497d25a29a072dd120287426cdccfaf6d8427"
 
 [[files]]
 file = "docs/inventarios/botania.md"
-hash = "98421abfa29cf95049962e5700873cf0bf4b73830357da9aae5abedd215b9a22"
+hash = "94aa7b2dad9a0f0e883530ab9acb9cd35c6e5b2b378c688b1ddb8675761069b2"
 
 [[files]]
 file = "docs/inventarios/eldritch-end.md"
@@ -223,6 +227,30 @@ hash = "4b4482c4f6338408a40c0a0eb9846b9c01d7c51a158ead802316776d0ae0315c"
 [[files]]
 file = "docs/inventarios/from-the-fog.md"
 hash = "99456858b1e7e294a7c96fcaec0b4b212b4d4a388a89ee1b2f12ccbafe8b02ac"
+
+[[files]]
+file = "docs/inventarios/invocations.md"
+hash = "1b1d674b714a465c00d884db73c6d9000931d55b402e7bb801c1febfa211823a"
+
+[[files]]
+file = "docs/inventarios/paladins-and-priests.md"
+hash = "e5b320ba797cdf331c12ee65b4fde55c3ec40928e365c227cfeb4375402bd1a3"
+
+[[files]]
+file = "docs/inventarios/rogues-and-warriors.md"
+hash = "2b4b7509eb3c74f0a0bd6a023603301bc36bd283d3d121fb9767b3eda7a6df46"
+
+[[files]]
+file = "docs/inventarios/spell-engine.md"
+hash = "cdedf207bf973e6830e032bf00e0dea39e578483aaff6b1333d1b83a2e10ed3f"
+
+[[files]]
+file = "docs/inventarios/spell-power.md"
+hash = "f4cd51dc0805a030cc76a5ac3ab473887583966dc59f2aa8207eeea0048b8aaf"
+
+[[files]]
+file = "docs/inventarios/wizards.md"
+hash = "7b8a092e77f38617bbd193548e5ffdb7483aafbfc1e2e8d000cde48a0c38aa14"
 
 [[files]]
 file = "docs/pofnir-cidades-v1.md"
