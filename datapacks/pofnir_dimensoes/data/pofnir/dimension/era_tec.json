@@ -1,0 +1,34 @@
+{
+  "type": "pofnir:era_tec",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "pofnir:era_tec",
+      "lakes": false,
+      "features": false,
+      "structure_overrides": [],
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:deepslate",
+          "height": 30
+        },
+        {
+          "block": "minecraft:polished_deepslate",
+          "height": 20
+        },
+        {
+          "block": "minecraft:smooth_quartz",
+          "height": 12
+        },
+        {
+          "block": "minecraft:sea_lantern",
+          "height": 1
+        }
+      ]
+    }
+  }
+}
