@@ -142,7 +142,7 @@ hash = "00151976e01f235c08e9441b6a0888d8ceb432206f7b1c9ea189152a15436dbd"
 
 [[files]]
 file = "kubejs/server_scripts/marca_presenca.js"
-hash = "ef3a445e8084aa4cdc5efe8d3475e321aa87f663de84616ab4b9dfd5234e1377"
+hash = "aa5caccf76e6fa72d2a8bcf6de9440b65853a4939e73bfd9a8270fd406e4d6de"
 
 [[files]]
 file = "kubejs/server_scripts/pilares_aplicacao.js"
