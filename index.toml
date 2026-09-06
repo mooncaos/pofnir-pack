@@ -61,6 +61,10 @@ file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_te
 hash = "4c85c48ec72ed4abe9bc4bb9ecf67bdc9024651b7ae9488ca3961e218dea9c77"
 
 [[files]]
+file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/capital_etapa1.mcfunction"
+hash = "a28c50b583db0e5d7ccdd9624b7aaf2d45afd52fe97ad8dacae4ff95f84eb719"
+
+[[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/construir_capital_medieval.mcfunction"
 hash = "4f99be16dffac0682c9367d5a57892a3dd2fd82ac764dee7926b23a0ff7808b9"
 
