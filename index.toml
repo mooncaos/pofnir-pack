@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "a329b4051df0bda084b05c08055e82ee5d2e8ba8e9787b4ba7ce6a0da7b340ed"
-
-[[files]]
-file = "CLAUDE.md"
-hash = "59adbeafaf34139841813a6b7d03e913642781cf4e10b0912a14be4f8dac9f5b"
-
-[[files]]
-file = "README.md"
-hash = "071f1fe2356dd0bb4683b50f5e989d3c1dbd55b535204ac66d375da9dd875eb8"
-
-[[files]]
-file = "adicionar-mods.bat"
-hash = "d837c8c6e17668d15c786af7d59d39686682579361289817462cf16a1a5192c7"
-
-[[files]]
-file = "atualizar.bat"
-hash = "c4987aa7df6c7f31427c51bf8998908a96a0c2957c7b68d5e0c58fcf0e8d8325"
-
-[[files]]
 file = "config/cave-dweller-config.json5"
 hash = "141a4475d45c6765c766abc079b0a1f7802a78ec9b5e119076ede2bc493bcadd"
 
@@ -101,10 +81,6 @@ file = "datapacks/pofnir_dimensoes/pack.mcmeta"
 hash = "0fd1f8886d3eb7234bd973eaf4ded9e2ee98f1bf77977c40692c0c4d205fd289"
 
 [[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barreira/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barreira/marco_lanterna_dir.nbt"
 hash = "07f0155db489ca8c1546bfe37dd1fe160b6076c7dc6dc614b910cfe643dfd544"
 
@@ -113,24 +89,12 @@ file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barr
 hash = "83ebbd5019a2c2500d75a886c6de4a3f1c020acf367f187c7f8e299bd8b789ce"
 
 [[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/casa_dos_oficios/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/casa_dos_oficios/casa_dos_oficios.nbt"
 hash = "8d3f1d80506911504cbf9be74933296f359b778aba4fbc85e30cc99a8b7529de"
 
 [[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/marco_fratura/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/marco_fratura/capela_partida.nbt"
 hash = "ea74a3acb65c029a7f2b9839cc08a49a86e8b22b8887873a37d161af02cb02a4"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/mercado/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/mercado/rua_do_mercado.nbt"
@@ -141,10 +105,6 @@ file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/merc
 hash = "b2a0a03ff0b8dc541f6487f5696fd224a5582ae0dcd9b947e26de2316e2b771c"
 
 [[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/pilar_aprimoramento/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/pilar_aprimoramento/claustro_ritual.nbt"
 hash = "7465a5fc69cab611ef44f59931f0d038db179d1a7497d7cf3915e565395c4ed6"
 
@@ -153,304 +113,24 @@ file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/pila
 hash = "a961f3ac9cbb6c7ec0d33e1760d013a8e7b5ab7e1390a7adc79f40778f252773"
 
 [[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/portal_limiar/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/portal_limiar/portal_do_limiar.nbt"
 hash = "56818b78694e6ae97ac81b35c390eb993f991cdccd6ca7b9dbecfbcca6eb44e4"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/praca_da_pedra/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/praca_da_pedra/altar_da_pedra.nbt"
 hash = "2a05706fc36eea47afea9ef4583dd2beb10afba85f301dfb321080083a584d25"
 
 [[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/quadro_contratos/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/quadro_contratos/quadro_de_contratos.nbt"
 hash = "f23b2e61b8ffd3891e2f3399c61c00a9e59921970d86fe2ab6e3a43837b3782a"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/salao_da_origem/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/salao_da_origem/salao_da_origem.nbt"
 hash = "6288f048e9871b78aaa3744a2bd278512e9fb1fc11bd8d2dbd667b41900a2e08"
 
 [[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/barreira/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/casa_dos_oficios/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/marco_fratura/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/mercado/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/pilar_aprimoramento/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/portal_limiar/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/praca_da_pedra/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/quadro_contratos/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/salao_da_origem/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/barreira/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/casa_dos_oficios/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/marco_fratura/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/mercado/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/pilar_aprimoramento/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/portal_limiar/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/praca_da_pedra/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/quadro_contratos/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
-file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/salao_da_origem/.gitkeep"
-hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
-
-[[files]]
 file = "datapacks/pofnir_estruturas/pack.mcmeta"
 hash = "3a809f812139d58d6c189d8cf162a8c0c260841f8ff7cb8514ca5ee419b45cd7"
-
-[[files]]
-file = "docs/CREDITOS.md"
-hash = "e7a5a5e47896d39143269b2c40c9d37ecb63a5a42d2b6251129b470dd18bd48e"
-
-[[files]]
-file = "docs/GARIMPO-CATALOGO-v1.md"
-hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
-
-[[files]]
-file = "docs/curva/INDEX.md"
-hash = "c6a148e64c684a4e25bc4f16fad27e146e1bb307c55225f2d4cdf988b3c31e0c"
-
-[[files]]
-file = "docs/curva/armas-por-tier.md"
-hash = "2c85eee14f498ce3d38867905400cfa76af36f2370ecaf3e0bf9fd0a33ea815e"
-
-[[files]]
-file = "docs/curva/bosses.md"
-hash = "9369777f6ae83f61e4d697a1f1a9124a598bb04401185dea4f678af2abcc0142"
-
-[[files]]
-file = "docs/curva/magias.md"
-hash = "9a47e6fbc9905f317bf0765276a38ce39601c3e834c97f76f33dc9c713b32b15"
-
-[[files]]
-file = "docs/curva/mobs-comuns.md"
-hash = "0f821e56c191dce24df787ee6c0332b4197b10d9577236baacd39f4b7cafe3ba"
-
-[[files]]
-file = "docs/curva/tacz-armas.md"
-hash = "f5a7af35199b14368c9e1100a3a69ec3a830a837cfe6909b41b50a9c4d5dce0a"
-
-[[files]]
-file = "docs/inventarios/INDEX.md"
-hash = "ef6627a094958e0308d841d870d276c51d8a19bf022c083082d62482043dfaa3"
-
-[[files]]
-file = "docs/inventarios/ad-astra.md"
-hash = "f3df52c563985659909879664ed99305f01115a5b7505ec487233223fec97dfa"
-
-[[files]]
-file = "docs/inventarios/ae2.md"
-hash = "d41a33f98aa187b86fe2d4d5243ed87f2b25ac34d4dff5a50d7f32cdb330bbb7"
-
-[[files]]
-file = "docs/inventarios/alexs-mobs-continued.md"
-hash = "62a1ac40b0dc304acb69cd5c935caadbffca626889a2a76f9cdc2308662c4b6d"
-
-[[files]]
-file = "docs/inventarios/archers.md"
-hash = "b2df9a154a6c4cf4b3d481c51b99a5cd5e22df7f2ebd88829296db27cccef5b4"
-
-[[files]]
-file = "docs/inventarios/bewitchment.md"
-hash = "4276e0a05c1f358abba3144ed7f497d25a29a072dd120287426cdccfaf6d8427"
-
-[[files]]
-file = "docs/inventarios/bosses-of-mass-destruction.md"
-hash = "ad0e3be015a543b662f35baa3327b0b6375ecb4508dcc7f29418fcc34e678444"
-
-[[files]]
-file = "docs/inventarios/botania.md"
-hash = "94aa7b2dad9a0f0e883530ab9acb9cd35c6e5b2b378c688b1ddb8675761069b2"
-
-[[files]]
-file = "docs/inventarios/cave-dweller-fabric.md"
-hash = "4d1467ed57549e667c2982bd2ada7e866a11293f1d4ef03271075a53496a135c"
-
-[[files]]
-file = "docs/inventarios/create-big-cannons.md"
-hash = "2ea95b3798de1217b141d253ece1851e31aba7e828e078c1439ba68808ad62ff"
-
-[[files]]
-file = "docs/inventarios/create-deco.md"
-hash = "c8dcddc706769282d640cfd62c090ea270896fcef4b8ee2f8a0ef8feba92859b"
-
-[[files]]
-file = "docs/inventarios/create-fabric.md"
-hash = "4884e2e60376af611550ce713f3803ff4d348e86388f09160aeaa4fb6a46bf4d"
-
-[[files]]
-file = "docs/inventarios/create-steam-n-rails.md"
-hash = "253ff054e0bf1c23a4f46ee390aa60bcfdff9f07f02b1cdb94fa2e855e0dc6e8"
-
-[[files]]
-file = "docs/inventarios/eldritch-end.md"
-hash = "5ff69d4c30d1707931d345a954002108ed26b6c132b30e66d33dca8f8d8c4cce"
-
-[[files]]
-file = "docs/inventarios/eldritch-mobs.md"
-hash = "90627ec2d79922f3df91cab09f600a06fdb5de2a5365049a253975c6e2030021"
-
-[[files]]
-file = "docs/inventarios/enchanted-witchcraft.md"
-hash = "4b4482c4f6338408a40c0a0eb9846b9c01d7c51a158ead802316776d0ae0315c"
-
-[[files]]
-file = "docs/inventarios/from-the-fog.md"
-hash = "99456858b1e7e294a7c96fcaec0b4b212b4d4a388a89ee1b2f12ccbafe8b02ac"
-
-[[files]]
-file = "docs/inventarios/invocations.md"
-hash = "1b1d674b714a465c00d884db73c6d9000931d55b402e7bb801c1febfa211823a"
-
-[[files]]
-file = "docs/inventarios/mariums-soulslike-weaponry.md"
-hash = "eea06cbea8091cf25d0f763fda5ff57ebde7c03336c102127640f46315909b71"
-
-[[files]]
-file = "docs/inventarios/minecells.md"
-hash = "475a1b31bc0e2997a50660b6bf830415404a7295b768c4962d6ea8a87c051852"
-
-[[files]]
-file = "docs/inventarios/modern-industrialization.md"
-hash = "0a53db499995f1b788ff951f9ece7bb8160f188ac9703ec8480e4b7cf1263d9a"
-
-[[files]]
-file = "docs/inventarios/naturalist.md"
-hash = "acf6a823baeb3a41615aa3ad52c020e78f44e9775194bc569265830bd48a1c8f"
-
-[[files]]
-file = "docs/inventarios/paladins-and-priests.md"
-hash = "e5b320ba797cdf331c12ee65b4fde55c3ec40928e365c227cfeb4375402bd1a3"
-
-[[files]]
-file = "docs/inventarios/pomkots-mechs.md"
-hash = "0128638668b5c7a2b28370fb3a73354f533a914e05c827f34472a0a1c972c529"
-
-[[files]]
-file = "docs/inventarios/rogues-and-warriors.md"
-hash = "2b4b7509eb3c74f0a0bd6a023603301bc36bd283d3d121fb9767b3eda7a6df46"
-
-[[files]]
-file = "docs/inventarios/spell-engine.md"
-hash = "cdedf207bf973e6830e032bf00e0dea39e578483aaff6b1333d1b83a2e10ed3f"
-
-[[files]]
-file = "docs/inventarios/spell-power.md"
-hash = "f4cd51dc0805a030cc76a5ac3ab473887583966dc59f2aa8207eeea0048b8aaf"
-
-[[files]]
-file = "docs/inventarios/tacz-refabricated.md"
-hash = "d46f93a83e72272e2f044688d99894d31f898fead16aef010ce6419b8b5f9791"
-
-[[files]]
-file = "docs/inventarios/techreborn.md"
-hash = "700a00214ce576aa07b309512a830318b49c1ce09d52087d45bac524eafec65e"
-
-[[files]]
-file = "docs/inventarios/the-graveyard-fabric.md"
-hash = "f76bf47c0cb39ddedb9728c22ccf748196b657553e4ef52ad6a2f9bbfbb0fcd1"
-
-[[files]]
-file = "docs/inventarios/the-man-from-the-fog-fabric.md"
-hash = "0f36960a80e8a3016f2bd24611f1dcba3ea37fd8a6a839e8bf7a2838dea1bddb"
-
-[[files]]
-file = "docs/inventarios/wizards.md"
-hash = "7b8a092e77f38617bbd193548e5ffdb7483aafbfc1e2e8d000cde48a0c38aa14"
-
-[[files]]
-file = "docs/pofnir-cidades-v1.md"
-hash = "27a1c6fb5f9f3c2e461bca1219b539703e85bca2ade1e37cb38de6154be11ebb"
-
-[[files]]
-file = "docs/pofnir-classes-v1.md"
-hash = "f490f2f1cc6a3aabac3551283f4afba6c18d678315287fac00af0fabeacebdae"
-
-[[files]]
-file = "docs/pofnir-master-v1.md"
-hash = "91a2a68a1496b96797f4dccbab5b721a6db3371047adeb9c93ce63737ee01a16"
-
-[[files]]
-file = "docs/pofnir-mods-ancora-v1.md"
-hash = "f8b2aa1e813f7aa64128f61c53e189bb7e99e8c56930b41e180c15244be85039"
-
-[[files]]
-file = "docs/pofnir-profissoes-v1.md"
-hash = "e5dcda96fb695ee95afc97a1fdaf479f9ac2f5c25d76ade232fc39a664d87a16"
-
-[[files]]
-file = "docs/relatorios/ORDEM-004.md"
-hash = "3b1093b622421a6824e4136a176e6f451a13557f237d02a2ac922801075269e3"
-
-[[files]]
-file = "docs/relatorios/ORDEM-005.md"
-hash = "aca30f82b03361312861692de029ea55c84e11b3f17ab97e5413d7bd5c1e0393"
-
-[[files]]
-file = "docs/relatorios/ORDEM-007.md"
-hash = "bb8994af5e228acd614c28652fca0feb5608cbd023e4c57947efb8aa4b3f13e1"
 
 [[files]]
 file = "kubejs/client_scripts/pilares_tooltip.js"
