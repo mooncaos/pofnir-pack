@@ -3,11 +3,11 @@ author = "MoonCaos & Claude"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
-[versions]
-minecraft = "1.20.1"
-fabric = "0.15.11"
-
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = ""
+hash = "3d397d91caffd5bb6837f82ee509537a6f4e743eb1d9ccf91cfad58543c9b71a"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
