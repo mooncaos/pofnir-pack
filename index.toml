@@ -17,55 +17,55 @@ file = "atualizar.bat"
 hash = "c4987aa7df6c7f31427c51bf8998908a96a0c2957c7b68d5e0c58fcf0e8d8325"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension/auren.json"
+file = "datapacks/data/pofnir/dimension/auren.json"
 hash = "a76875957ad079c1aeec58f473cf4ed047158a1c0dbfdaddd6c406f3252ea088"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension/era_medieval.json"
+file = "datapacks/data/pofnir/dimension/era_medieval.json"
 hash = "25874ec7cabb333f625012f904ef569f2e429e6027f5ac0ca0c72a3e6d35a7a2"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension/era_steampunk.json"
+file = "datapacks/data/pofnir/dimension/era_steampunk.json"
 hash = "b686bc41b0ba7b53e48ef4abe3f739ef50157c3647672c0cd03e4612d161b66a"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension/era_tec.json"
+file = "datapacks/data/pofnir/dimension/era_tec.json"
 hash = "8500eab2f33d100990451108eeb021c45b370edd1483bf0cd9d47daa3216a623"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension_type/auren.json"
+file = "datapacks/data/pofnir/dimension_type/auren.json"
 hash = "3fa718e67dbaf158cddb6c343758885fb48f08e11cb174fbbf6d025fb9495b68"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_medieval.json"
+file = "datapacks/data/pofnir/dimension_type/era_medieval.json"
 hash = "dc11d4b543012116cfbe9a61529238d6c430c5f2d56924c4c68fc7a5abcd3182"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_steampunk.json"
+file = "datapacks/data/pofnir/dimension_type/era_steampunk.json"
 hash = "1131f9577e14474df16af14a1dd3c7bdf165ad669124eb0c353f2c5817a607df"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_tec.json"
+file = "datapacks/data/pofnir/dimension_type/era_tec.json"
 hash = "4c85c48ec72ed4abe9bc4bb9ecf67bdc9024651b7ae9488ca3961e218dea9c77"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/worldgen/biome/auren.json"
+file = "datapacks/data/pofnir/worldgen/biome/auren.json"
 hash = "f2f3ce524998a9a67e26b79c84090217993668790ba56b0272b22a347f66a92a"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/worldgen/biome/era_medieval.json"
+file = "datapacks/data/pofnir/worldgen/biome/era_medieval.json"
 hash = "8c772df9808ce8eb16e5e082f6071e63fbd0ffce62b4e38ab66f232b48f8b936"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/worldgen/biome/era_steampunk.json"
+file = "datapacks/data/pofnir/worldgen/biome/era_steampunk.json"
 hash = "51d9b008e35521597792ca084cac058ee66fba6e596397faee9a81d10bc31551"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/data/pofnir/worldgen/biome/era_tec.json"
+file = "datapacks/data/pofnir/worldgen/biome/era_tec.json"
 hash = "1d3f5839b083b232670dd19cb582262df29a35b39a8d77e80cc6e9d45c1a380c"
 
 [[files]]
-file = "datapacks/pofnir_dimensoes/pack.mcmeta"
+file = "datapacks/pack.mcmeta"
 hash = "77c6529217c40004e169ce16e4f0a0d6a95b872502d283ca4a401e75994bb6ee"
 
 [[files]]
