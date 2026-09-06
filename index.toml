@@ -201,6 +201,14 @@ file = "docs/GARIMPO-CATALOGO-v1.md"
 hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
 [[files]]
+file = "docs/inventarios/ad-astra.md"
+hash = "f3df52c563985659909879664ed99305f01115a5b7505ec487233223fec97dfa"
+
+[[files]]
+file = "docs/inventarios/ae2.md"
+hash = "d41a33f98aa187b86fe2d4d5243ed87f2b25ac34d4dff5a50d7f32cdb330bbb7"
+
+[[files]]
 file = "docs/inventarios/archers.md"
 hash = "b2df9a154a6c4cf4b3d481c51b99a5cd5e22df7f2ebd88829296db27cccef5b4"
 
@@ -211,6 +219,22 @@ hash = "4276e0a05c1f358abba3144ed7f497d25a29a072dd120287426cdccfaf6d8427"
 [[files]]
 file = "docs/inventarios/botania.md"
 hash = "94aa7b2dad9a0f0e883530ab9acb9cd35c6e5b2b378c688b1ddb8675761069b2"
+
+[[files]]
+file = "docs/inventarios/create-big-cannons.md"
+hash = "2ea95b3798de1217b141d253ece1851e31aba7e828e078c1439ba68808ad62ff"
+
+[[files]]
+file = "docs/inventarios/create-deco.md"
+hash = "c8dcddc706769282d640cfd62c090ea270896fcef4b8ee2f8a0ef8feba92859b"
+
+[[files]]
+file = "docs/inventarios/create-fabric.md"
+hash = "4884e2e60376af611550ce713f3803ff4d348e86388f09160aeaa4fb6a46bf4d"
+
+[[files]]
+file = "docs/inventarios/create-steam-n-rails.md"
+hash = "253ff054e0bf1c23a4f46ee390aa60bcfdff9f07f02b1cdb94fa2e855e0dc6e8"
 
 [[files]]
 file = "docs/inventarios/eldritch-end.md"
@@ -233,8 +257,16 @@ file = "docs/inventarios/invocations.md"
 hash = "1b1d674b714a465c00d884db73c6d9000931d55b402e7bb801c1febfa211823a"
 
 [[files]]
+file = "docs/inventarios/modern-industrialization.md"
+hash = "0a53db499995f1b788ff951f9ece7bb8160f188ac9703ec8480e4b7cf1263d9a"
+
+[[files]]
 file = "docs/inventarios/paladins-and-priests.md"
 hash = "e5b320ba797cdf331c12ee65b4fde55c3ec40928e365c227cfeb4375402bd1a3"
+
+[[files]]
+file = "docs/inventarios/pomkots-mechs.md"
+hash = "0128638668b5c7a2b28370fb3a73354f533a914e05c827f34472a0a1c972c529"
 
 [[files]]
 file = "docs/inventarios/rogues-and-warriors.md"
@@ -247,6 +279,14 @@ hash = "cdedf207bf973e6830e032bf00e0dea39e578483aaff6b1333d1b83a2e10ed3f"
 [[files]]
 file = "docs/inventarios/spell-power.md"
 hash = "f4cd51dc0805a030cc76a5ac3ab473887583966dc59f2aa8207eeea0048b8aaf"
+
+[[files]]
+file = "docs/inventarios/tacz-refabricated.md"
+hash = "d46f93a83e72272e2f044688d99894d31f898fead16aef010ce6419b8b5f9791"
+
+[[files]]
+file = "docs/inventarios/techreborn.md"
+hash = "700a00214ce576aa07b309512a830318b49c1ce09d52087d45bac524eafec65e"
 
 [[files]]
 file = "docs/inventarios/wizards.md"
