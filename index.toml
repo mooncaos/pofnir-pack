@@ -149,6 +149,11 @@ hash = "946c7b4ef0aa99a01ea78824c8afb0f3d15aa316200570cf42d8ed98e98f7761"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "ade96e54f3cc61a9a64356f522f8527f15a20518fe9a782229af7423358fc017"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -389,6 +394,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "f9fcb1d69782a7b427c447b4ec775136cdf5dfae49458961530a27d1232c224d"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "cb9cb89e51e6948fa2a9790483c4eb3d2d739ac62da6fc838c18d3d8e7781d18"
 metafile = true
@@ -516,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "5cd3420078c7c24bf7414c7243a69b2d2a21c3c5e29150444697b11a001c44d8"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
 metafile = true
 
 [[files]]
