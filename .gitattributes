@@ -1,0 +1,9 @@
+# POFNIR: packwiz hasheia os arquivos locais para o index.toml e o GitHub Pages
+# serve LF. Com core.autocrlf=true no Windows, um checkout produziria CRLF e
+# envenenaria o indice. Forca LF nas extensoes que o pack distribui.
+*.toml       text eol=lf
+*.json       text eol=lf
+*.json5      text eol=lf
+*.js         text eol=lf
+*.mcfunction text eol=lf
+*.md         text eol=lf
