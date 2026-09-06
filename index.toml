@@ -86,7 +86,7 @@ hash = "1d3f5839b083b232670dd19cb582262df29a35b39a8d77e80cc6e9d45c1a380c"
 
 [[files]]
 file = "datapacks/pofnir_dimensoes/pack.mcmeta"
-hash = "77c6529217c40004e169ce16e4f0a0d6a95b872502d283ca4a401e75994bb6ee"
+hash = "87f1a87d9f1a8d5fddc8bfbe3fce6513c7608e9383f514cdef6050801d9eac98"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barreira/.gitkeep"
@@ -195,6 +195,10 @@ hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/salao_da_origem/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/pack.mcmeta"
+hash = "3a809f812139d58d6c189d8cf162a8c0c260841f8ff7cb8514ca5ee419b45cd7"
 
 [[files]]
 file = "docs/GARIMPO-CATALOGO-v1.md"
