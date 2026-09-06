@@ -82,6 +82,8 @@ Origem em Auren -> capital-tutorial -> mundo -> boss regional da era -> retorno 
 | 4 | Mundo | Terralith, YUNG's, Lithostitched, When Dungeons Arise (curadoria) | |
 | 5 | Espinha | Fabric API, FTB Quests/Teams/Library, KubeJS+Rhino+Architectury, EMI, Patchouli, Trinkets, EasyNPC/Taterzens, Essential Commands 0.35.3 | EC testado por nós em produção |
 | 6 | Performance/QoL | Sodium, Lithium, FerriteCore, ModernFix, Iris, AppleSkin, Jade, Xaero's, Mouse Tweaks, Controlling | |
+| 6+ | QoL oficial v1 (rodado 06/09) | Inventory Profiles Next, ShulkerBoxTooltip, Traveler's Backpack, Carry On, Zoomify, Enchantment Descriptions + performance fina: EntityCulling, ImmediatelyFast, Krypton, MemoryLeakFix | client-side onde aplicável; conviver com Sodium/Lithium |
+| 6++ | Imersão oficial v1 (rodado 06/09) | Mod Menu, Sound Physics Remastered, Presence Footsteps, AmbientSounds, Falling Leaves, Visuality, Effective, Particle Rain, Not Enough Animations, Eating Animation, Wakes, CTOV, Towns & Towers | REGRA: validar na prévia que nenhum mixin briga com Create/Valkyrien/Spell Engine (Sound Physics e ImmediatelyFast são os vigiados de praxe) |
 | 7 | Colheita Cisco/Superior (traduzida) | Puffish Skills, Origins, Cataclysm-port/BoMD/Soulslike (bosses), Eldritch Mobs, Better Combat, Combat Roll, Mine Cells | anti-lições registradas |
 | 8 | Terror | Man From The Fog, Cave Dweller, From The Caves/Knocker, áudio ambiente (validar ports) — teto 2-3 perseguidores | mecanismo: Marca |
 | 9 | Fauna | **Alex's Mobs Continued** ✅ (reserva: port 1:1), Naturalist, Overhauls, Graveyard + fauna de era (forja) | martelo "o mais completo" |
