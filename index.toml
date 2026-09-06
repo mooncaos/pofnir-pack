@@ -21,6 +21,18 @@ file = "atualizar.bat"
 hash = "c4987aa7df6c7f31427c51bf8998908a96a0c2957c7b68d5e0c58fcf0e8d8325"
 
 [[files]]
+file = "config/cave-dweller-config.json5"
+hash = "141a4475d45c6765c766abc079b0a1f7802a78ec9b5e119076ede2bc493bcadd"
+
+[[files]]
+file = "config/man/man.json"
+hash = "bbaa1f8728628b80965687d7b3972b7c35ba014b99f91f130302a37bf2239e63"
+
+[[files]]
+file = "config/man/mod_version.json"
+hash = "f745970802298e92392f0c35d5de651d0c0cb877e1953447d78435b933fee5d3"
+
+[[files]]
 file = "config/travelersbackpack.json5"
 hash = "6af48e2a788ed3ccc9fc97dd7823cfe5f883ffb0a67655e76f5e2763eb2388d9"
 
@@ -211,6 +223,10 @@ hash = "e5dcda96fb695ee95afc97a1fdaf479f9ac2f5c25d76ade232fc39a664d87a16"
 [[files]]
 file = "kubejs/server_scripts/censo_auren.js"
 hash = "00151976e01f235c08e9441b6a0888d8ceb432206f7b1c9ea189152a15436dbd"
+
+[[files]]
+file = "kubejs/server_scripts/marca_presenca.js"
+hash = "ef3a445e8084aa4cdc5efe8d3475e321aa87f663de84616ab4b9dfd5234e1377"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
