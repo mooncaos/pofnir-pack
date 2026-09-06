@@ -1,0 +1,13 @@
+name = "Create: Schematic Helper"
+filename = "createschematichelper-fabric-mc1.20.1-2.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vDsPXWBh/versions/DGTiUlhh/createschematichelper-fabric-mc1.20.1-2.0.3.jar"
+hash-format = "sha512"
+hash = "4d10ca2e7d9510283759f64f6e233d109866c5d9126e402065f12c9d366bbcd8e158a2e474e100e42e176b809895295336d578261cf379c8e95ad68e51146b64"
+
+[update]
+[update.modrinth]
+mod-id = "vDsPXWBh"
+version = "DGTiUlhh"

@@ -308,6 +308,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "f8360b219129d2524d5624b1aebde7a460269bbed7c9f6c4b86a6eda302d1449"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "52fa0ade62d5067c9c2fdb0cc70b7e0563ae1cce972ff8cfe47a1f7537b799df"
 metafile = true
@@ -320,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-schematic-upload.pw.toml"
+hash = "15db93acf1ff9a629e205a04a396a85c87cd7bebd57e6a5fc8422ff7c5b66ee2"
 metafile = true
 
 [[files]]
