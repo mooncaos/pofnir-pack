@@ -69,6 +69,14 @@ file = "datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_tec.json"
 hash = "4c85c48ec72ed4abe9bc4bb9ecf67bdc9024651b7ae9488ca3961e218dea9c77"
 
 [[files]]
+file = "datapacks/pofnir_dimensoes/data/pofnir/functions/construir_limiar.mcfunction"
+hash = "4cb73a115e9f73d3368b8132af756f489c76a340af8319fb029be6b2f805a04c"
+
+[[files]]
+file = "datapacks/pofnir_dimensoes/data/pofnir/functions/tour_eiffel.mcfunction"
+hash = "68c347b0b9dd84656eac89bf6e5c3a60de728216f4c8c1710d9a54a51678ff60"
+
+[[files]]
 file = "datapacks/pofnir_dimensoes/data/pofnir/worldgen/biome/auren.json"
 hash = "f2f3ce524998a9a67e26b79c84090217993668790ba56b0272b22a347f66a92a"
 
@@ -86,7 +94,7 @@ hash = "1d3f5839b083b232670dd19cb582262df29a35b39a8d77e80cc6e9d45c1a380c"
 
 [[files]]
 file = "datapacks/pofnir_dimensoes/pack.mcmeta"
-hash = "87f1a87d9f1a8d5fddc8bfbe3fce6513c7608e9383f514cdef6050801d9eac98"
+hash = "0fd1f8886d3eb7234bd973eaf4ded9e2ee98f1bf77977c40692c0c4d205fd289"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barreira/.gitkeep"
