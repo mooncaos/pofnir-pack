@@ -201,6 +201,10 @@ file = "docs/GARIMPO-CATALOGO-v1.md"
 hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
 [[files]]
+file = "docs/inventarios/INDEX.md"
+hash = "02b7ea310c9ad4c585dab603163028e786b13b17bb0e2e880bc64f6d116dc73e"
+
+[[files]]
 file = "docs/inventarios/ad-astra.md"
 hash = "f3df52c563985659909879664ed99305f01115a5b7505ec487233223fec97dfa"
 
@@ -227,6 +231,10 @@ hash = "ad0e3be015a543b662f35baa3327b0b6375ecb4508dcc7f29418fcc34e678444"
 [[files]]
 file = "docs/inventarios/botania.md"
 hash = "94aa7b2dad9a0f0e883530ab9acb9cd35c6e5b2b378c688b1ddb8675761069b2"
+
+[[files]]
+file = "docs/inventarios/cave-dweller-fabric.md"
+hash = "4d1467ed57549e667c2982bd2ada7e866a11293f1d4ef03271075a53496a135c"
 
 [[files]]
 file = "docs/inventarios/create-big-cannons.md"
@@ -311,6 +319,10 @@ hash = "700a00214ce576aa07b309512a830318b49c1ce09d52087d45bac524eafec65e"
 [[files]]
 file = "docs/inventarios/the-graveyard-fabric.md"
 hash = "f76bf47c0cb39ddedb9728c22ccf748196b657553e4ef52ad6a2f9bbfbb0fcd1"
+
+[[files]]
+file = "docs/inventarios/the-man-from-the-fog-fabric.md"
+hash = "0f36960a80e8a3016f2bd24611f1dcba3ea37fd8a6a839e8bf7a2838dea1bddb"
 
 [[files]]
 file = "docs/inventarios/wizards.md"
