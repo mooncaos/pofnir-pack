@@ -69,6 +69,10 @@ file = "datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_tec.json"
 hash = "4c85c48ec72ed4abe9bc4bb9ecf67bdc9024651b7ae9488ca3961e218dea9c77"
 
 [[files]]
+file = "datapacks/pofnir_dimensoes/data/pofnir/functions/construir_capital_medieval.mcfunction"
+hash = "4f99be16dffac0682c9367d5a57892a3dd2fd82ac764dee7926b23a0ff7808b9"
+
+[[files]]
 file = "datapacks/pofnir_dimensoes/data/pofnir/functions/construir_limiar.mcfunction"
 hash = "4cb73a115e9f73d3368b8132af756f489c76a340af8319fb029be6b2f805a04c"
 
@@ -101,36 +105,84 @@ file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barr
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barreira/marco_lanterna_dir.nbt"
+hash = "07f0155db489ca8c1546bfe37dd1fe160b6076c7dc6dc614b910cfe643dfd544"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barreira/marco_lanterna_esq.nbt"
+hash = "83ebbd5019a2c2500d75a886c6de4a3f1c020acf367f187c7f8e299bd8b789ce"
+
+[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/casa_dos_oficios/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/casa_dos_oficios/casa_dos_oficios.nbt"
+hash = "8d3f1d80506911504cbf9be74933296f359b778aba4fbc85e30cc99a8b7529de"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/marco_fratura/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/marco_fratura/capela_partida.nbt"
+hash = "ea74a3acb65c029a7f2b9839cc08a49a86e8b22b8887873a37d161af02cb02a4"
+
+[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/mercado/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/mercado/rua_do_mercado.nbt"
+hash = "8b8bd1ec895d8a5f757b19cea66ad5bbaa2618d3d14f8983a1c67cb2964ec840"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/mercado/torre_da_bruxa.nbt"
+hash = "b2a0a03ff0b8dc541f6487f5696fd224a5582ae0dcd9b947e26de2316e2b771c"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/pilar_aprimoramento/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/pilar_aprimoramento/claustro_ritual.nbt"
+hash = "7465a5fc69cab611ef44f59931f0d038db179d1a7497d7cf3915e565395c4ed6"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/pilar_aprimoramento/templo_do_fundamento.nbt"
+hash = "a961f3ac9cbb6c7ec0d33e1760d013a8e7b5ab7e1390a7adc79f40778f252773"
+
+[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/portal_limiar/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/portal_limiar/portal_do_limiar.nbt"
+hash = "56818b78694e6ae97ac81b35c390eb993f991cdccd6ca7b9dbecfbcca6eb44e4"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/praca_da_pedra/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/praca_da_pedra/altar_da_pedra.nbt"
+hash = "2a05706fc36eea47afea9ef4583dd2beb10afba85f301dfb321080083a584d25"
+
+[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/quadro_contratos/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 
 [[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/quadro_contratos/quadro_de_contratos.nbt"
+hash = "f23b2e61b8ffd3891e2f3399c61c00a9e59921970d86fe2ab6e3a43837b3782a"
+
+[[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/salao_da_origem/.gitkeep"
 hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/salao_da_origem/salao_da_origem.nbt"
+hash = "6288f048e9871b78aaa3744a2bd278512e9fb1fc11bd8d2dbd667b41900a2e08"
 
 [[files]]
 file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/barreira/.gitkeep"
@@ -207,6 +259,10 @@ hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
 [[files]]
 file = "datapacks/pofnir_estruturas/pack.mcmeta"
 hash = "3a809f812139d58d6c189d8cf162a8c0c260841f8ff7cb8514ca5ee419b45cd7"
+
+[[files]]
+file = "docs/CREDITOS.md"
+hash = "e7a5a5e47896d39143269b2c40c9d37ecb63a5a42d2b6251129b470dd18bd48e"
 
 [[files]]
 file = "docs/GARIMPO-CATALOGO-v1.md"
@@ -391,6 +447,10 @@ hash = "3b1093b622421a6824e4136a176e6f451a13557f237d02a2ac922801075269e3"
 [[files]]
 file = "docs/relatorios/ORDEM-005.md"
 hash = "aca30f82b03361312861692de029ea55c84e11b3f17ab97e5413d7bd5c1e0393"
+
+[[files]]
+file = "docs/relatorios/ORDEM-007.md"
+hash = "bb8994af5e228acd614c28652fca0feb5608cbd023e4c57947efb8aa4b3f13e1"
 
 [[files]]
 file = "kubejs/client_scripts/pilares_tooltip.js"
