@@ -160,15 +160,73 @@ ServerEvents.tick(event => {
   });
 });
 
-// ---- DECAIMENTO: dormir cura só o nível 1 ----
+// ---- O RITO DA SOMBRA (Ordem #011): saber que está marcado exige um gesto ----
+// Agachado + parado + olhando para baixo (pitch > 60°) por 60 ticks contínuos.
+// Interromper a pose zera a contagem. Cooldown de 30 s por jogador. Sem HUD, sem dica.
+const RITO_TICKS = 60;
+const RITO_COOLDOWN = 600;
+const NBT_RITO_T = 'pofnir_rito_t';
+const ritoContagem = {};   // nome -> ticks na pose
+const ritoUltimaPos = {};  // nome -> {x,y,z} do tick anterior
+
+const RITO_SOM = {
+  1: { som: 'minecraft:ambient.cave',             vol: 0.5, pitch: 0.6, onde: '^ ^ ^-6' },  // grave, longe
+  2: { som: 'minecraft:entity.warden.heartbeat',  vol: 0.8, pitch: 0.8, onde: '^ ^ ^-3' },  // mais perto, mais alto
+  3: { som: 'minecraft:entity.warden.nearby_closest', vol: 1.0, pitch: 0.7, onde: '^ ^ ^-1' } // opressivo, colado
+};
+
+function revelaSombra(s, p) {
+  const n = nivel(p);
+  const nome = nomeDe(p);
+  if (n === 0) {
+    p.tell(Component.literal('§7Apenas a sua sombra.'));
+  } else if (n === 1) {
+    p.tell(Component.literal('§8Ela se move quando você não olha. §7[Marca 1]'));
+  } else if (n === 2) {
+    p.tell(Component.literal('§8Ela está mais perto do que deveria. §7[Marca 2]'));
+  } else {
+    p.level.runCommandSilent(`title ${nome} times 10 70 20`);
+    p.level.runCommandSilent(`title ${nome} subtitle {"text":"[Marca 3]","color":"dark_gray"}`);
+    p.level.runCommandSilent(`title ${nome} title {"text":"Ela olha de volta.","color":"dark_gray"}`);
+    // segunda camada do som opressivo: a maldição, do outro lado
+    p.level.runCommandSilent(`execute as ${nome} at @s positioned ^ ^ ^2 run playsound minecraft:entity.elder_guardian.curse ambient ${nome} ~ ~ ~ 1.0 0.7`);
+  }
+  if (n > 0) {
+    const c = RITO_SOM[n];
+    p.level.runCommandSilent(`execute as ${nome} at @s positioned ${c.onde} run playsound ${c.som} ambient ${nome} ~ ~ ~ ${c.vol} ${c.pitch}`);
+  }
+  registra(s, p, 'rito da sombra', 'nivel ' + n);
+}
+
 PlayerEvents.tick(event => {
   const p = event.player;
-  if (p.sleeping && nivel(p) === 1) {
+  const nome = nomeDe(p);
+  const ant = ritoUltimaPos[nome];
+  const parado = ant && Math.abs(p.x - ant.x) < 0.001 && Math.abs(p.y - ant.y) < 0.001 && Math.abs(p.z - ant.z) < 0.001;
+  ritoUltimaPos[nome] = { x: p.x, y: p.y, z: p.z };
+  const pose = p.crouching && parado && p.xRot > 60 && !p.sleeping;
+  if (!pose) { ritoContagem[nome] = 0; return; }
+  ritoContagem[nome] = (ritoContagem[nome] || 0) + 1;
+  if (ritoContagem[nome] < RITO_TICKS) return;
+  ritoContagem[nome] = 0;
+  const s = event.server;
+  const ultimo = p.persistentData.getLong(NBT_RITO_T);
+  if (ultimo > 0 && s.tickCount - ultimo < RITO_COOLDOWN) return;
+  p.persistentData.putLong(NBT_RITO_T, s.tickCount);
+  revelaSombra(s, p);
+});
+
+// ---- DECAIMENTO: dormir cura só o nível 1; no 2+ a cama diz o porquê ----
+PlayerEvents.tick(event => {
+  const p = event.player;
+  if (p.sleeping) {
     if (!p.persistentData.getBoolean('pofnir_dormindo')) {
       p.persistentData.putBoolean('pofnir_dormindo', true);
-      setNivel(p, 0);
+      const n = nivel(p);
+      if (n === 1) setNivel(p, 0);
+      else if (n >= 2) p.tell(Component.literal('§8Você tenta descansar. Algo não deixa. §7[Marca ' + n + ']'));
     }
-  } else if (!p.sleeping) p.persistentData.putBoolean('pofnir_dormindo', false);
+  } else p.persistentData.putBoolean('pofnir_dormindo', false);
 });
 
 // ---- MORTE: a Marca sobrevive ----

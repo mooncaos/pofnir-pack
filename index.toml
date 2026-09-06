@@ -13,6 +13,22 @@ file = "config/man/mod_version.json"
 hash = "f745970802298e92392f0c35d5de651d0c0cb877e1953447d78435b933fee5d3"
 
 [[files]]
+file = "config/paxi/datapacks/pofnir_calibracao/data/minecraft/tags/functions/load.json"
+hash = "7420e164d19d242089e93f74e482a9842c225228adfb7a54d3f7ff3e7d4a755e"
+
+[[files]]
+file = "config/paxi/datapacks/pofnir_calibracao/data/pofnir_calibracao/functions/aplicar.mcfunction"
+hash = "4d12e84f7f78009d82ef03d216ab1167b1fb97f3197b475bc9626828ebc57b8c"
+
+[[files]]
+file = "config/paxi/datapacks/pofnir_calibracao/data/pofnir_calibracao/functions/calibrar.mcfunction"
+hash = "d86ee91f428f6a1d5cb40a45361875f7eb5376a1f53e5c3e801d8d224ee095e9"
+
+[[files]]
+file = "config/paxi/datapacks/pofnir_calibracao/pack.mcmeta"
+hash = "d195db17e6eacc36d04768e4bab3ca83051d3b013feb2a2cc6da515cf59435d4"
+
+[[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension/auren.json"
 hash = "a76875957ad079c1aeec58f473cf4ed047158a1c0dbfdaddd6c406f3252ea088"
 
@@ -142,7 +158,7 @@ hash = "00151976e01f235c08e9441b6a0888d8ceb432206f7b1c9ea189152a15436dbd"
 
 [[files]]
 file = "kubejs/server_scripts/marca_presenca.js"
-hash = "aa5caccf76e6fa72d2a8bcf6de9440b65853a4939e73bfd9a8270fd406e4d6de"
+hash = "126cc8a6151eea720d1f3140153b6f47533f8eade309d1f04b66c3d02b9b2f09"
 
 [[files]]
 file = "kubejs/server_scripts/pilares_aplicacao.js"
