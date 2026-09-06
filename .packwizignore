@@ -8,6 +8,7 @@ docs/**
 *.bat
 CLAUDE.md
 README.md
+MUDANCAS.md
 
 # CI e metadados do git
 release.yml
