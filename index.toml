@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
-hash = "a84f0d259e730cf0b94c31d4487960f892c1365847f20618fe25fdeb1135ae6b"
+hash = "9fbebe8e7d4a7cf4f44e6f88856510a02920038b354747bf01d1cf6cbb3f84aa"
 metafile = true
 
 [[files]]
@@ -650,11 +650,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
-metafile = true
-
-[[files]]
-file = "mods/perspective-api.pw.toml"
-hash = "10912f658d988b8b162f21c420f56405483cc93539f1a177d5dce945b843e490"
 metafile = true
 
 [[files]]
