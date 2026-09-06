@@ -1,5 +1,5 @@
 # POFNIR: o que e da empresa (repo) nao vai para a maquina do jogador.
-# Sintaxe .gitignore (packwiz). Distribuidos ficam: config/, kubejs/, datapacks/, mods/.
+# Sintaxe .gitignore (packwiz). Distribuidos ficam: config/ (inclui config/paxi/datapacks), kubejs/, mods/.
 
 # documentacao de design e relatorios
 docs/**
