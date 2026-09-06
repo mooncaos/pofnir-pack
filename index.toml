@@ -192,6 +192,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "6954afeb8bcf18a71cf02dad3ce414cae8940876602fc1239696b9282a554618"
 metafile = true
@@ -259,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "ade96e54f3cc61a9a64356f522f8527f15a20518fe9a782229af7423358fc017"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
 
 [[files]]
@@ -382,6 +392,11 @@ hash = "d02f8f8da843ad46aa1dfa9967d8fbcfd363d9b0240aec31366ed390122ee369"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "14928fc886939401440a2e39b2cfb64cf8defbe1ea495548f163b8216220aec0"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "45f59d9033937ce20492d1925d8851dcff4e16a395c950517ce8b4b903004a1c"
 metafile = true
@@ -447,6 +462,11 @@ hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
@@ -492,6 +512,11 @@ hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "8a786b5c9b67df34894f944708f722ef3ade67ea3c3aa4997144314c26f847f7"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
@@ -499,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f0302803c0685ab563b11e93b7bda534681b8c1a7b67dd0431e18c9df645bf9d"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true
 
 [[files]]
@@ -529,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "37f308fca7e65c484d8906bb9d20f2d4b21d7077ebfd9fa182db85460e55b678"
 metafile = true
 
 [[files]]
@@ -707,6 +742,11 @@ hash = "946a4e0ac4039f9ed1ee99de0d59a058fe131ee6736716e32b7d72a46dfa1453"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
+metafile = true
+
+[[files]]
 file = "mods/tacz-refabricated.pw.toml"
 hash = "28f81a755c6b815e7d452fad9b2cf6c37eb94787f8905a323c03124dcea21186"
 metafile = true
@@ -769,6 +809,11 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "810c63c5de675c9cb2f29c4e63231ae4d35d83f906d3279ac5c7a83132fe387c"
 metafile = true
 
 [[files]]
