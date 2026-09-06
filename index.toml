@@ -206,7 +206,7 @@ hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
 [[files]]
 file = "docs/inventarios/INDEX.md"
-hash = "02b7ea310c9ad4c585dab603163028e786b13b17bb0e2e880bc64f6d116dc73e"
+hash = "ef6627a094958e0308d841d870d276c51d8a19bf022c083082d62482043dfaa3"
 
 [[files]]
 file = "docs/inventarios/ad-astra.md"
@@ -353,12 +353,32 @@ file = "docs/pofnir-profissoes-v1.md"
 hash = "e5dcda96fb695ee95afc97a1fdaf479f9ac2f5c25d76ade232fc39a664d87a16"
 
 [[files]]
+file = "docs/relatorios/ORDEM-004.md"
+hash = "3b1093b622421a6824e4136a176e6f451a13557f237d02a2ac922801075269e3"
+
+[[files]]
+file = "kubejs/client_scripts/pilares_tooltip.js"
+hash = "9e359d40e970f1f84d747dd3fe366471888ac6fa3bb5fd9e0a7a417bc32bfbe5"
+
+[[files]]
 file = "kubejs/server_scripts/censo_auren.js"
 hash = "00151976e01f235c08e9441b6a0888d8ceb432206f7b1c9ea189152a15436dbd"
 
 [[files]]
 file = "kubejs/server_scripts/marca_presenca.js"
 hash = "ef3a445e8084aa4cdc5efe8d3475e321aa87f663de84616ab4b9dfd5234e1377"
+
+[[files]]
+file = "kubejs/server_scripts/pilares_aplicacao.js"
+hash = "5d3905abcd1f549caae8f7bc1b6066b0f3dad43dccc5abe9dab4f3c2909a37b5"
+
+[[files]]
+file = "kubejs/server_scripts/pilares_receitas.js"
+hash = "f6a178ff810718ab6c61b7e9443a541791847176427c9fa5e25c7eceb641ebb9"
+
+[[files]]
+file = "kubejs/startup_scripts/pofnir_selos.js"
+hash = "94fb3317b48c78fc053dc88be4b9129a516af2820bedce609e5c6f92c9f1c364"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

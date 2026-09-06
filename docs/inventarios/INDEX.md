@@ -31,7 +31,7 @@ proposta:** nada aqui é sugestão de design.
 | Mod | Itens | Blocos | Entid. | Destaques |
 |---|---|---|---|---|
 | [Bewitchment](bewitchment.md) | 102 | 336 | 23 | 4 bosses declarados (`baphomet`, `herne`, `leonard`, `lilith`); **25 rituais**, 13 maldições, 48 receitas de caldeirão, 7 incensos, 6 óleos; 27 efeitos |
-| [Enchanted](enchanted-witchcraft.md) | 100 | 63 | 5 | registro próprio `data/enchanted/enchanted/`: **45 ritos de círculo mágico** + 3 formatos de círculo, 61 receitas de altar |
+| [Enchanted](enchanted-witchcraft.md) | 100 | 63 | 5 | registro próprio `data/enchanted/enchanted/`: **45 ritos de círculo mágico** + 3 formatos de círculo, 61 entradas de configuração de altar (blocos/tags/upgrades — não são receitas) |
 | [Botania](botania.md) | 299 | 675 | 19 | maior acervo de blocos do pack; 62 tags de item e 48 de bloco próprias |
 | [Eldritch End](eldritch-end.md) | 21 | 77 | 9 | 8 das 9 entidades hostis; 2 magias Spell Engine (`arcane_laser`, `arcane_missile`); 2 biomas; material próprio (Etyr) com minério, lingote e armadura |
 
