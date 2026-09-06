@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "77ff1432123c57983a848a27047a265ddf10d3a76a17c7c9b2dd7e77a042d711"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fa452a59656b8a86e2250fdf9a08eeb3c05741794022a38248114fc838e7462"
+hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
 metafile = true
 
 [[files]]
