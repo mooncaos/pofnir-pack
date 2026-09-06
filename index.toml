@@ -166,7 +166,7 @@ hash = "5d3905abcd1f549caae8f7bc1b6066b0f3dad43dccc5abe9dab4f3c2909a37b5"
 
 [[files]]
 file = "kubejs/server_scripts/pilares_receitas.js"
-hash = "f6a178ff810718ab6c61b7e9443a541791847176427c9fa5e25c7eceb641ebb9"
+hash = "1e76aef44238a28bc48e548d12e1d262af1793bf6b0d2ecffdb36e7814a777f8"
 
 [[files]]
 file = "kubejs/startup_scripts/pofnir_selos.js"

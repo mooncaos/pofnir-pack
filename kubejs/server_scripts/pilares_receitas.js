@@ -129,19 +129,19 @@ ServerEvents.recipes(event => {
 
   event.shapeless(
     Item.of('minecraft:iron_sword', '{display:{Name:\'{"text":"Sua arma + Selo do Rito","italic":false,"color":"light_purple"}\'}}'),
-    ['pofnir:selo_do_rito', TAG_ARMA]
-  ).modifyResult((grid, result) => grava(grid, TAG_ARMA, NBT_RITO))
+    ['pofnir:selo_do_rito', '#' + TAG_ARMA]
+  ).modifyResult((grid, result) => grava(grid, '#' + TAG_ARMA, NBT_RITO))
    .id('pofnir:aplicar_selo_do_rito');
 
   event.shapeless(
     Item.of('minecraft:iron_chestplate', '{display:{Name:\'{"text":"Sua armadura + Selo Temperado","italic":false,"color":"gold"}\'}}'),
-    ['pofnir:selo_temperado', TAG_ARMADURA]
-  ).modifyResult((grid, result) => grava(grid, TAG_ARMADURA, NBT_TEMPERA))
+    ['pofnir:selo_temperado', '#' + TAG_ARMADURA]
+  ).modifyResult((grid, result) => grava(grid, '#' + TAG_ARMADURA, NBT_TEMPERA))
    .id('pofnir:aplicar_selo_temperado');
 
   event.shapeless(
     Item.of('minecraft:iron_pickaxe', '{display:{Name:\'{"text":"Sua arma + Chip Modular","italic":false,"color":"aqua"}\'}}'),
-    ['pofnir:chip_modular', TAG_ARMA]
-  ).modifyResult((grid, result) => grava(grid, TAG_ARMA, NBT_MODULAR))
+    ['pofnir:chip_modular', '#' + TAG_ARMA]
+  ).modifyResult((grid, result) => grava(grid, '#' + TAG_ARMA, NBT_MODULAR))
    .id('pofnir:aplicar_chip_modular');
 });
