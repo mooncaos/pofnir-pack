@@ -69,6 +69,114 @@ file = "datapacks/pack.mcmeta"
 hash = "77c6529217c40004e169ce16e4f0a0d6a95b872502d283ca4a401e75994bb6ee"
 
 [[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/barreira/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/casa_dos_oficios/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/marco_fratura/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/mercado/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/pilar_aprimoramento/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/portal_limiar/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/praca_da_pedra/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/quadro_contratos/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_medieval/salao_da_origem/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/barreira/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/casa_dos_oficios/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/marco_fratura/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/mercado/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/pilar_aprimoramento/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/portal_limiar/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/praca_da_pedra/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/quadro_contratos/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_steampunk/salao_da_origem/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/barreira/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/casa_dos_oficios/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/marco_fratura/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/mercado/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/pilar_aprimoramento/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/portal_limiar/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/praca_da_pedra/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/quadro_contratos/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
+file = "datapacks/pofnir_estruturas/data/pofnir/structures/capital_tec/salao_da_origem/.gitkeep"
+hash = "d4d98b29461a2015e1d9e049ac1bdec91c7b80cb7da9a05216a15cc6b6254093"
+
+[[files]]
 file = "docs/GARIMPO-CATALOGO-v1.md"
 hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
