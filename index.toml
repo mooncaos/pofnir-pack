@@ -13,6 +13,10 @@ file = "adicionar-mods.bat"
 hash = "d837c8c6e17668d15c786af7d59d39686682579361289817462cf16a1a5192c7"
 
 [[files]]
+file = "atualizar.bat"
+hash = "c4987aa7df6c7f31427c51bf8998908a96a0c2957c7b68d5e0c58fcf0e8d8325"
+
+[[files]]
 file = "datapacks/pofnir_dimensoes.zip"
 hash = "2f5cf639b0c037ae944ac1823e8d0101cc6a5596ce97a8673bf0bd654065c53d"
 
@@ -157,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "52fa0ade62d5067c9c2fdb0cc70b7e0563ae1cce972ff8cfe47a1f7537b799df"
 metafile = true
 
 [[files]]
@@ -447,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/rogues-and-warriors.pw.toml"
 hash = "eb0f42ccd89fea2e97f49ac596c719dd22d62e6525e7f0ae7ac5ce7f637da862"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "8283001de6699f5d588e4f0105e4e0e38b26ecde6cccf372372c1f0e698275c2"
 metafile = true
 
 [[files]]
