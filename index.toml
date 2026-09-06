@@ -17,6 +17,10 @@ file = "atualizar.bat"
 hash = "c4987aa7df6c7f31427c51bf8998908a96a0c2957c7b68d5e0c58fcf0e8d8325"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "6af48e2a788ed3ccc9fc97dd7823cfe5f883ffb0a67655e76f5e2763eb2388d9"
+
+[[files]]
 file = "datapacks/data/pofnir/dimension/auren.json"
 hash = "a76875957ad079c1aeec58f473cf4ed047158a1c0dbfdaddd6c406f3252ea088"
 

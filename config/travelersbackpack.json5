@@ -1,0 +1,22 @@
+{
+	// POFNIR Pack — Traveler's Backpack
+	// Integração Trinkets ATIVA: a mochila ocupa o slot de costas dos acessórios,
+	// liberando o slot de peito para armadura (decisão de infraestrutura de inventário).
+	"client": {
+		"overlay": {
+			"enableOverlay": true,
+			"offsetX": 20,
+			"offsetY": 30
+		},
+		"disableBackpackRender": false,
+		"obtainTips": true
+	},
+	"common": {
+		"backpackDeathPlace": true,
+		"enableBackpackBlockWearable": true,
+		"invulnerableBackpack": true,
+		"trinketsIntegration": true,
+		"enableSleepingBagSpawnPoint": true,
+		"nightmareMode": false
+	}
+}
