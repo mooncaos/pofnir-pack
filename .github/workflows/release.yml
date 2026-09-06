@@ -1,0 +1,20 @@
+name: Release mrpack
+on:
+  push:
+    tags: [ "v*" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar packwiz
+        run: |
+          curl -L -o packwiz https://github.com/packwiz/packwiz/releases/latest/download/packwiz-linux-amd64 || \
+          (curl -L -o pw.zip $(curl -s https://api.github.com/repos/packwiz/packwiz/releases/latest | grep browser_download_url | grep linux | grep amd64 | cut -d '"' -f4) && unzip pw.zip)
+          chmod +x packwiz
+      - name: Exportar mrpack
+        run: ./packwiz modrinth export
+      - name: Anexar na release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "*.mrpack"
