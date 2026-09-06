@@ -5,6 +5,10 @@ file = ".github/workflows/release.yml"
 hash = "a329b4051df0bda084b05c08055e82ee5d2e8ba8e9787b4ba7ce6a0da7b340ed"
 
 [[files]]
+file = "CLAUDE.md"
+hash = "59adbeafaf34139841813a6b7d03e913642781cf4e10b0912a14be4f8dac9f5b"
+
+[[files]]
 file = "README.md"
 hash = "071f1fe2356dd0bb4683b50f5e989d3c1dbd55b535204ac66d375da9dd875eb8"
 
@@ -240,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+hash = "77ff1432123c57983a848a27047a265ddf10d3a76a17c7c9b2dd7e77a042d711"
 metafile = true
 
 [[files]]
@@ -339,6 +343,11 @@ hash = "52fa0ade62d5067c9c2fdb0cc70b7e0563ae1cce972ff8cfe47a1f7537b799df"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -366,6 +375,21 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "e19d7296a530e9489f08a72fd03bc86ead52c45cac5e84a791679a34f3bd1fd3"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "3d33697dddf68fd2aa012ee8acd1668a812b8f5586611e1de178e787ca02d819"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "991b7cb1d7ee1b3de1b8aa925b0bda211ef9d93d52f2cbe031834a52826cfc85"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "97374e09f4190efab29f3e748d26f23f5a26222e28f0b281d87b64108efac034"
 metafile = true
 
 [[files]]
@@ -425,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
+hash = "3fa452a59656b8a86e2250fdf9a08eeb3c05741794022a38248114fc838e7462"
 metafile = true
 
 [[files]]
@@ -456,6 +480,21 @@ metafile = true
 [[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "c7a7385b0e5276a080ac0a005ddb7d8ca030db0995c512a1f2c0a61f8150c9ac"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "091221c6453cf4cb8ad0bb84d48544290ebe05800a92bc4453345ddc295b92c5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "8c2e6738d318980533ea582b51249f2bd3313eff1f5d1ca06766dc7bda1f89fe"
 metafile = true
 
 [[files]]
@@ -571,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "eaa38d6d245d73e9c6ce9fefba8115687736027c8100ca48d1ae3306a6366b1c"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "329335dea58d3cd0b4adbf14a62b7b09dc94d3e1823a01a2701ecfe87a722ffa"
 metafile = true
 
 [[files]]
@@ -761,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "419eef46a9dcaa8e79c830d7f146e5c4cabe52e10a6f12011a7302557a51924f"
 metafile = true
 
 [[files]]
