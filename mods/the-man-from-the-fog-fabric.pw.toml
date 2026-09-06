@@ -1,0 +1,13 @@
+name = "The Man From The Fog - Fabric"
+filename = "TheManFromTheFog-1.1.1+fabric.mc.1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/118OmVLd/versions/8hRVUj9Y/TheManFromTheFog-1.1.1%2Bfabric.mc.1.20.1.jar"
+hash-format = "sha512"
+hash = "2c36ebeba2a71c2c0bc158deec6cdbeeddaf8faa324301b8ed29b776cb9d71f0ef8cb658d684bf2897d411ee5cb1bd8e08b1766b27e52df20ef7947f2efda312"
+
+[update]
+[update.modrinth]
+mod-id = "118OmVLd"
+version = "8hRVUj9Y"

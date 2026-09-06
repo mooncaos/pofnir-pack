@@ -1,0 +1,13 @@
+name = "Cave Dweller Fabric"
+filename = "cavedweller-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cChd25Tw/versions/qIrI7qcp/cavedweller-1.3.0.jar"
+hash-format = "sha512"
+hash = "495b60640f95e76811ede305534c082d3a0faafa4d3ebc005d39e36341f2b457ca05af3b063604ba6ae93f096dee3e9f2fde6d398d7bd739acf6d870d4da7834"
+
+[update]
+[update.modrinth]
+mod-id = "cChd25Tw"
+version = "qIrI7qcp"

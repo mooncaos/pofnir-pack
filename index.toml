@@ -144,6 +144,11 @@ hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
 
 [[files]]
+file = "mods/cave-dweller-fabric.pw.toml"
+hash = "946c7b4ef0aa99a01ea78824c8afb0f3d15aa316200570cf42d8ed98e98f7761"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -546,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "bd31e70accc06b28c16c83cc021ca715c853aed78565b58be3c269c17de6730c"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog-fabric.pw.toml"
+hash = "deb57400bbf420f5c08198a75ded1a3f6418cbe5ca3e1fd1584d759efe019c1d"
 metafile = true
 
 [[files]]
