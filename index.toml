@@ -201,6 +201,30 @@ file = "docs/GARIMPO-CATALOGO-v1.md"
 hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
 [[files]]
+file = "docs/inventarios/bewitchment.md"
+hash = "4276e0a05c1f358abba3144ed7f497d25a29a072dd120287426cdccfaf6d8427"
+
+[[files]]
+file = "docs/inventarios/botania.md"
+hash = "98421abfa29cf95049962e5700873cf0bf4b73830357da9aae5abedd215b9a22"
+
+[[files]]
+file = "docs/inventarios/eldritch-end.md"
+hash = "5ff69d4c30d1707931d345a954002108ed26b6c132b30e66d33dca8f8d8c4cce"
+
+[[files]]
+file = "docs/inventarios/eldritch-mobs.md"
+hash = "90627ec2d79922f3df91cab09f600a06fdb5de2a5365049a253975c6e2030021"
+
+[[files]]
+file = "docs/inventarios/enchanted-witchcraft.md"
+hash = "4b4482c4f6338408a40c0a0eb9846b9c01d7c51a158ead802316776d0ae0315c"
+
+[[files]]
+file = "docs/inventarios/from-the-fog.md"
+hash = "99456858b1e7e294a7c96fcaec0b4b212b4d4a388a89ee1b2f12ccbafe8b02ac"
+
+[[files]]
 file = "docs/pofnir-cidades-v1.md"
 hash = "27a1c6fb5f9f3c2e461bca1219b539703e85bca2ade1e37cb38de6154be11ebb"
 
