@@ -205,6 +205,14 @@ file = "docs/GARIMPO-CATALOGO-v1.md"
 hash = "b5c0227761a56680ef4f29ea83da64bf67631a93734284ce8697c75142c50cf0"
 
 [[files]]
+file = "docs/curva/magias.md"
+hash = "9a47e6fbc9905f317bf0765276a38ce39601c3e834c97f76f33dc9c713b32b15"
+
+[[files]]
+file = "docs/curva/tacz-armas.md"
+hash = "f5a7af35199b14368c9e1100a3a69ec3a830a837cfe6909b41b50a9c4d5dce0a"
+
+[[files]]
 file = "docs/inventarios/INDEX.md"
 hash = "ef6627a094958e0308d841d870d276c51d8a19bf022c083082d62482043dfaa3"
 
