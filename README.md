@@ -27,7 +27,7 @@
 ## Estrutura
 - `pack.toml` / `index.toml` — manifesto packwiz
 - `mods/` — um `.pw.toml` por mod (gerados pelo script; jars nunca ficam aqui)
-- `kubejs/`, `config/`, `datapacks/` — a forja POFNIR (nosso conteúdo)
+- `kubejs/`, `config/` (inclui `config/paxi/datapacks/`, os datapacks que o Paxi injeta em todo mundo) — a forja POFNIR (nosso conteúdo)
 - `adicionar-mods.bat` — instalador da lista âncora
 - `.github/workflows/release.yml` — mrpack automático por tag
 

@@ -24,8 +24,8 @@ completa de design em `docs/` — leia `docs/pofnir-master-v1.md` antes de taref
 - `pack.toml` / `index.toml` / `mods/*.pw.toml` — manifesto packwiz (jars nunca ficam aqui)
 - `config/` — configs que o pack distribui
 - `kubejs/server_scripts/` — a forja autoral (Censo de Auren, futura Marca da Presença)
-- `datapacks/pofnir_dimensoes/` — as 4 dimensões custom
-- `datapacks/pofnir_estruturas/data/pofnir/structures/<capital>/<órgão>/` — 27 gavetas
+- `config/paxi/datapacks/pofnir_dimensoes/` — as 4 dimensões custom (injetado em todo mundo pelo Paxi)
+- `config/paxi/datapacks/pofnir_estruturas/data/pofnir/structures/<capital>/<órgão>/` — 27 gavetas
   para estruturas das 3 capitais (9 órgãos Vaaz cada)
 - `docs/` — cânone e design (nunca edite sem ordem)
 - `adicionar-mods.bat`, `atualizar.bat`, `criar_estruturas.bat` — scripts do Moon
