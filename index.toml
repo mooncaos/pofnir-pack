@@ -166,35 +166,35 @@ hash = "3a809f812139d58d6c189d8cf162a8c0c260841f8ff7cb8514ca5ee419b45cd7"
 
 [[files]]
 file = "config/pofnir/dimensions/era_medieval/region/r.-1.-1.mca"
-hash = "229f2b1864188563041ee55e13f4a04c8093f6cf26d0c049f395f2ec492bd1cd"
+hash = "95b6c1941694bcf210b89e1a63d509ee78c3aa7c156eee522df6d8f6401a615e"
 
 [[files]]
 file = "config/pofnir/dimensions/era_medieval/region/r.-1.0.mca"
-hash = "bf4f79441e011c96a4d3cda9db02b395f65aca16ed77c568ffacf09fbf9f5ef7"
+hash = "4dbda9911ad956071fe4ed9dda1672706ef445abddd954209d9cac28d2213d39"
 
 [[files]]
 file = "config/pofnir/dimensions/era_medieval/region/r.0.-1.mca"
-hash = "d5b28d0dbaa1d1ddcea92cad0a2bde8a5079563062c4328b8a9e0d06e3f84581"
+hash = "eff7722be81ba135669a355e0d9b603ac51748a37b788e54c73a9dcc69d7ae4b"
 
 [[files]]
 file = "config/pofnir/dimensions/era_medieval/region/r.0.0.mca"
-hash = "e632d5f85f28a92b451a1f2c6bfde500066982528ccb0098b0c66ac47bb1289a"
+hash = "be5f532ce1005e4b9ecdbd1100fdbadad219d3b3ffe560e8247beb1571d978ff"
 
 [[files]]
 file = "config/pofnir/dimensions/era_steampunk/region/r.-1.-1.mca"
-hash = "5e06de6e5bbb51e9923ca704b03fe57afd8cd8ccd67f3fc0a784725db2003b90"
+hash = "f4f6b80007e9c8b95ffa90c5ce9a05576eed422ab6ae1a4b5dc72d6602bb04d2"
 
 [[files]]
 file = "config/pofnir/dimensions/era_steampunk/region/r.-1.0.mca"
-hash = "429da12d08e7f38813a9d0adbad37332842f11f6358f4e5d6e8a07979f2ca25e"
+hash = "286a93b0b6a6b9c5f3971514a3ba46257bcb63be7f6554063ebafbb4b1b5e8ae"
 
 [[files]]
 file = "config/pofnir/dimensions/era_steampunk/region/r.0.-1.mca"
-hash = "91a6d5169fe3b152627f5d4603dc6526024fc687dd50c9b00bef886c0a5955d8"
+hash = "dfcc9414090d6417c6aa13589aef69d752d7847cd9c3fcf3135d4dbcc27d110d"
 
 [[files]]
 file = "config/pofnir/dimensions/era_steampunk/region/r.0.0.mca"
-hash = "89604f01629d677391a7dc6f0e5e1f638d395746437c5bdb94247e9454c969a1"
+hash = "15abfc94ca23e99a254ca6247d14450b9b99f785bf5af8eb996b5b362b89eeb6"
 
 [[files]]
 file = "config/travelersbackpack.json5"
@@ -211,6 +211,10 @@ hash = "9e359d40e970f1f84d747dd3fe366471888ac6fa3bb5fd9e0a7a417bc32bfbe5"
 [[files]]
 file = "kubejs/server_scripts/censo_auren.js"
 hash = "00151976e01f235c08e9441b6a0888d8ceb432206f7b1c9ea189152a15436dbd"
+
+[[files]]
+file = "kubejs/server_scripts/chegada.js"
+hash = "da032f45b8ab495bc69675d848dfa88888738fbf2f4094e805a76b12a0c71fb9"
 
 [[files]]
 file = "kubejs/server_scripts/forja_automatica.js"
