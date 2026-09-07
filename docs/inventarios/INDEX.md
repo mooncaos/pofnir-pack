@@ -89,6 +89,18 @@ configs está registrado em cada arquivo.
 | [Cave Dweller](cave-dweller-fabric.md) | 1 | 1 | config owo de 23 chaves; `SPAWN_CHANCE_PER_TICK` é o único caminho de spawn natural |
 | [From The Fog](from-the-fog.md) | 0 | 0 | **não registra nada**: 340 funções, 111 advancements, 39 estruturas, 26 skins, 35 opções de config em scoreboard. O Herobrine é armor stand com tag |
 
+## Sistemas de jogo (Ordem #016 — Lei do Inventário Imediato)
+
+Pela Lei 5 do `CLAUDE.md`, cada mod novo entra com censo de conteúdo aqui e lista de
+blocos em `blocos/<slug>.md`, na mesma ordem de instalação.
+
+| Mod | Itens | Blocos | Entid. | Destaques |
+|---|---|---|---|---|
+| [You're in Grave Danger](yigd.md) · [blocos](blocos/yigd.md) | 3 | 1 | 0 | o túmulo (`yigd:grave`), 2 encantamentos (`soulbound`, `death_sight`), 186 chaves de config em 11 seções; calibração canônica em `config/yigd.json` |
+| [FTB Chunks](ftb-chunks-fabric.md) · [blocos](blocos/ftb-chunks-fabric.md) | 0 | 0 | 0 | sistema puro: claims, force-load, mapa; 6 tags de controle, 14 propriedades de time, 5 teclas |
+| [FallingTree](fallingtree.md) · [blocos](blocos/fallingtree.md) | 0 | 0 | 0 | 40 chaves de config em 5 grupos; 6 encantamentos Chopper desligados por padrão |
+| [Neat](neat.md) · [blocos](blocos/neat.md) | 0 | 0 | 0 | client-only; barras de vida por 4 mixins; 27 campos de config, 1 tecla |
+
 ## O que ficou de fora
 
 - **Receitas de crafting comuns** — só o agrupamento por subsistema entrou (rituais,

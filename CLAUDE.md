@@ -19,6 +19,10 @@ completa de design em `docs/` — leia `docs/pofnir-master-v1.md` antes de taref
    devem ter spawn natural DESLIGADO por config. Nunca ative spawn deles.
 4. **Balanceamento:** nunca altere stats/receitas sem ordem explícita (Curva Mestra é
    decidida na diretoria).
+5. **Lei do Inventário Imediato:** todo mod novo que entrar no manifesto tem seu
+   inventário gerado NA MESMA ordem de instalação (blocos em `docs/inventarios/blocos/`,
+   conteúdo relevante em `docs/inventarios/`), sem exceção. Mod sem inventário é
+   instalação incompleta.
 
 ## Estrutura
 - `pack.toml` / `index.toml` / `mods/*.pw.toml` — manifesto packwiz (jars nunca ficam aqui)
