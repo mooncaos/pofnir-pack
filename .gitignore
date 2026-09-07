@@ -1,0 +1,9 @@
+# Binarios e executaveis nao entram no repo (a ferramenta vive na maquina)
+*.exe
+*.dll
+*.jar
+
+# lixo de sistema/editor
+Thumbs.db
+.DS_Store
+*.log

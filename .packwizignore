@@ -19,3 +19,6 @@ release.yml
 
 # marcadores de pasta vazia (gavetas das capitais)
 .gitkeep
+
+# binarios locais
+*.exe
