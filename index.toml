@@ -81,6 +81,10 @@ file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/construir_l
 hash = "4cb73a115e9f73d3368b8132af756f489c76a340af8319fb029be6b2f805a04c"
 
 [[files]]
+file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/giz_highgarden.mcfunction"
+hash = "45b0dbbca4a85e70e581bd78bedfe272237ab2f3de79ad1607f518da4dab3130"
+
+[[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/tour_eiffel.mcfunction"
 hash = "68c347b0b9dd84656eac89bf6e5c3a60de728216f4c8c1710d9a54a51678ff60"
 
