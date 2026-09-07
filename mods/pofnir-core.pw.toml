@@ -3,6 +3,6 @@ filename = "pofnir-core-0.1.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/mooncaos/pofnir-pack/releases/download/pofnir-core-0.1.0/pofnir-core-0.1.0.jar"
+url = "https://raw.githubusercontent.com/mooncaos/pofnir-pack/main/bin/pofnir-core-0.1.0.jar"
 hash-format = "sha512"
 hash = "814f466a955a4225341a1c1b74f33fb04e8fd85f8aea91dc01e42110264834bfb8a7739b695915706f6fad633ac48c786fa61470ead2c30749cb1530a63ccdf2"

@@ -22,3 +22,6 @@ release.yml
 
 # binarios locais
 *.exe
+
+# binarios do nucleo: baixados pelo pw.toml, nao indexados como arquivo do pack
+bin/**

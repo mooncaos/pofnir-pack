@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/pofnir-core.pw.toml"
-hash = "e68aef6b6172a771a7160283087769b14ada9520aa4f0d6e8d4100f1b2b30228"
+hash = "d822bc0f49e869891d0265f8e49146afb0db895ecba848cd04417a19b04af0a5"
 metafile = true
 
 [[files]]

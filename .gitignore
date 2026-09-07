@@ -10,3 +10,6 @@ Thumbs.db
 
 # copias locais de estudo (Ordem #017): nunca versionar
 docs/referencias/escolas/_local/
+
+# o nucleo viaja no proprio repo (Ordem #020b)
+!bin/*.jar
