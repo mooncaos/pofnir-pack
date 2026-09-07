@@ -85,10 +85,6 @@ file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/tour_eiffel
 hash = "68c347b0b9dd84656eac89bf6e5c3a60de728216f4c8c1710d9a54a51678ff60"
 
 [[files]]
-file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/ward_highgarden.mcfunction"
-hash = "c65ce490b11b1781b4d56456114ae37df8c8b5374243cf66ae47a21c22c0064e"
-
-[[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/worldgen/biome/auren.json"
 hash = "f2f3ce524998a9a67e26b79c84090217993668790ba56b0272b22a347f66a92a"
 
@@ -166,7 +162,7 @@ hash = "a3c1b438c50f8b2cd5a8b6e600293212608a6861ac723b8a48e4d996a3312978"
 
 [[files]]
 file = "config/worldedit/schematics/highgarden.schem"
-hash = "64bde31a4c54d5ee5c974310a6b4006f53e6a4d6d1fd000636b2a05c1f253085"
+hash = "2c1a704e9ec8a7b8c698011dd494e5b6389b22a42bc04e9edf47b9c93bd42fbd"
 
 [[files]]
 file = "config/yigd.json"
