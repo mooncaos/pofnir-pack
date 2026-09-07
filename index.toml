@@ -66,7 +66,7 @@ hash = "a28c50b583db0e5d7ccdd9624b7aaf2d45afd52fe97ad8dacae4ff95f84eb719"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/capital_etapa2.mcfunction"
-hash = "f2139ee1fe08c84e56e20d4d6a7833c3c8983f7443b78d26d6eefa5d4c714003"
+hash = "091e5775cf4c73ad1360cd980cff65c0b12c47442fd9d54f6a618daaad26bbfd"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/construir_capital_medieval.mcfunction"
