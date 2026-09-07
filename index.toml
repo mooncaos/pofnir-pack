@@ -161,6 +161,10 @@ file = "config/travelersbackpack.json5"
 hash = "a3c1b438c50f8b2cd5a8b6e600293212608a6861ac723b8a48e4d996a3312978"
 
 [[files]]
+file = "config/worldedit/schematics/highgarden.schem"
+hash = "9177e00e629bf5c4bec7c2e69b0694a0a39466acc2efcf1278bd4b9cb312f818"
+
+[[files]]
 file = "kubejs/client_scripts/pilares_tooltip.js"
 hash = "9e359d40e970f1f84d747dd3fe366471888ac6fa3bb5fd9e0a7a417bc32bfbe5"
 

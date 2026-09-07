@@ -56,6 +56,20 @@ sobre elas. Se a diretoria vier a redistribuir as estruturas modificadas separad
 (por exemplo, como datapack avulso), esse datapack deve carregar esta mesma atribuição
 e a licença GPL-3.0.
 
+## Highgarden (schematic WorldEdit)
+
+- **Obra original:** "Highgarden - Seat of House Tyrell - Game of Thrones", de **Cash Banks**
+  (Planet Minecraft, publicado em 2016; schematic de 2017).
+- **Fonte:** https://www.planetminecraft.com/project/highgarden---seat-of-house-tyrell---game-of-thrones/
+- **Licença:** nenhuma declarada na página do projeto; conteúdo de membro sob os Termos de Uso
+  do Planet Minecraft (o direito autoral permanece com o criador). Sem autorização expressa
+  do autor registrada até a data desta entrada — ver `docs/referencias/highgarden-anatomia.md`, seção 0.
+- **O que está no pack:** `config/worldedit/schematics/highgarden.schem` — conversão de paleta
+  feita pela diretoria (1.7.10 + WesterosBlocks → vanilla 1.20.1; Sponge v2, DataVersion 3465,
+  237 × 160 × 236, 162 entradas de paleta, todas `minecraft:`). Carrega com `//schem load highgarden`.
+- **Crédito, nos termos da ordem:** Highgarden — build original de Cash Banks (Planet
+  Minecraft, 2016); conversão de paleta para uso no POFNIR; todos os créditos da obra ao autor.
+
 ---
 
 ## O que NÃO foi usado
