@@ -63,7 +63,8 @@ e a licença GPL-3.0.
 - **O que está no pack:** `config/worldedit/schematics/highgarden.schem` — conversão de
   paleta feita pela diretoria (1.21.10 → 1.20.1 por parentesco de blocos; Sponge v2,
   DataVersion 3465, 181 × 123 × 215, 780 entradas de paleta, todas `minecraft:`). Carrega
-  com `//schem load highgarden`. O ward que a abraça é `pofnir:giz_highgarden`.
+  com `//schem load highgarden`. O ward que a abraça (giz, selos e prateleiras) é
+  `pofnir:ward_highgarden`.
 - **Crédito, nos termos da ordem:** Highgarden — build de Maester Renar (compra licenciada);
   conversão de paleta pela diretoria.
 - **Histórico:** substitui a conversão do mapa de Cash Banks (Planet Minecraft, 2016) que
