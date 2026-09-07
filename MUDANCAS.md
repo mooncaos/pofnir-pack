@@ -81,3 +81,13 @@ ORDEM-015 usa 100000, 100000).
 **Reversão.** Restaurar o bloco `layers` anterior (está no histórico: commit anterior a
 "Highgarden definitiva: vazio na era + capital_v1"). Chunks gerados no vazio continuarão
 vazios depois da reversão — regeneração de chunk não é retroativa.
+
+## 2026-09-07 — Era steampunk: gerador flat sem camadas (vazio absoluto)
+
+Mesmo molde da entrada acima, por ordem da diretoria ("Capital do Vapor"). Em
+`config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension/era_steampunk.json` as cinco
+camadas (bedrock 1, deepslate 30, tuff 20, polished_andesite 12, waxed_exposed_cut_copper 1
+= chão a y 0) viraram `"layers": []`; gerador, bioma `pofnir:era_steampunk`, `lakes`,
+`features` e `structure_overrides` intocados. **Cânone dos cacos:** as três cidades flutuam no
+nada. Alcance: só chunks novos. Reversão: restaurar o bloco `layers` do commit anterior a
+"Capital do Vapor".

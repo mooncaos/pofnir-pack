@@ -7,28 +7,7 @@
       "lakes": false,
       "features": false,
       "structure_overrides": [],
-      "layers": [
-        {
-          "block": "minecraft:bedrock",
-          "height": 1
-        },
-        {
-          "block": "minecraft:deepslate",
-          "height": 30
-        },
-        {
-          "block": "minecraft:tuff",
-          "height": 20
-        },
-        {
-          "block": "minecraft:polished_andesite",
-          "height": 12
-        },
-        {
-          "block": "minecraft:waxed_exposed_cut_copper",
-          "height": 1
-        }
-      ]
+      "layers": []
     }
   }
 }

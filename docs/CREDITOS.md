@@ -71,6 +71,16 @@ e a licença GPL-3.0.
   esteve no pack entre os commits `1ed6c11` e este, sem autorização expressa do autor;
   aquela obra segue como referência de estudo em `docs/referencias/highgarden-anatomia.md`.
 
+## Steampunk City (schematic WorldEdit)
+
+- **Obra:** build de **CatMoon**, adquirida pela diretoria (compra licenciada).
+- **Licença:** licença de compra do autor, em posse da diretoria.
+- **O que está no pack:** `config/worldedit/schematics/vapor.schem` — Sponge v2,
+  DataVersion 3120 (1.19.2; o WorldEdit converte ao carregar), 176 × 220 × 175, 811 entradas
+  de paleta, todas `minecraft:`, 479 block entities. Carrega com `//schem load vapor`.
+- **Crédito, nos termos da ordem:** Steampunk City — build de CatMoon (compra licenciada);
+  ilha, solda de cobre e integração pela diretoria.
+
 ---
 
 ## O que NÃO foi usado
