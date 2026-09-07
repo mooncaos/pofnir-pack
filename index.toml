@@ -34,7 +34,7 @@ hash = "a76875957ad079c1aeec58f473cf4ed047158a1c0dbfdaddd6c406f3252ea088"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension/era_medieval.json"
-hash = "25874ec7cabb333f625012f904ef569f2e429e6027f5ac0ca0c72a3e6d35a7a2"
+hash = "494f4f243584e573e4e76ad6f42119ba6d8ef3092b97d5ab9b619202ae3aa06b"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension/era_steampunk.json"
@@ -67,6 +67,10 @@ hash = "a28c50b583db0e5d7ccdd9624b7aaf2d45afd52fe97ad8dacae4ff95f84eb719"
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/capital_etapa2.mcfunction"
 hash = "091e5775cf4c73ad1360cd980cff65c0b12c47442fd9d54f6a618daaad26bbfd"
+
+[[files]]
+file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/capital_v1.mcfunction"
+hash = "c376603e25efd6a6c1c690878b74162d02db4524f605f78afae1c8959d3926aa"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/construir_capital_medieval.mcfunction"

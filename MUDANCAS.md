@@ -58,3 +58,26 @@ o Leawind.
 **Reversão.** Quando o Valkyrien Skies para 1.20.1 embutir JOML ≥ 1.10.5 (ou relocar o pacote):
 `packwiz unpin leawind-third-person`, `packwiz update leawind-third-person`,
 `packwiz mr add perspective-api`.
+
+## 2026-09-06 — Era medieval: gerador flat sem camadas (vazio absoluto)
+
+**Não é exceção ao Princípio da Raiz** (nenhum mod tocado); registrado aqui por ordem da
+diretoria (ORDEM-015), porque muda o mundo que todo jogador recebe.
+
+**O que mudou.** `config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension/era_medieval.json`:
+o gerador continua `minecraft:flat` com o bioma `pofnir:era_medieval`, `lakes: false`,
+`features: false` e `structure_overrides: []` (estruturas já desligadas), mas as cinco
+camadas (bedrock 1, deepslate 20, stone 40, dirt 3, grass 1 = chão a y 65) viraram
+`"layers": []`. Chunks **novos** da era não geram bloco nenhum; abaixo de `min_y` (−64)
+o vazio mata, como em qualquer dimensão.
+
+**Cânone.** A era medieval é um mundo partido; o que sobrou flutua. A Highgarden do
+Fundamento (`pofnir:capital_v1`) é erguida no vazio, em região virgem, como ilha inteira.
+
+**Alcance.** Só chunks ainda não gerados. Chunks já explorados (v0, testes das etapas)
+permanecem como estão — a capital definitiva vai longe deles (comando de teste na
+ORDEM-015 usa 100000, 100000).
+
+**Reversão.** Restaurar o bloco `layers` anterior (está no histórico: commit anterior a
+"Highgarden definitiva: vazio na era + capital_v1"). Chunks gerados no vazio continuarão
+vazios depois da reversão — regeneração de chunk não é retroativa.
