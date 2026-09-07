@@ -49,6 +49,13 @@ fronteira é schematic.
 
 ## Schematics são enxertos
 
+> **As capitais não passam mais por aqui.** Desde a Ordem #020 ("A Via Régia"), as cidades
+> das eras chegam prontas com o mundo: o mod **POFNIR Core** copia os region files de
+> `config/pofnir/dimensions/<era>/` para dentro do save a cada abertura (a Forja do Mundo).
+> Ninguém carrega nem cola schematic de capital; o ritual de paste foi aposentado. Os
+> fluxos abaixo continuam valendo para **construções do clã** (torre, ponte, casa), não
+> para as capitais.
+
 Um schematic é uma **construção sem mundo em volta**: a torre, a ponte, a casa. Ele é
 colado no lugar que você escolher dentro do mundo do clã. Dois fluxos, para dois momentos.
 

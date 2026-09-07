@@ -165,16 +165,40 @@ file = "config/paxi/datapacks/pofnir_estruturas/pack.mcmeta"
 hash = "3a809f812139d58d6c189d8cf162a8c0c260841f8ff7cb8514ca5ee419b45cd7"
 
 [[files]]
+file = "config/pofnir/dimensions/era_medieval/region/r.-1.-1.mca"
+hash = "229f2b1864188563041ee55e13f4a04c8093f6cf26d0c049f395f2ec492bd1cd"
+
+[[files]]
+file = "config/pofnir/dimensions/era_medieval/region/r.-1.0.mca"
+hash = "bf4f79441e011c96a4d3cda9db02b395f65aca16ed77c568ffacf09fbf9f5ef7"
+
+[[files]]
+file = "config/pofnir/dimensions/era_medieval/region/r.0.-1.mca"
+hash = "d5b28d0dbaa1d1ddcea92cad0a2bde8a5079563062c4328b8a9e0d06e3f84581"
+
+[[files]]
+file = "config/pofnir/dimensions/era_medieval/region/r.0.0.mca"
+hash = "e632d5f85f28a92b451a1f2c6bfde500066982528ccb0098b0c66ac47bb1289a"
+
+[[files]]
+file = "config/pofnir/dimensions/era_steampunk/region/r.-1.-1.mca"
+hash = "5e06de6e5bbb51e9923ca704b03fe57afd8cd8ccd67f3fc0a784725db2003b90"
+
+[[files]]
+file = "config/pofnir/dimensions/era_steampunk/region/r.-1.0.mca"
+hash = "429da12d08e7f38813a9d0adbad37332842f11f6358f4e5d6e8a07979f2ca25e"
+
+[[files]]
+file = "config/pofnir/dimensions/era_steampunk/region/r.0.-1.mca"
+hash = "91a6d5169fe3b152627f5d4603dc6526024fc687dd50c9b00bef886c0a5955d8"
+
+[[files]]
+file = "config/pofnir/dimensions/era_steampunk/region/r.0.0.mca"
+hash = "89604f01629d677391a7dc6f0e5e1f638d395746437c5bdb94247e9454c969a1"
+
+[[files]]
 file = "config/travelersbackpack.json5"
 hash = "a3c1b438c50f8b2cd5a8b6e600293212608a6861ac723b8a48e4d996a3312978"
-
-[[files]]
-file = "config/worldedit/schematics/highgarden.schem"
-hash = "2c1a704e9ec8a7b8c698011dd494e5b6389b22a42bc04e9edf47b9c93bd42fbd"
-
-[[files]]
-file = "config/worldedit/schematics/vapor.schem"
-hash = "c37dec7ed61a719e074cc273cf5b676eeeee167dd639c32c5cfe069752af9ce8"
 
 [[files]]
 file = "config/yigd.json"
@@ -716,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
+file = "mods/pofnir-core.pw.toml"
+hash = "e68aef6b6172a771a7160283087769b14ada9520aa4f0d6e8d4100f1b2b30228"
 metafile = true
 
 [[files]]

@@ -100,6 +100,7 @@ blocos em `blocos/<slug>.md`, na mesma ordem de instalação.
 | [FTB Chunks](ftb-chunks-fabric.md) · [blocos](blocos/ftb-chunks-fabric.md) | 0 | 0 | 0 | sistema puro: claims, force-load, mapa; 6 tags de controle, 14 propriedades de time, 5 teclas |
 | [FallingTree](fallingtree.md) · [blocos](blocos/fallingtree.md) | 0 | 0 | 0 | 40 chaves de config em 5 grupos; 6 encantamentos Chopper desligados por padrão |
 | [Neat](neat.md) · [blocos](blocos/neat.md) | 0 | 0 | 0 | client-only; barras de vida por 4 mixins; 27 campos de config, 1 tecla |
+| [POFNIR Core](pofnir-core.md) · [blocos](blocos/pofnir-core.md) | 0 | 0 | 0 | **mod nosso** (Ordem #020): 1 mixin, a Forja do Mundo — copia `config/pofnir/dimensions/<era>/` para o save a cada abertura; capitais pristinas |
 
 ## O que ficou de fora
 
