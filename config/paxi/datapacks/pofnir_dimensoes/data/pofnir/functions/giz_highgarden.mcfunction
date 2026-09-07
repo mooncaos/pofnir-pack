@@ -914,4 +914,4 @@ setblock ~7 ~59 ~70 handcrafted:spruce_shelf
 setblock ~7 ~59 ~71 handcrafted:spruce_shelf
 setblock ~-30 ~22 ~-31 handcrafted:spruce_shelf
 setblock ~-28 ~22 ~-31 handcrafted:spruce_shelf
-tellraw @s {"text":"[POFNIR] Prateleiras do Maester restauradas em Handcrafted (bonus opcional).","color":"light_purple"}
+tellraw @s {"text":"[POFNIR] Prateleiras restauradas (bonus).","color":"light_purple"}
