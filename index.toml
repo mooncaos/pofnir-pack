@@ -50,15 +50,15 @@ hash = "3fa718e67dbaf158cddb6c343758885fb48f08e11cb174fbbf6d025fb9495b68"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_medieval.json"
-hash = "dc11d4b543012116cfbe9a61529238d6c430c5f2d56924c4c68fc7a5abcd3182"
+hash = "ba7226db6bd241f18cc3200e2cc447833c189e1aac90ff84296690119ffb7f63"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_steampunk.json"
-hash = "1131f9577e14474df16af14a1dd3c7bdf165ad669124eb0c353f2c5817a607df"
+hash = "b4a5859555e031d624621b3e8d9aed519dda23db5eb7ce21b3f20fb198faf87f"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension_type/era_tec.json"
-hash = "4c85c48ec72ed4abe9bc4bb9ecf67bdc9024651b7ae9488ca3961e218dea9c77"
+hash = "3b9d7b538e6949b1670322062f244a47eab03504a6a86a0acb144148f734d430"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/capital_etapa1.mcfunction"
