@@ -1,0 +1,13 @@
+{
+  "type": "pofnir:era_medieval",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "pofnir:era_medieval",
+      "lakes": false,
+      "features": false,
+      "structure_overrides": [],
+      "layers": []
+    }
+  }
+}

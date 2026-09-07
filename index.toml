@@ -45,6 +45,10 @@ file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension/era_tec.jso
 hash = "8500eab2f33d100990451108eeb021c45b370edd1483bf0cd9d47daa3216a623"
 
 [[files]]
+file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension/teste_forja.json"
+hash = "9617718078c1495beb3f53183ece3fa4ef3ff3796de060cd2910e5cfa16f95b7"
+
+[[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/dimension_type/auren.json"
 hash = "3fa718e67dbaf158cddb6c343758885fb48f08e11cb174fbbf6d025fb9495b68"
 
@@ -79,6 +83,10 @@ hash = "4f99be16dffac0682c9367d5a57892a3dd2fd82ac764dee7926b23a0ff7808b9"
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/construir_limiar.mcfunction"
 hash = "4cb73a115e9f73d3368b8132af756f489c76a340af8319fb029be6b2f805a04c"
+
+[[files]]
+file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/teste_forja_marco.mcfunction"
+hash = "db6fd484a7b981c3e581f02a92ef605343995328a3d5b41ee074fb23512ff39e"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/tour_eiffel.mcfunction"
@@ -179,6 +187,10 @@ hash = "9e359d40e970f1f84d747dd3fe366471888ac6fa3bb5fd9e0a7a417bc32bfbe5"
 [[files]]
 file = "kubejs/server_scripts/censo_auren.js"
 hash = "00151976e01f235c08e9441b6a0888d8ceb432206f7b1c9ea189152a15436dbd"
+
+[[files]]
+file = "kubejs/server_scripts/forja_automatica.js"
+hash = "5f7c004498e550605c44f5308ecf80a5f6d1407c06099fb20e4a547ecb4f9648"
 
 [[files]]
 file = "kubejs/server_scripts/marca_presenca.js"
