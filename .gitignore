@@ -7,3 +7,6 @@
 Thumbs.db
 .DS_Store
 *.log
+
+# copias locais de estudo (Ordem #017): nunca versionar
+docs/referencias/escolas/_local/
