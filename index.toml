@@ -82,7 +82,7 @@ hash = "4cb73a115e9f73d3368b8132af756f489c76a340af8319fb029be6b2f805a04c"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/giz_highgarden.mcfunction"
-hash = "45b0dbbca4a85e70e581bd78bedfe272237ab2f3de79ad1607f518da4dab3130"
+hash = "66fefa85b1a510233359bd4b215bd9590695a1fa6a1c7a945e44a31393adcb44"
 
 [[files]]
 file = "config/paxi/datapacks/pofnir_dimensoes/data/pofnir/functions/tour_eiffel.mcfunction"
@@ -166,7 +166,7 @@ hash = "a3c1b438c50f8b2cd5a8b6e600293212608a6861ac723b8a48e4d996a3312978"
 
 [[files]]
 file = "config/worldedit/schematics/highgarden.schem"
-hash = "9177e00e629bf5c4bec7c2e69b0694a0a39466acc2efcf1278bd4b9cb312f818"
+hash = "43a0741c375027d819c0c414f301a89bc3ae6035473076993f1c36b25c2b6ef0"
 
 [[files]]
 file = "kubejs/client_scripts/pilares_tooltip.js"
