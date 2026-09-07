@@ -1,401 +1,917 @@
-setblock ~87 ~11 ~0 enchanted:ritual_chalk[glyph=0] keep
-setblock ~87 ~11 ~1 enchanted:ritual_chalk[glyph=1] keep
-setblock ~87 ~11 ~2 enchanted:ritual_chalk[glyph=2] keep
-setblock ~87 ~11 ~3 enchanted:ritual_chalk[glyph=3] keep
-setblock ~87 ~11 ~4 enchanted:ritual_chalk[glyph=0] keep
-setblock ~87 ~11 ~5 enchanted:ritual_chalk[glyph=1] keep
-setblock ~87 ~11 ~6 enchanted:ritual_chalk[glyph=2] keep
-setblock ~87 ~11 ~7 enchanted:ritual_chalk[glyph=3] keep
-setblock ~87 ~11 ~8 enchanted:ritual_chalk[glyph=0] keep
-setblock ~87 ~11 ~9 enchanted:ritual_chalk[glyph=1] keep
-setblock ~86 ~13 ~9 enchanted:ritual_chalk[glyph=2] keep
-setblock ~86 ~13 ~10 enchanted:ritual_chalk[glyph=3] keep
-setblock ~86 ~12 ~11 enchanted:ritual_chalk[glyph=0] keep
-setblock ~86 ~13 ~12 enchanted:ritual_chalk[glyph=1] keep
-setblock ~86 ~13 ~13 enchanted:ritual_chalk[glyph=2] keep
-setblock ~86 ~13 ~14 enchanted:ritual_chalk[glyph=3] keep
-setblock ~86 ~12 ~15 enchanted:ritual_chalk[glyph=0] keep
-setblock ~86 ~12 ~16 enchanted:ritual_chalk[glyph=1] keep
-setblock ~85 ~12 ~16 enchanted:ritual_chalk[glyph=2] keep
-setblock ~85 ~13 ~17 enchanted:ritual_chalk[glyph=3] keep
-setblock ~85 ~12 ~18 enchanted:ritual_chalk[glyph=0] keep
-setblock ~85 ~12 ~19 enchanted:ritual_chalk[glyph=1] keep
-setblock ~85 ~13 ~20 enchanted:ritual_chalk[glyph=2] keep
-setblock ~85 ~12 ~21 enchanted:ritual_chalk[glyph=3] keep
-setblock ~84 ~12 ~21 enchanted:ritual_chalk[glyph=0] keep
-setblock ~84 ~13 ~22 enchanted:ritual_chalk[glyph=1] keep
-setblock ~84 ~12 ~23 enchanted:ritual_chalk[glyph=2] keep
-setblock ~84 ~12 ~24 enchanted:ritual_chalk[glyph=3] keep
-setblock ~83 ~13 ~24 enchanted:ritual_chalk[glyph=0] keep
-setblock ~83 ~13 ~25 enchanted:ritual_chalk[glyph=1] keep
-setblock ~83 ~12 ~26 enchanted:ritual_chalk[glyph=2] keep
-setblock ~83 ~13 ~27 enchanted:ritual_chalk[glyph=3] keep
-setblock ~83 ~13 ~28 enchanted:ritual_chalk[glyph=0] keep
-setblock ~82 ~14 ~28 enchanted:ritual_chalk[glyph=1] keep
-setblock ~82 ~13 ~29 enchanted:ritual_chalk[glyph=2] keep
-setblock ~82 ~14 ~30 enchanted:ritual_chalk[glyph=3] keep
-setblock ~81 ~13 ~30 enchanted:ritual_chalk[glyph=0] keep
-setblock ~81 ~14 ~31 enchanted:ritual_chalk[glyph=1] keep
-setblock ~81 ~13 ~32 enchanted:ritual_chalk[glyph=2] keep
-setblock ~81 ~14 ~33 enchanted:ritual_chalk[glyph=3] keep
-setblock ~80 ~14 ~33 enchanted:ritual_chalk[glyph=0] keep
-setblock ~80 ~14 ~34 enchanted:ritual_chalk[glyph=1] keep
-setblock ~80 ~13 ~35 enchanted:ritual_chalk[glyph=2] keep
-setblock ~79 ~14 ~35 enchanted:ritual_chalk[glyph=3] keep
-setblock ~79 ~14 ~36 enchanted:ritual_chalk[glyph=0] keep
-setblock ~79 ~14 ~37 enchanted:ritual_chalk[glyph=1] keep
-setblock ~78 ~13 ~38 enchanted:ritual_chalk[glyph=2] keep
-setblock ~78 ~14 ~39 enchanted:ritual_chalk[glyph=3] keep
-setblock ~78 ~14 ~40 enchanted:ritual_chalk[glyph=0] keep
-setblock ~77 ~13 ~40 enchanted:ritual_chalk[glyph=1] keep
-setblock ~77 ~14 ~41 enchanted:ritual_chalk[glyph=2] keep
-setblock ~76 ~13 ~41 enchanted:ritual_chalk[glyph=3] keep
-setblock ~76 ~13 ~42 enchanted:ritual_chalk[glyph=0] keep
-setblock ~76 ~13 ~43 enchanted:ritual_chalk[glyph=1] keep
-setblock ~75 ~13 ~43 enchanted:ritual_chalk[glyph=2] keep
-setblock ~75 ~13 ~44 enchanted:ritual_chalk[glyph=3] keep
-setblock ~75 ~14 ~45 enchanted:ritual_chalk[glyph=0] keep
-setblock ~74 ~14 ~45 enchanted:ritual_chalk[glyph=1] keep
-setblock ~74 ~13 ~46 enchanted:ritual_chalk[glyph=2] keep
-setblock ~74 ~14 ~47 enchanted:ritual_chalk[glyph=3] keep
-setblock ~73 ~14 ~47 enchanted:ritual_chalk[glyph=0] keep
-setblock ~73 ~15 ~48 enchanted:ritual_chalk[glyph=1] keep
-setblock ~72 ~15 ~48 enchanted:ritual_chalk[glyph=2] keep
-setblock ~72 ~15 ~49 enchanted:ritual_chalk[glyph=3] keep
-setblock ~72 ~14 ~50 enchanted:ritual_chalk[glyph=0] keep
-setblock ~71 ~14 ~50 enchanted:ritual_chalk[glyph=1] keep
-setblock ~71 ~14 ~51 enchanted:ritual_chalk[glyph=2] keep
-setblock ~70 ~14 ~51 enchanted:ritual_chalk[glyph=3] keep
-setblock ~70 ~15 ~52 enchanted:ritual_chalk[glyph=0] keep
-setblock ~69 ~15 ~52 enchanted:ritual_chalk[glyph=1] keep
-setblock ~69 ~15 ~53 enchanted:ritual_chalk[glyph=2] keep
-setblock ~69 ~15 ~54 enchanted:ritual_chalk[glyph=3] keep
-setblock ~68 ~15 ~54 enchanted:ritual_chalk[glyph=0] keep
-setblock ~68 ~15 ~55 enchanted:ritual_chalk[glyph=1] keep
-setblock ~67 ~14 ~55 enchanted:ritual_chalk[glyph=2] keep
-setblock ~67 ~15 ~56 enchanted:ritual_chalk[glyph=3] keep
-setblock ~66 ~15 ~56 enchanted:ritual_chalk[glyph=0] keep
-setblock ~66 ~14 ~57 enchanted:ritual_chalk[glyph=1] keep
-setblock ~65 ~20 ~57 enchanted:ritual_chalk[glyph=2] keep
-setblock ~65 ~14 ~58 enchanted:ritual_chalk[glyph=3] keep
-setblock ~64 ~19 ~58 enchanted:ritual_chalk[glyph=0] keep
-setblock ~64 ~14 ~59 enchanted:ritual_chalk[glyph=1] keep
-setblock ~63 ~20 ~59 enchanted:ritual_chalk[glyph=2] keep
-setblock ~63 ~14 ~60 enchanted:ritual_chalk[glyph=3] keep
-setblock ~61 ~19 ~62 enchanted:ritual_chalk[glyph=3] keep
-setblock ~61 ~14 ~63 enchanted:ritual_chalk[glyph=0] keep
-setblock ~60 ~20 ~63 enchanted:ritual_chalk[glyph=1] keep
-setblock ~59 ~19 ~63 enchanted:ritual_chalk[glyph=2] keep
-setblock ~59 ~19 ~64 enchanted:ritual_chalk[glyph=3] keep
-setblock ~58 ~19 ~64 enchanted:ritual_chalk[glyph=0] keep
-setblock ~58 ~20 ~65 enchanted:ritual_chalk[glyph=1] keep
-setblock ~57 ~19 ~65 enchanted:ritual_chalk[glyph=2] keep
-setblock ~57 ~19 ~66 enchanted:ritual_chalk[glyph=3] keep
-setblock ~56 ~19 ~66 enchanted:ritual_chalk[glyph=0] keep
-setblock ~56 ~20 ~67 enchanted:ritual_chalk[glyph=1] keep
-setblock ~55 ~19 ~67 enchanted:ritual_chalk[glyph=2] keep
-setblock ~55 ~19 ~68 enchanted:ritual_chalk[glyph=3] keep
-setblock ~54 ~19 ~68 enchanted:ritual_chalk[glyph=0] keep
-setblock ~54 ~20 ~69 enchanted:ritual_chalk[glyph=1] keep
-setblock ~53 ~19 ~69 enchanted:ritual_chalk[glyph=2] keep
-setblock ~52 ~19 ~69 enchanted:ritual_chalk[glyph=3] keep
-setblock ~52 ~19 ~70 enchanted:ritual_chalk[glyph=0] keep
-setblock ~51 ~19 ~70 enchanted:ritual_chalk[glyph=1] keep
-setblock ~51 ~19 ~71 enchanted:ritual_chalk[glyph=2] keep
-setblock ~50 ~19 ~71 enchanted:ritual_chalk[glyph=3] keep
-setblock ~50 ~20 ~72 enchanted:ritual_chalk[glyph=0] keep
-setblock ~49 ~19 ~72 enchanted:ritual_chalk[glyph=1] keep
-setblock ~48 ~19 ~72 enchanted:ritual_chalk[glyph=2] keep
-setblock ~48 ~19 ~73 enchanted:ritual_chalk[glyph=3] keep
-setblock ~47 ~19 ~73 enchanted:ritual_chalk[glyph=0] keep
-setblock ~47 ~19 ~74 enchanted:ritual_chalk[glyph=1] keep
-setblock ~46 ~19 ~74 enchanted:ritual_chalk[glyph=2] keep
-setblock ~45 ~19 ~74 enchanted:ritual_chalk[glyph=3] keep
-setblock ~45 ~19 ~75 enchanted:ritual_chalk[glyph=0] keep
-setblock ~44 ~19 ~75 enchanted:ritual_chalk[glyph=1] keep
-setblock ~43 ~19 ~75 enchanted:ritual_chalk[glyph=2] keep
-setblock ~43 ~19 ~76 enchanted:ritual_chalk[glyph=3] keep
-setblock ~42 ~19 ~76 enchanted:ritual_chalk[glyph=0] keep
-setblock ~41 ~19 ~76 enchanted:ritual_chalk[glyph=1] keep
-setblock ~41 ~19 ~77 enchanted:ritual_chalk[glyph=2] keep
-setblock ~40 ~19 ~77 enchanted:ritual_chalk[glyph=3] keep
-setblock ~40 ~19 ~78 enchanted:ritual_chalk[glyph=0] keep
-setblock ~39 ~19 ~78 enchanted:ritual_chalk[glyph=1] keep
-setblock ~38 ~19 ~78 enchanted:ritual_chalk[glyph=2] keep
-setblock ~37 ~19 ~79 enchanted:ritual_chalk[glyph=3] keep
-setblock ~36 ~19 ~79 enchanted:ritual_chalk[glyph=0] keep
-setblock ~35 ~19 ~79 enchanted:ritual_chalk[glyph=1] keep
-setblock ~35 ~19 ~80 enchanted:ritual_chalk[glyph=2] keep
-setblock ~34 ~19 ~80 enchanted:ritual_chalk[glyph=3] keep
-setblock ~33 ~19 ~80 enchanted:ritual_chalk[glyph=0] keep
-setblock ~33 ~19 ~81 enchanted:ritual_chalk[glyph=1] keep
-setblock ~32 ~19 ~81 enchanted:ritual_chalk[glyph=2] keep
-setblock ~31 ~19 ~81 enchanted:ritual_chalk[glyph=3] keep
-setblock ~30 ~19 ~81 enchanted:ritual_chalk[glyph=0] keep
-setblock ~30 ~19 ~82 enchanted:ritual_chalk[glyph=1] keep
-setblock ~29 ~19 ~82 enchanted:ritual_chalk[glyph=2] keep
-setblock ~28 ~19 ~82 enchanted:ritual_chalk[glyph=3] keep
-setblock ~28 ~19 ~83 enchanted:ritual_chalk[glyph=0] keep
-setblock ~27 ~19 ~83 enchanted:ritual_chalk[glyph=1] keep
-setblock ~26 ~19 ~83 enchanted:ritual_chalk[glyph=2] keep
-setblock ~25 ~19 ~83 enchanted:ritual_chalk[glyph=3] keep
-setblock ~24 ~19 ~83 enchanted:ritual_chalk[glyph=0] keep
-setblock ~24 ~19 ~84 enchanted:ritual_chalk[glyph=1] keep
-setblock ~23 ~19 ~84 enchanted:ritual_chalk[glyph=2] keep
-setblock ~22 ~19 ~84 enchanted:ritual_chalk[glyph=3] keep
-setblock ~21 ~19 ~84 enchanted:ritual_chalk[glyph=0] keep
-setblock ~21 ~19 ~85 enchanted:ritual_chalk[glyph=1] keep
-setblock ~20 ~19 ~85 enchanted:ritual_chalk[glyph=2] keep
-setblock ~19 ~19 ~85 enchanted:ritual_chalk[glyph=3] keep
-setblock ~18 ~19 ~85 enchanted:ritual_chalk[glyph=0] keep
-setblock ~17 ~19 ~85 enchanted:ritual_chalk[glyph=1] keep
-setblock ~16 ~19 ~85 enchanted:ritual_chalk[glyph=2] keep
-setblock ~16 ~19 ~86 enchanted:ritual_chalk[glyph=3] keep
-setblock ~15 ~19 ~86 enchanted:ritual_chalk[glyph=0] keep
-setblock ~14 ~19 ~86 enchanted:ritual_chalk[glyph=1] keep
-setblock ~13 ~19 ~86 enchanted:ritual_chalk[glyph=2] keep
-setblock ~12 ~19 ~86 enchanted:ritual_chalk[glyph=3] keep
-setblock ~11 ~19 ~86 enchanted:ritual_chalk[glyph=0] keep
-setblock ~10 ~19 ~86 enchanted:ritual_chalk[glyph=1] keep
-setblock ~9 ~19 ~86 enchanted:ritual_chalk[glyph=2] keep
-setblock ~9 ~19 ~87 enchanted:ritual_chalk[glyph=3] keep
-setblock ~8 ~19 ~87 enchanted:ritual_chalk[glyph=0] keep
-setblock ~7 ~19 ~87 enchanted:ritual_chalk[glyph=1] keep
-setblock ~6 ~19 ~87 enchanted:ritual_chalk[glyph=2] keep
-setblock ~5 ~19 ~87 enchanted:ritual_chalk[glyph=3] keep
-setblock ~4 ~19 ~87 enchanted:ritual_chalk[glyph=0] keep
-setblock ~3 ~19 ~87 enchanted:ritual_chalk[glyph=1] keep
-setblock ~2 ~19 ~87 enchanted:ritual_chalk[glyph=2] keep
-setblock ~1 ~19 ~87 enchanted:ritual_chalk[glyph=3] keep
-setblock ~0 ~19 ~87 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-1 ~19 ~87 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-2 ~19 ~87 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-3 ~19 ~87 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-4 ~19 ~87 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-5 ~19 ~87 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-6 ~19 ~87 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-7 ~19 ~87 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-8 ~19 ~87 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-9 ~19 ~87 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-9 ~19 ~86 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-10 ~19 ~86 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-11 ~19 ~86 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-12 ~19 ~86 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-13 ~19 ~86 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-14 ~19 ~86 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-15 ~19 ~86 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-16 ~19 ~86 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-16 ~19 ~85 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-17 ~19 ~85 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-18 ~19 ~85 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-19 ~19 ~85 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-20 ~19 ~85 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-21 ~20 ~85 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-21 ~19 ~84 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-22 ~19 ~84 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-23 ~19 ~84 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-24 ~19 ~84 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-24 ~19 ~83 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-25 ~19 ~83 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-26 ~19 ~83 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-27 ~19 ~83 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-28 ~20 ~83 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-28 ~19 ~82 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-29 ~19 ~82 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-30 ~20 ~82 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-30 ~19 ~81 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-31 ~19 ~81 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-32 ~20 ~81 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-33 ~19 ~81 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-33 ~19 ~80 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-34 ~20 ~80 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-35 ~19 ~80 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-35 ~19 ~79 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-36 ~20 ~79 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-37 ~19 ~79 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-38 ~20 ~78 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-39 ~15 ~78 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-40 ~15 ~78 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-40 ~20 ~77 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-41 ~16 ~77 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-41 ~19 ~76 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-42 ~16 ~76 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-43 ~16 ~76 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-43 ~19 ~75 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-44 ~15 ~75 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-45 ~16 ~75 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-45 ~16 ~74 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-46 ~15 ~74 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-47 ~15 ~74 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-49 ~15 ~72 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-50 ~15 ~72 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-50 ~16 ~71 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-51 ~15 ~71 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-51 ~16 ~70 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-52 ~16 ~70 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-52 ~15 ~69 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-53 ~16 ~69 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-54 ~15 ~69 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-54 ~15 ~68 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-55 ~16 ~68 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-55 ~15 ~67 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-56 ~16 ~67 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-56 ~15 ~66 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-57 ~15 ~66 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-57 ~16 ~65 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-58 ~15 ~65 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-58 ~15 ~64 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-59 ~14 ~64 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-59 ~16 ~63 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-60 ~15 ~63 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-61 ~14 ~63 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-61 ~14 ~62 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-62 ~15 ~62 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-62 ~14 ~61 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-63 ~14 ~61 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-63 ~14 ~60 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-63 ~14 ~59 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-64 ~15 ~59 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-64 ~14 ~58 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-65 ~14 ~58 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-65 ~15 ~57 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-66 ~14 ~57 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-66 ~15 ~56 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-67 ~14 ~56 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-67 ~15 ~55 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-68 ~14 ~55 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-68 ~15 ~54 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-69 ~13 ~54 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-69 ~14 ~53 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-69 ~15 ~52 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-70 ~14 ~52 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-70 ~14 ~51 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-71 ~13 ~51 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-71 ~13 ~50 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-72 ~13 ~50 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-72 ~13 ~49 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-72 ~13 ~48 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-73 ~13 ~48 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-73 ~13 ~47 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-74 ~13 ~47 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-74 ~14 ~46 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-74 ~13 ~45 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-75 ~14 ~45 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-75 ~14 ~44 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-75 ~13 ~43 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-76 ~13 ~43 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-76 ~13 ~42 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-76 ~13 ~41 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-77 ~14 ~41 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-77 ~13 ~40 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-78 ~13 ~40 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-78 ~14 ~39 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-78 ~13 ~38 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-79 ~14 ~37 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-79 ~14 ~36 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-79 ~13 ~35 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-80 ~14 ~35 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-80 ~13 ~34 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-80 ~13 ~33 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-81 ~14 ~33 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-81 ~13 ~32 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-81 ~13 ~31 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-81 ~13 ~30 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-82 ~13 ~30 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-82 ~13 ~29 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-82 ~13 ~28 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-83 ~12 ~28 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-83 ~12 ~27 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-83 ~13 ~26 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-83 ~13 ~25 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-83 ~13 ~24 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-84 ~12 ~24 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-84 ~12 ~23 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-84 ~12 ~22 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-84 ~12 ~21 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-85 ~12 ~21 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-85 ~12 ~20 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-85 ~12 ~19 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-85 ~12 ~18 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-85 ~12 ~17 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-85 ~12 ~16 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-86 ~12 ~16 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-86 ~12 ~15 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-86 ~12 ~14 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-86 ~12 ~13 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-86 ~12 ~12 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-86 ~12 ~11 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-86 ~12 ~10 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-86 ~12 ~9 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-87 ~12 ~9 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-87 ~12 ~8 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-87 ~12 ~7 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-87 ~12 ~6 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-87 ~12 ~5 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-87 ~12 ~4 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-87 ~12 ~3 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-87 ~12 ~2 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-87 ~12 ~1 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-87 ~12 ~0 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-87 ~12 ~-1 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-87 ~12 ~-2 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-87 ~12 ~-3 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-87 ~11 ~-4 enchanted:ritual_chalk[glyph=0] keep
-setblock ~-87 ~11 ~-5 enchanted:ritual_chalk[glyph=1] keep
-setblock ~-87 ~11 ~-6 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-87 ~11 ~-7 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-86 ~11 ~-9 enchanted:ritual_chalk[glyph=2] keep
-setblock ~-86 ~11 ~-10 enchanted:ritual_chalk[glyph=3] keep
-setblock ~-86 ~11 ~-11 enchanted:ritual_chalk[glyph=0] keep
-setblock ~86 ~11 ~-11 enchanted:ritual_chalk[glyph=0] keep
-setblock ~86 ~11 ~-10 enchanted:ritual_chalk[glyph=1] keep
-setblock ~86 ~11 ~-9 enchanted:ritual_chalk[glyph=2] keep
-setblock ~87 ~11 ~-7 enchanted:ritual_chalk[glyph=1] keep
-setblock ~87 ~11 ~-6 enchanted:ritual_chalk[glyph=2] keep
-setblock ~87 ~11 ~-5 enchanted:ritual_chalk[glyph=3] keep
-setblock ~87 ~11 ~-4 enchanted:ritual_chalk[glyph=0] keep
-setblock ~87 ~11 ~-3 enchanted:ritual_chalk[glyph=1] keep
-setblock ~87 ~11 ~-2 enchanted:ritual_chalk[glyph=2] keep
-setblock ~87 ~11 ~-1 enchanted:ritual_chalk[glyph=3] keep
-setblock ~86 ~11 ~-1 enchanted:golden_chalk[glyph=0]
-setblock ~86 ~11 ~0 enchanted:golden_chalk[glyph=1]
-setblock ~86 ~11 ~1 enchanted:golden_chalk[glyph=2]
-setblock ~87 ~11 ~-1 enchanted:golden_chalk[glyph=3]
-setblock ~87 ~11 ~0 enchanted:golden_chalk[glyph=0]
-setblock ~87 ~11 ~1 enchanted:golden_chalk[glyph=1]
-setblock ~88 ~11 ~-1 enchanted:golden_chalk[glyph=2]
-setblock ~88 ~11 ~0 enchanted:golden_chalk[glyph=3]
-setblock ~88 ~11 ~1 enchanted:golden_chalk[glyph=0]
-setblock ~61 ~19 ~61 enchanted:golden_chalk[glyph=0]
-setblock ~61 ~19 ~62 enchanted:golden_chalk[glyph=1]
-setblock ~61 ~14 ~63 enchanted:golden_chalk[glyph=2]
-setblock ~62 ~14 ~63 enchanted:golden_chalk[glyph=3]
-setblock ~63 ~15 ~63 enchanted:golden_chalk[glyph=0]
-setblock ~-1 ~16 ~86 enchanted:golden_chalk[glyph=0]
-setblock ~-1 ~19 ~87 enchanted:golden_chalk[glyph=1]
-setblock ~-1 ~19 ~88 enchanted:golden_chalk[glyph=2]
-setblock ~0 ~16 ~86 enchanted:golden_chalk[glyph=3]
-setblock ~0 ~19 ~87 enchanted:golden_chalk[glyph=0]
-setblock ~0 ~19 ~88 enchanted:golden_chalk[glyph=1]
-setblock ~1 ~16 ~86 enchanted:golden_chalk[glyph=2]
-setblock ~1 ~19 ~87 enchanted:golden_chalk[glyph=3]
-setblock ~1 ~19 ~88 enchanted:golden_chalk[glyph=0]
-setblock ~-63 ~14 ~61 enchanted:golden_chalk[glyph=0]
-setblock ~-63 ~15 ~62 enchanted:golden_chalk[glyph=1]
-setblock ~-63 ~14 ~63 enchanted:golden_chalk[glyph=2]
-setblock ~-62 ~14 ~61 enchanted:golden_chalk[glyph=3]
-setblock ~-62 ~15 ~62 enchanted:golden_chalk[glyph=0]
-setblock ~-62 ~14 ~63 enchanted:golden_chalk[glyph=1]
-setblock ~-61 ~14 ~61 enchanted:golden_chalk[glyph=2]
-setblock ~-61 ~14 ~62 enchanted:golden_chalk[glyph=3]
-setblock ~-61 ~14 ~63 enchanted:golden_chalk[glyph=0]
-setblock ~-88 ~11 ~-1 enchanted:golden_chalk[glyph=0]
-setblock ~-88 ~12 ~0 enchanted:golden_chalk[glyph=1]
-setblock ~-88 ~12 ~1 enchanted:golden_chalk[glyph=2]
-setblock ~-87 ~12 ~-1 enchanted:golden_chalk[glyph=3]
-setblock ~-87 ~12 ~0 enchanted:golden_chalk[glyph=0]
-setblock ~-87 ~12 ~1 enchanted:golden_chalk[glyph=1]
-setblock ~-86 ~12 ~-1 enchanted:golden_chalk[glyph=2]
-setblock ~-86 ~12 ~0 enchanted:golden_chalk[glyph=3]
-setblock ~-86 ~12 ~1 enchanted:golden_chalk[glyph=0]
-tellraw @s {"text":"[POFNIR] O ward abraça a Highgarden comprada.","color":"light_purple"}
+setblock ~-10 ~29 ~-44 handcrafted:spruce_shelf
+setblock ~-5 ~29 ~-44 handcrafted:spruce_shelf
+setblock ~-11 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~-9 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~-6 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~-4 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~-13 ~33 ~-38 handcrafted:spruce_shelf
+setblock ~-1 ~28 ~-40 handcrafted:spruce_shelf
+setblock ~5 ~28 ~-40 handcrafted:spruce_shelf
+setblock ~0 ~28 ~-39 handcrafted:spruce_shelf
+setblock ~4 ~28 ~-39 handcrafted:spruce_shelf
+setblock ~0 ~28 ~-38 handcrafted:spruce_shelf
+setblock ~4 ~28 ~-38 handcrafted:spruce_shelf
+setblock ~9 ~29 ~-44 handcrafted:spruce_shelf
+setblock ~8 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~10 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~-2 ~33 ~-38 handcrafted:spruce_shelf
+setblock ~6 ~33 ~-38 handcrafted:spruce_shelf
+setblock ~14 ~29 ~-44 handcrafted:spruce_shelf
+setblock ~13 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~15 ~29 ~-43 handcrafted:spruce_shelf
+setblock ~17 ~33 ~-38 handcrafted:spruce_shelf
+setblock ~-11 ~35 ~-23 handcrafted:spruce_shelf
+setblock ~-7 ~35 ~-23 handcrafted:spruce_shelf
+setblock ~-12 ~35 ~-22 handcrafted:spruce_shelf
+setblock ~-10 ~35 ~-22 handcrafted:spruce_shelf
+setblock ~-8 ~35 ~-22 handcrafted:spruce_shelf
+setblock ~-6 ~35 ~-22 handcrafted:spruce_shelf
+setblock ~-1 ~28 ~-37 handcrafted:spruce_shelf
+setblock ~5 ~28 ~-37 handcrafted:spruce_shelf
+setblock ~26 ~20 ~-28 handcrafted:spruce_shelf
+setblock ~26 ~20 ~-25 handcrafted:spruce_shelf
+setblock ~24 ~21 ~-32 handcrafted:spruce_shelf
+setblock ~24 ~22 ~-32 handcrafted:spruce_shelf
+setblock ~29 ~20 ~-34 handcrafted:spruce_shelf
+setblock ~31 ~20 ~-28 handcrafted:spruce_shelf
+setblock ~35 ~20 ~-28 handcrafted:spruce_shelf
+setblock ~-44 ~22 ~-8 handcrafted:spruce_shelf
+setblock ~-41 ~27 ~-10 handcrafted:spruce_shelf
+setblock ~-37 ~27 ~-10 handcrafted:spruce_shelf
+setblock ~-48 ~27 ~-9 handcrafted:spruce_shelf
+setblock ~-44 ~27 ~-9 handcrafted:spruce_shelf
+setblock ~-48 ~27 ~-7 handcrafted:spruce_shelf
+setblock ~-44 ~27 ~-7 handcrafted:spruce_shelf
+setblock ~-71 ~19 ~9 handcrafted:spruce_shelf
+setblock ~-68 ~19 ~9 handcrafted:spruce_shelf
+setblock ~-56 ~27 ~1 handcrafted:spruce_shelf
+setblock ~-53 ~27 ~1 handcrafted:spruce_shelf
+setblock ~-53 ~27 ~5 handcrafted:spruce_shelf
+setblock ~-56 ~27 ~10 handcrafted:spruce_shelf
+setblock ~-56 ~28 ~1 handcrafted:spruce_shelf
+setblock ~-54 ~28 ~10 handcrafted:spruce_shelf
+setblock ~-54 ~29 ~10 handcrafted:spruce_shelf
+setblock ~-54 ~30 ~10 handcrafted:spruce_shelf
+setblock ~-54 ~31 ~10 handcrafted:spruce_shelf
+setblock ~-54 ~32 ~10 handcrafted:spruce_shelf
+setblock ~-54 ~33 ~10 handcrafted:spruce_shelf
+setblock ~-54 ~36 ~10 handcrafted:spruce_shelf
+setblock ~-44 ~22 ~-5 handcrafted:spruce_shelf
+setblock ~-46 ~22 ~4 handcrafted:spruce_shelf
+setblock ~-46 ~22 ~7 handcrafted:spruce_shelf
+setblock ~-48 ~27 ~-3 handcrafted:spruce_shelf
+setblock ~-44 ~27 ~-3 handcrafted:spruce_shelf
+setblock ~-40 ~28 ~-4 handcrafted:spruce_shelf
+setblock ~-48 ~28 ~0 handcrafted:spruce_shelf
+setblock ~-44 ~28 ~0 handcrafted:spruce_shelf
+setblock ~-50 ~28 ~1 handcrafted:spruce_shelf
+setblock ~-40 ~28 ~1 handcrafted:spruce_shelf
+setblock ~-38 ~28 ~1 handcrafted:spruce_shelf
+setblock ~-36 ~28 ~1 handcrafted:spruce_shelf
+setblock ~-50 ~28 ~5 handcrafted:spruce_shelf
+setblock ~-40 ~28 ~6 handcrafted:spruce_shelf
+setblock ~-38 ~28 ~6 handcrafted:spruce_shelf
+setblock ~-36 ~28 ~6 handcrafted:spruce_shelf
+setblock ~-48 ~28 ~8 handcrafted:spruce_shelf
+setblock ~-51 ~28 ~9 handcrafted:spruce_shelf
+setblock ~-50 ~28 ~9 handcrafted:spruce_shelf
+setblock ~-49 ~28 ~9 handcrafted:spruce_shelf
+setblock ~-40 ~28 ~9 handcrafted:spruce_shelf
+setblock ~-36 ~28 ~9 handcrafted:spruce_shelf
+setblock ~-44 ~28 ~10 handcrafted:spruce_shelf
+setblock ~-48 ~29 ~8 handcrafted:spruce_shelf
+setblock ~-44 ~29 ~10 handcrafted:spruce_shelf
+setblock ~-48 ~30 ~8 handcrafted:spruce_shelf
+setblock ~-44 ~30 ~10 handcrafted:spruce_shelf
+setblock ~-48 ~31 ~8 handcrafted:spruce_shelf
+setblock ~-44 ~31 ~10 handcrafted:spruce_shelf
+setblock ~-48 ~32 ~8 handcrafted:spruce_shelf
+setblock ~-44 ~32 ~10 handcrafted:spruce_shelf
+setblock ~-48 ~33 ~8 handcrafted:spruce_shelf
+setblock ~-51 ~33 ~9 handcrafted:spruce_shelf
+setblock ~-50 ~33 ~9 handcrafted:spruce_shelf
+setblock ~-49 ~33 ~9 handcrafted:spruce_shelf
+setblock ~-44 ~33 ~10 handcrafted:spruce_shelf
+setblock ~-40 ~36 ~-4 handcrafted:spruce_shelf
+setblock ~-39 ~36 ~-3 handcrafted:spruce_shelf
+setblock ~-40 ~36 ~-2 handcrafted:spruce_shelf
+setblock ~-50 ~36 ~1 handcrafted:spruce_shelf
+setblock ~-41 ~36 ~1 handcrafted:spruce_shelf
+setblock ~-40 ~36 ~1 handcrafted:spruce_shelf
+setblock ~-39 ~36 ~2 handcrafted:spruce_shelf
+setblock ~-36 ~36 ~4 handcrafted:spruce_shelf
+setblock ~-50 ~36 ~5 handcrafted:spruce_shelf
+setblock ~-45 ~36 ~6 handcrafted:spruce_shelf
+setblock ~-46 ~36 ~7 handcrafted:spruce_shelf
+setblock ~-45 ~36 ~8 handcrafted:spruce_shelf
+setblock ~-39 ~37 ~-3 handcrafted:spruce_shelf
+setblock ~-39 ~37 ~2 handcrafted:spruce_shelf
+setblock ~-46 ~37 ~7 handcrafted:spruce_shelf
+setblock ~-39 ~38 ~2 handcrafted:spruce_shelf
+setblock ~-39 ~39 ~2 handcrafted:spruce_shelf
+setblock ~-41 ~40 ~1 handcrafted:spruce_shelf
+setblock ~-40 ~40 ~1 handcrafted:spruce_shelf
+setblock ~-39 ~40 ~2 handcrafted:spruce_shelf
+setblock ~-27 ~28 ~1 handcrafted:spruce_shelf
+setblock ~-31 ~28 ~4 handcrafted:spruce_shelf
+setblock ~-30 ~28 ~5 handcrafted:spruce_shelf
+setblock ~-31 ~28 ~6 handcrafted:spruce_shelf
+setblock ~-27 ~29 ~1 handcrafted:spruce_shelf
+setblock ~-30 ~29 ~5 handcrafted:spruce_shelf
+setblock ~-32 ~36 ~4 handcrafted:spruce_shelf
+setblock ~-32 ~36 ~10 handcrafted:spruce_shelf
+setblock ~-30 ~36 ~10 handcrafted:spruce_shelf
+setblock ~-25 ~81 ~7 handcrafted:spruce_shelf
+setblock ~-22 ~81 ~7 handcrafted:spruce_shelf
+setblock ~-25 ~81 ~10 handcrafted:spruce_shelf
+setblock ~-71 ~19 ~15 handcrafted:spruce_shelf
+setblock ~-68 ~19 ~15 handcrafted:spruce_shelf
+setblock ~-56 ~27 ~14 handcrafted:spruce_shelf
+setblock ~-53 ~27 ~19 handcrafted:spruce_shelf
+setblock ~-58 ~27 ~21 handcrafted:spruce_shelf
+setblock ~-53 ~27 ~23 handcrafted:spruce_shelf
+setblock ~-58 ~27 ~25 handcrafted:spruce_shelf
+setblock ~-53 ~28 ~11 handcrafted:spruce_shelf
+setblock ~-53 ~28 ~12 handcrafted:spruce_shelf
+setblock ~-53 ~28 ~13 handcrafted:spruce_shelf
+setblock ~-54 ~28 ~14 handcrafted:spruce_shelf
+setblock ~-54 ~29 ~14 handcrafted:spruce_shelf
+setblock ~-54 ~30 ~14 handcrafted:spruce_shelf
+setblock ~-54 ~31 ~14 handcrafted:spruce_shelf
+setblock ~-54 ~32 ~14 handcrafted:spruce_shelf
+setblock ~-53 ~33 ~11 handcrafted:spruce_shelf
+setblock ~-53 ~33 ~12 handcrafted:spruce_shelf
+setblock ~-53 ~33 ~13 handcrafted:spruce_shelf
+setblock ~-54 ~33 ~14 handcrafted:spruce_shelf
+setblock ~-54 ~36 ~14 handcrafted:spruce_shelf
+setblock ~-53 ~36 ~14 handcrafted:spruce_shelf
+setblock ~-52 ~36 ~14 handcrafted:spruce_shelf
+setblock ~-54 ~36 ~15 handcrafted:spruce_shelf
+setblock ~-54 ~37 ~15 handcrafted:spruce_shelf
+setblock ~-54 ~38 ~15 handcrafted:spruce_shelf
+setblock ~-54 ~39 ~15 handcrafted:spruce_shelf
+setblock ~-53 ~40 ~14 handcrafted:spruce_shelf
+setblock ~-52 ~40 ~14 handcrafted:spruce_shelf
+setblock ~-54 ~40 ~15 handcrafted:spruce_shelf
+setblock ~-48 ~22 ~13 handcrafted:spruce_shelf
+setblock ~-48 ~22 ~16 handcrafted:spruce_shelf
+setblock ~-44 ~22 ~21 handcrafted:spruce_shelf
+setblock ~-44 ~22 ~24 handcrafted:spruce_shelf
+setblock ~-51 ~28 ~11 handcrafted:spruce_shelf
+setblock ~-47 ~28 ~11 handcrafted:spruce_shelf
+setblock ~-45 ~28 ~11 handcrafted:spruce_shelf
+setblock ~-45 ~28 ~12 handcrafted:spruce_shelf
+setblock ~-39 ~28 ~12 handcrafted:spruce_shelf
+setblock ~-51 ~28 ~13 handcrafted:spruce_shelf
+setblock ~-47 ~28 ~13 handcrafted:spruce_shelf
+setblock ~-45 ~28 ~13 handcrafted:spruce_shelf
+setblock ~-44 ~28 ~14 handcrafted:spruce_shelf
+setblock ~-51 ~28 ~15 handcrafted:spruce_shelf
+setblock ~-50 ~28 ~15 handcrafted:spruce_shelf
+setblock ~-49 ~28 ~15 handcrafted:spruce_shelf
+setblock ~-40 ~28 ~15 handcrafted:spruce_shelf
+setblock ~-36 ~28 ~15 handcrafted:spruce_shelf
+setblock ~-48 ~28 ~16 handcrafted:spruce_shelf
+setblock ~-49 ~28 ~19 handcrafted:spruce_shelf
+setblock ~-39 ~28 ~19 handcrafted:spruce_shelf
+setblock ~-37 ~28 ~19 handcrafted:spruce_shelf
+setblock ~-41 ~28 ~21 handcrafted:spruce_shelf
+setblock ~-47 ~28 ~23 handcrafted:spruce_shelf
+setblock ~-41 ~28 ~23 handcrafted:spruce_shelf
+setblock ~-44 ~28 ~24 handcrafted:spruce_shelf
+setblock ~-39 ~28 ~25 handcrafted:spruce_shelf
+setblock ~-37 ~28 ~25 handcrafted:spruce_shelf
+setblock ~-44 ~29 ~14 handcrafted:spruce_shelf
+setblock ~-48 ~29 ~16 handcrafted:spruce_shelf
+setblock ~-44 ~30 ~14 handcrafted:spruce_shelf
+setblock ~-48 ~30 ~16 handcrafted:spruce_shelf
+setblock ~-44 ~31 ~14 handcrafted:spruce_shelf
+setblock ~-48 ~31 ~16 handcrafted:spruce_shelf
+setblock ~-44 ~32 ~14 handcrafted:spruce_shelf
+setblock ~-48 ~32 ~16 handcrafted:spruce_shelf
+setblock ~-45 ~33 ~11 handcrafted:spruce_shelf
+setblock ~-45 ~33 ~12 handcrafted:spruce_shelf
+setblock ~-45 ~33 ~13 handcrafted:spruce_shelf
+setblock ~-44 ~33 ~14 handcrafted:spruce_shelf
+setblock ~-51 ~33 ~15 handcrafted:spruce_shelf
+setblock ~-50 ~33 ~15 handcrafted:spruce_shelf
+setblock ~-49 ~33 ~15 handcrafted:spruce_shelf
+setblock ~-48 ~33 ~16 handcrafted:spruce_shelf
+setblock ~-49 ~36 ~11 handcrafted:spruce_shelf
+setblock ~-46 ~36 ~11 handcrafted:spruce_shelf
+setblock ~-51 ~36 ~15 handcrafted:spruce_shelf
+setblock ~-44 ~36 ~15 handcrafted:spruce_shelf
+setblock ~-50 ~36 ~16 handcrafted:spruce_shelf
+setblock ~-49 ~36 ~17 handcrafted:spruce_shelf
+setblock ~-49 ~36 ~18 handcrafted:spruce_shelf
+setblock ~-44 ~36 ~18 handcrafted:spruce_shelf
+setblock ~-50 ~36 ~19 handcrafted:spruce_shelf
+setblock ~-36 ~36 ~20 handcrafted:spruce_shelf
+setblock ~-49 ~36 ~22 handcrafted:spruce_shelf
+setblock ~-36 ~36 ~22 handcrafted:spruce_shelf
+setblock ~-50 ~36 ~23 handcrafted:spruce_shelf
+setblock ~-48 ~36 ~23 handcrafted:spruce_shelf
+setblock ~-37 ~36 ~23 handcrafted:spruce_shelf
+setblock ~-36 ~36 ~24 handcrafted:spruce_shelf
+setblock ~-41 ~36 ~25 handcrafted:spruce_shelf
+setblock ~-51 ~37 ~15 handcrafted:spruce_shelf
+setblock ~-50 ~37 ~16 handcrafted:spruce_shelf
+setblock ~-50 ~37 ~19 handcrafted:spruce_shelf
+setblock ~-49 ~37 ~22 handcrafted:spruce_shelf
+setblock ~-37 ~37 ~23 handcrafted:spruce_shelf
+setblock ~-51 ~38 ~15 handcrafted:spruce_shelf
+setblock ~-50 ~38 ~16 handcrafted:spruce_shelf
+setblock ~-50 ~38 ~19 handcrafted:spruce_shelf
+setblock ~-51 ~39 ~15 handcrafted:spruce_shelf
+setblock ~-50 ~39 ~16 handcrafted:spruce_shelf
+setblock ~-50 ~39 ~19 handcrafted:spruce_shelf
+setblock ~-51 ~40 ~15 handcrafted:spruce_shelf
+setblock ~-31 ~28 ~16 handcrafted:spruce_shelf
+setblock ~-31 ~28 ~18 handcrafted:spruce_shelf
+setblock ~-35 ~28 ~21 handcrafted:spruce_shelf
+setblock ~-35 ~28 ~23 handcrafted:spruce_shelf
+setblock ~-32 ~28 ~24 handcrafted:spruce_shelf
+setblock ~-28 ~28 ~24 handcrafted:spruce_shelf
+setblock ~-32 ~36 ~14 handcrafted:spruce_shelf
+setblock ~-30 ~36 ~14 handcrafted:spruce_shelf
+setblock ~-32 ~36 ~20 handcrafted:spruce_shelf
+setblock ~-25 ~81 ~13 handcrafted:spruce_shelf
+setblock ~-25 ~90 ~11 handcrafted:spruce_shelf
+setblock ~-21 ~90 ~11 handcrafted:spruce_shelf
+setblock ~-25 ~90 ~13 handcrafted:spruce_shelf
+setblock ~-21 ~90 ~13 handcrafted:spruce_shelf
+setblock ~-44 ~22 ~29 handcrafted:spruce_shelf
+setblock ~-44 ~22 ~32 handcrafted:spruce_shelf
+setblock ~-48 ~27 ~27 handcrafted:spruce_shelf
+setblock ~-44 ~27 ~27 handcrafted:spruce_shelf
+setblock ~-44 ~27 ~32 handcrafted:spruce_shelf
+setblock ~-43 ~27 ~34 handcrafted:spruce_shelf
+setblock ~-39 ~27 ~34 handcrafted:spruce_shelf
+setblock ~-41 ~36 ~28 handcrafted:spruce_shelf
+setblock ~-37 ~22 ~46 handcrafted:spruce_shelf
+setblock ~-40 ~27 ~44 handcrafted:spruce_shelf
+setblock ~-39 ~27 ~44 handcrafted:spruce_shelf
+setblock ~-41 ~27 ~45 handcrafted:spruce_shelf
+setblock ~-38 ~27 ~45 handcrafted:spruce_shelf
+setblock ~-36 ~27 ~45 handcrafted:spruce_shelf
+setblock ~-43 ~28 ~47 handcrafted:spruce_shelf
+setblock ~-44 ~28 ~48 handcrafted:spruce_shelf
+setblock ~-44 ~28 ~49 handcrafted:spruce_shelf
+setblock ~-43 ~28 ~50 handcrafted:spruce_shelf
+setblock ~-41 ~31 ~55 handcrafted:spruce_shelf
+setblock ~-42 ~31 ~56 handcrafted:spruce_shelf
+setblock ~-41 ~31 ~57 handcrafted:spruce_shelf
+setblock ~-36 ~39 ~50 handcrafted:spruce_shelf
+setblock ~-41 ~39 ~55 handcrafted:spruce_shelf
+setblock ~-42 ~39 ~56 handcrafted:spruce_shelf
+setblock ~-41 ~39 ~57 handcrafted:spruce_shelf
+setblock ~-33 ~22 ~46 handcrafted:spruce_shelf
+setblock ~-30 ~22 ~49 handcrafted:spruce_shelf
+setblock ~-30 ~22 ~53 handcrafted:spruce_shelf
+setblock ~-35 ~27 ~44 handcrafted:spruce_shelf
+setblock ~-34 ~27 ~44 handcrafted:spruce_shelf
+setblock ~-33 ~27 ~45 handcrafted:spruce_shelf
+setblock ~-29 ~31 ~55 handcrafted:spruce_shelf
+setblock ~-28 ~31 ~56 handcrafted:spruce_shelf
+setblock ~-29 ~31 ~57 handcrafted:spruce_shelf
+setblock ~-35 ~39 ~49 handcrafted:spruce_shelf
+setblock ~-34 ~39 ~50 handcrafted:spruce_shelf
+setblock ~-29 ~39 ~55 handcrafted:spruce_shelf
+setblock ~-28 ~39 ~56 handcrafted:spruce_shelf
+setblock ~-29 ~39 ~57 handcrafted:spruce_shelf
+setblock ~-36 ~31 ~62 handcrafted:spruce_shelf
+setblock ~-36 ~39 ~62 handcrafted:spruce_shelf
+setblock ~-34 ~31 ~62 handcrafted:spruce_shelf
+setblock ~-35 ~31 ~63 handcrafted:spruce_shelf
+setblock ~-34 ~39 ~62 handcrafted:spruce_shelf
+setblock ~-35 ~39 ~63 handcrafted:spruce_shelf
+setblock ~-12 ~27 ~-6 handcrafted:spruce_shelf
+setblock ~-6 ~27 ~-6 handcrafted:spruce_shelf
+setblock ~-13 ~35 ~-20 handcrafted:spruce_shelf
+setblock ~-14 ~35 ~-19 handcrafted:spruce_shelf
+setblock ~-14 ~35 ~-18 handcrafted:spruce_shelf
+setblock ~-13 ~35 ~-17 handcrafted:spruce_shelf
+setblock ~-13 ~35 ~-13 handcrafted:spruce_shelf
+setblock ~-14 ~35 ~-12 handcrafted:spruce_shelf
+setblock ~-14 ~35 ~-11 handcrafted:spruce_shelf
+setblock ~-13 ~35 ~-10 handcrafted:spruce_shelf
+setblock ~-12 ~35 ~-8 handcrafted:spruce_shelf
+setblock ~-10 ~35 ~-8 handcrafted:spruce_shelf
+setblock ~-8 ~35 ~-8 handcrafted:spruce_shelf
+setblock ~-6 ~35 ~-8 handcrafted:spruce_shelf
+setblock ~-11 ~35 ~-7 handcrafted:spruce_shelf
+setblock ~-7 ~35 ~-7 handcrafted:spruce_shelf
+setblock ~-5 ~36 ~-20 handcrafted:spruce_shelf
+setblock ~-4 ~36 ~-19 handcrafted:spruce_shelf
+setblock ~-4 ~36 ~-18 handcrafted:spruce_shelf
+setblock ~-5 ~36 ~-17 handcrafted:spruce_shelf
+setblock ~12 ~26 ~-15 handcrafted:spruce_shelf
+setblock ~12 ~26 ~-13 handcrafted:spruce_shelf
+setblock ~12 ~26 ~-9 handcrafted:spruce_shelf
+setblock ~12 ~27 ~-7 handcrafted:spruce_shelf
+setblock ~-3 ~28 ~-13 handcrafted:spruce_shelf
+setblock ~7 ~28 ~-13 handcrafted:spruce_shelf
+setblock ~-3 ~28 ~-9 handcrafted:spruce_shelf
+setblock ~7 ~28 ~-9 handcrafted:spruce_shelf
+setblock ~11 ~34 ~-20 handcrafted:spruce_shelf
+setblock ~12 ~34 ~-19 handcrafted:spruce_shelf
+setblock ~11 ~42 ~-18 handcrafted:spruce_shelf
+setblock ~12 ~42 ~-17 handcrafted:spruce_shelf
+setblock ~11 ~42 ~-16 handcrafted:spruce_shelf
+setblock ~11 ~42 ~-14 handcrafted:spruce_shelf
+setblock ~12 ~42 ~-13 handcrafted:spruce_shelf
+setblock ~11 ~42 ~-12 handcrafted:spruce_shelf
+setblock ~11 ~50 ~-20 handcrafted:spruce_shelf
+setblock ~12 ~50 ~-19 handcrafted:spruce_shelf
+setblock ~14 ~26 ~-17 handcrafted:spruce_shelf
+setblock ~16 ~26 ~-17 handcrafted:spruce_shelf
+setblock ~22 ~26 ~-17 handcrafted:spruce_shelf
+setblock ~18 ~26 ~-15 handcrafted:spruce_shelf
+setblock ~18 ~26 ~-13 handcrafted:spruce_shelf
+setblock ~22 ~26 ~-13 handcrafted:spruce_shelf
+setblock ~14 ~26 ~-11 handcrafted:spruce_shelf
+setblock ~16 ~26 ~-11 handcrafted:spruce_shelf
+setblock ~16 ~26 ~-9 handcrafted:spruce_shelf
+setblock ~18 ~26 ~-9 handcrafted:spruce_shelf
+setblock ~22 ~26 ~-9 handcrafted:spruce_shelf
+setblock ~16 ~27 ~-20 handcrafted:spruce_shelf
+setblock ~13 ~27 ~-19 handcrafted:spruce_shelf
+setblock ~15 ~27 ~-7 handcrafted:spruce_shelf
+setblock ~13 ~34 ~-20 handcrafted:spruce_shelf
+setblock ~18 ~34 ~-15 handcrafted:spruce_shelf
+setblock ~20 ~34 ~-15 handcrafted:spruce_shelf
+setblock ~18 ~34 ~-11 handcrafted:spruce_shelf
+setblock ~20 ~34 ~-11 handcrafted:spruce_shelf
+setblock ~18 ~42 ~-15 handcrafted:spruce_shelf
+setblock ~20 ~42 ~-15 handcrafted:spruce_shelf
+setblock ~18 ~42 ~-11 handcrafted:spruce_shelf
+setblock ~20 ~42 ~-11 handcrafted:spruce_shelf
+setblock ~13 ~50 ~-20 handcrafted:spruce_shelf
+setblock ~18 ~50 ~-15 handcrafted:spruce_shelf
+setblock ~20 ~50 ~-15 handcrafted:spruce_shelf
+setblock ~18 ~50 ~-11 handcrafted:spruce_shelf
+setblock ~20 ~50 ~-11 handcrafted:spruce_shelf
+setblock ~45 ~20 ~-17 handcrafted:spruce_shelf
+setblock ~47 ~20 ~-17 handcrafted:spruce_shelf
+setblock ~49 ~20 ~-17 handcrafted:spruce_shelf
+setblock ~45 ~20 ~-13 handcrafted:spruce_shelf
+setblock ~47 ~20 ~-13 handcrafted:spruce_shelf
+setblock ~49 ~20 ~-13 handcrafted:spruce_shelf
+setblock ~45 ~21 ~-17 handcrafted:spruce_shelf
+setblock ~47 ~21 ~-17 handcrafted:spruce_shelf
+setblock ~49 ~21 ~-17 handcrafted:spruce_shelf
+setblock ~45 ~21 ~-13 handcrafted:spruce_shelf
+setblock ~47 ~21 ~-13 handcrafted:spruce_shelf
+setblock ~49 ~21 ~-13 handcrafted:spruce_shelf
+setblock ~-12 ~27 ~-4 handcrafted:spruce_shelf
+setblock ~-6 ~27 ~-4 handcrafted:spruce_shelf
+setblock ~-11 ~27 ~-2 handcrafted:spruce_shelf
+setblock ~-7 ~27 ~-2 handcrafted:spruce_shelf
+setblock ~-7 ~27 ~4 handcrafted:spruce_shelf
+setblock ~-14 ~39 ~10 handcrafted:spruce_shelf
+setblock ~-10 ~39 ~10 handcrafted:spruce_shelf
+setblock ~-3 ~27 ~4 handcrafted:spruce_shelf
+setblock ~6 ~28 ~9 handcrafted:spruce_shelf
+setblock ~9 ~28 ~9 handcrafted:spruce_shelf
+setblock ~10 ~39 ~9 handcrafted:spruce_shelf
+setblock ~10 ~49 ~9 handcrafted:spruce_shelf
+setblock ~3 ~59 ~7 handcrafted:spruce_shelf
+setblock ~5 ~59 ~7 handcrafted:spruce_shelf
+setblock ~10 ~59 ~9 handcrafted:spruce_shelf
+setblock ~1 ~68 ~7 handcrafted:spruce_shelf
+setblock ~3 ~68 ~7 handcrafted:spruce_shelf
+setblock ~0 ~68 ~10 handcrafted:spruce_shelf
+setblock ~1 ~79 ~9 handcrafted:spruce_shelf
+setblock ~4 ~79 ~10 handcrafted:spruce_shelf
+setblock ~21 ~24 ~-3 handcrafted:spruce_shelf
+setblock ~21 ~24 ~1 handcrafted:spruce_shelf
+setblock ~28 ~24 ~9 handcrafted:spruce_shelf
+setblock ~15 ~25 ~3 handcrafted:spruce_shelf
+setblock ~19 ~25 ~3 handcrafted:spruce_shelf
+setblock ~15 ~25 ~7 handcrafted:spruce_shelf
+setblock ~19 ~25 ~7 handcrafted:spruce_shelf
+setblock ~14 ~27 ~-3 handcrafted:spruce_shelf
+setblock ~14 ~27 ~0 handcrafted:spruce_shelf
+setblock ~29 ~25 ~3 handcrafted:spruce_shelf
+setblock ~33 ~25 ~3 handcrafted:spruce_shelf
+setblock ~35 ~25 ~4 handcrafted:spruce_shelf
+setblock ~37 ~25 ~4 handcrafted:spruce_shelf
+setblock ~39 ~25 ~6 handcrafted:spruce_shelf
+setblock ~35 ~25 ~8 handcrafted:spruce_shelf
+setblock ~37 ~25 ~8 handcrafted:spruce_shelf
+setblock ~39 ~25 ~8 handcrafted:spruce_shelf
+setblock ~39 ~25 ~10 handcrafted:spruce_shelf
+setblock ~38 ~45 ~4 handcrafted:spruce_shelf
+setblock ~38 ~45 ~5 handcrafted:spruce_shelf
+setblock ~38 ~45 ~6 handcrafted:spruce_shelf
+setblock ~38 ~45 ~7 handcrafted:spruce_shelf
+setblock ~38 ~45 ~8 handcrafted:spruce_shelf
+setblock ~38 ~45 ~9 handcrafted:spruce_shelf
+setblock ~38 ~45 ~10 handcrafted:spruce_shelf
+setblock ~39 ~47 ~3 handcrafted:spruce_shelf
+setblock ~39 ~47 ~4 handcrafted:spruce_shelf
+setblock ~39 ~47 ~5 handcrafted:spruce_shelf
+setblock ~39 ~47 ~6 handcrafted:spruce_shelf
+setblock ~39 ~47 ~7 handcrafted:spruce_shelf
+setblock ~39 ~47 ~8 handcrafted:spruce_shelf
+setblock ~39 ~47 ~9 handcrafted:spruce_shelf
+setblock ~39 ~47 ~10 handcrafted:spruce_shelf
+setblock ~40 ~49 ~3 handcrafted:spruce_shelf
+setblock ~44 ~49 ~3 handcrafted:spruce_shelf
+setblock ~40 ~49 ~4 handcrafted:spruce_shelf
+setblock ~44 ~49 ~4 handcrafted:spruce_shelf
+setblock ~40 ~49 ~5 handcrafted:spruce_shelf
+setblock ~44 ~49 ~5 handcrafted:spruce_shelf
+setblock ~40 ~49 ~6 handcrafted:spruce_shelf
+setblock ~44 ~49 ~6 handcrafted:spruce_shelf
+setblock ~40 ~49 ~7 handcrafted:spruce_shelf
+setblock ~44 ~49 ~7 handcrafted:spruce_shelf
+setblock ~40 ~49 ~8 handcrafted:spruce_shelf
+setblock ~44 ~49 ~8 handcrafted:spruce_shelf
+setblock ~40 ~49 ~9 handcrafted:spruce_shelf
+setblock ~44 ~49 ~9 handcrafted:spruce_shelf
+setblock ~40 ~49 ~10 handcrafted:spruce_shelf
+setblock ~44 ~49 ~10 handcrafted:spruce_shelf
+setblock ~41 ~51 ~3 handcrafted:spruce_shelf
+setblock ~43 ~51 ~3 handcrafted:spruce_shelf
+setblock ~41 ~51 ~4 handcrafted:spruce_shelf
+setblock ~43 ~51 ~4 handcrafted:spruce_shelf
+setblock ~41 ~51 ~5 handcrafted:spruce_shelf
+setblock ~43 ~51 ~5 handcrafted:spruce_shelf
+setblock ~41 ~51 ~6 handcrafted:spruce_shelf
+setblock ~43 ~51 ~6 handcrafted:spruce_shelf
+setblock ~41 ~51 ~7 handcrafted:spruce_shelf
+setblock ~43 ~51 ~7 handcrafted:spruce_shelf
+setblock ~41 ~51 ~8 handcrafted:spruce_shelf
+setblock ~43 ~51 ~8 handcrafted:spruce_shelf
+setblock ~41 ~51 ~9 handcrafted:spruce_shelf
+setblock ~43 ~51 ~9 handcrafted:spruce_shelf
+setblock ~41 ~51 ~10 handcrafted:spruce_shelf
+setblock ~43 ~51 ~10 handcrafted:spruce_shelf
+setblock ~54 ~25 ~-5 handcrafted:spruce_shelf
+setblock ~55 ~25 ~-5 handcrafted:spruce_shelf
+setblock ~50 ~25 ~-4 handcrafted:spruce_shelf
+setblock ~50 ~25 ~-2 handcrafted:spruce_shelf
+setblock ~47 ~25 ~5 handcrafted:spruce_shelf
+setblock ~45 ~25 ~6 handcrafted:spruce_shelf
+setblock ~45 ~25 ~8 handcrafted:spruce_shelf
+setblock ~47 ~25 ~9 handcrafted:spruce_shelf
+setblock ~45 ~25 ~10 handcrafted:spruce_shelf
+setblock ~46 ~45 ~4 handcrafted:spruce_shelf
+setblock ~46 ~45 ~5 handcrafted:spruce_shelf
+setblock ~46 ~45 ~6 handcrafted:spruce_shelf
+setblock ~46 ~45 ~7 handcrafted:spruce_shelf
+setblock ~46 ~45 ~8 handcrafted:spruce_shelf
+setblock ~46 ~45 ~9 handcrafted:spruce_shelf
+setblock ~46 ~45 ~10 handcrafted:spruce_shelf
+setblock ~45 ~47 ~3 handcrafted:spruce_shelf
+setblock ~45 ~47 ~4 handcrafted:spruce_shelf
+setblock ~45 ~47 ~5 handcrafted:spruce_shelf
+setblock ~45 ~47 ~6 handcrafted:spruce_shelf
+setblock ~45 ~47 ~7 handcrafted:spruce_shelf
+setblock ~45 ~47 ~8 handcrafted:spruce_shelf
+setblock ~45 ~47 ~9 handcrafted:spruce_shelf
+setblock ~45 ~47 ~10 handcrafted:spruce_shelf
+setblock ~71 ~18 ~10 handcrafted:spruce_shelf
+setblock ~74 ~18 ~10 handcrafted:spruce_shelf
+setblock ~-5 ~2 ~16 handcrafted:spruce_shelf
+setblock ~-6 ~2 ~17 handcrafted:spruce_shelf
+setblock ~-5 ~2 ~18 handcrafted:spruce_shelf
+setblock ~-6 ~3 ~17 handcrafted:spruce_shelf
+setblock ~-18 ~25 ~20 handcrafted:spruce_shelf
+setblock ~-14 ~25 ~20 handcrafted:spruce_shelf
+setblock ~-5 ~28 ~14 handcrafted:spruce_shelf
+setblock ~-6 ~28 ~15 handcrafted:spruce_shelf
+setblock ~-6 ~28 ~17 handcrafted:spruce_shelf
+setblock ~-5 ~29 ~14 handcrafted:spruce_shelf
+setblock ~-5 ~30 ~14 handcrafted:spruce_shelf
+setblock ~-14 ~39 ~14 handcrafted:spruce_shelf
+setblock ~-10 ~39 ~14 handcrafted:spruce_shelf
+setblock ~-4 ~40 ~19 handcrafted:spruce_shelf
+setblock ~-5 ~59 ~21 handcrafted:spruce_shelf
+setblock ~-6 ~59 ~22 handcrafted:spruce_shelf
+setblock ~-4 ~59 ~22 handcrafted:spruce_shelf
+setblock ~-5 ~60 ~21 handcrafted:spruce_shelf
+setblock ~-15 ~66 ~13 handcrafted:spruce_shelf
+setblock ~-11 ~66 ~13 handcrafted:spruce_shelf
+setblock ~-6 ~68 ~15 handcrafted:spruce_shelf
+setblock ~-6 ~68 ~18 handcrafted:spruce_shelf
+setblock ~-6 ~79 ~13 handcrafted:spruce_shelf
+setblock ~-6 ~79 ~17 handcrafted:spruce_shelf
+setblock ~10 ~28 ~19 handcrafted:spruce_shelf
+setblock ~10 ~28 ~22 handcrafted:spruce_shelf
+setblock ~6 ~28 ~23 handcrafted:spruce_shelf
+setblock ~9 ~28 ~23 handcrafted:spruce_shelf
+setblock ~4 ~39 ~12 handcrafted:spruce_shelf
+setblock ~6 ~39 ~12 handcrafted:spruce_shelf
+setblock ~10 ~39 ~12 handcrafted:spruce_shelf
+setblock ~2 ~39 ~14 handcrafted:spruce_shelf
+setblock ~8 ~39 ~14 handcrafted:spruce_shelf
+setblock ~2 ~39 ~16 handcrafted:spruce_shelf
+setblock ~8 ~39 ~16 handcrafted:spruce_shelf
+setblock ~4 ~39 ~18 handcrafted:spruce_shelf
+setblock ~6 ~39 ~18 handcrafted:spruce_shelf
+setblock ~10 ~39 ~18 handcrafted:spruce_shelf
+setblock ~10 ~39 ~21 handcrafted:spruce_shelf
+setblock ~-3 ~40 ~15 handcrafted:spruce_shelf
+setblock ~-3 ~40 ~22 handcrafted:spruce_shelf
+setblock ~3 ~49 ~12 handcrafted:spruce_shelf
+setblock ~8 ~49 ~12 handcrafted:spruce_shelf
+setblock ~10 ~49 ~12 handcrafted:spruce_shelf
+setblock ~1 ~49 ~13 handcrafted:spruce_shelf
+setblock ~2 ~49 ~14 handcrafted:spruce_shelf
+setblock ~3 ~49 ~14 handcrafted:spruce_shelf
+setblock ~8 ~49 ~14 handcrafted:spruce_shelf
+setblock ~2 ~49 ~15 handcrafted:spruce_shelf
+setblock ~1 ~49 ~16 handcrafted:spruce_shelf
+setblock ~3 ~49 ~16 handcrafted:spruce_shelf
+setblock ~8 ~49 ~16 handcrafted:spruce_shelf
+setblock ~3 ~49 ~18 handcrafted:spruce_shelf
+setblock ~8 ~49 ~18 handcrafted:spruce_shelf
+setblock ~10 ~49 ~18 handcrafted:spruce_shelf
+setblock ~10 ~49 ~21 handcrafted:spruce_shelf
+setblock ~1 ~50 ~13 handcrafted:spruce_shelf
+setblock ~1 ~50 ~16 handcrafted:spruce_shelf
+setblock ~1 ~51 ~13 handcrafted:spruce_shelf
+setblock ~1 ~51 ~16 handcrafted:spruce_shelf
+setblock ~1 ~52 ~13 handcrafted:spruce_shelf
+setblock ~1 ~52 ~16 handcrafted:spruce_shelf
+setblock ~10 ~59 ~12 handcrafted:spruce_shelf
+setblock ~10 ~59 ~18 handcrafted:spruce_shelf
+setblock ~10 ~59 ~20 handcrafted:spruce_shelf
+setblock ~9 ~59 ~21 handcrafted:spruce_shelf
+setblock ~8 ~59 ~22 handcrafted:spruce_shelf
+setblock ~5 ~59 ~23 handcrafted:spruce_shelf
+setblock ~8 ~59 ~23 handcrafted:spruce_shelf
+setblock ~9 ~59 ~23 handcrafted:spruce_shelf
+setblock ~8 ~60 ~22 handcrafted:spruce_shelf
+setblock ~1 ~68 ~11 handcrafted:spruce_shelf
+setblock ~0 ~68 ~12 handcrafted:spruce_shelf
+setblock ~5 ~68 ~14 handcrafted:spruce_shelf
+setblock ~7 ~68 ~14 handcrafted:spruce_shelf
+setblock ~10 ~68 ~18 handcrafted:spruce_shelf
+setblock ~5 ~68 ~19 handcrafted:spruce_shelf
+setblock ~7 ~68 ~19 handcrafted:spruce_shelf
+setblock ~10 ~68 ~21 handcrafted:spruce_shelf
+setblock ~6 ~68 ~22 handcrafted:spruce_shelf
+setblock ~7 ~68 ~22 handcrafted:spruce_shelf
+setblock ~5 ~68 ~23 handcrafted:spruce_shelf
+setblock ~8 ~68 ~23 handcrafted:spruce_shelf
+setblock ~1 ~69 ~11 handcrafted:spruce_shelf
+setblock ~5 ~69 ~23 handcrafted:spruce_shelf
+setblock ~8 ~69 ~23 handcrafted:spruce_shelf
+setblock ~5 ~70 ~23 handcrafted:spruce_shelf
+setblock ~8 ~70 ~23 handcrafted:spruce_shelf
+setblock ~5 ~71 ~23 handcrafted:spruce_shelf
+setblock ~8 ~71 ~23 handcrafted:spruce_shelf
+setblock ~8 ~79 ~11 handcrafted:spruce_shelf
+setblock ~0 ~79 ~13 handcrafted:spruce_shelf
+setblock ~5 ~79 ~13 handcrafted:spruce_shelf
+setblock ~8 ~79 ~14 handcrafted:spruce_shelf
+setblock ~0 ~79 ~15 handcrafted:spruce_shelf
+setblock ~5 ~79 ~15 handcrafted:spruce_shelf
+setblock ~8 ~79 ~16 handcrafted:spruce_shelf
+setblock ~0 ~79 ~17 handcrafted:spruce_shelf
+setblock ~5 ~79 ~17 handcrafted:spruce_shelf
+setblock ~8 ~79 ~19 handcrafted:spruce_shelf
+setblock ~-2 ~79 ~21 handcrafted:spruce_shelf
+setblock ~1 ~79 ~21 handcrafted:spruce_shelf
+setblock ~3 ~79 ~21 handcrafted:spruce_shelf
+setblock ~6 ~79 ~21 handcrafted:spruce_shelf
+setblock ~15 ~24 ~11 handcrafted:spruce_shelf
+setblock ~19 ~24 ~11 handcrafted:spruce_shelf
+setblock ~22 ~24 ~14 handcrafted:spruce_shelf
+setblock ~26 ~24 ~14 handcrafted:spruce_shelf
+setblock ~19 ~29 ~22 handcrafted:spruce_shelf
+setblock ~19 ~29 ~26 handcrafted:spruce_shelf
+setblock ~23 ~37 ~21 handcrafted:spruce_shelf
+setblock ~25 ~37 ~21 handcrafted:spruce_shelf
+setblock ~23 ~37 ~25 handcrafted:spruce_shelf
+setblock ~26 ~37 ~25 handcrafted:spruce_shelf
+setblock ~13 ~38 ~22 handcrafted:spruce_shelf
+setblock ~16 ~38 ~22 handcrafted:spruce_shelf
+setblock ~14 ~38 ~25 handcrafted:spruce_shelf
+setblock ~24 ~45 ~21 handcrafted:spruce_shelf
+setblock ~26 ~45 ~21 handcrafted:spruce_shelf
+setblock ~24 ~45 ~25 handcrafted:spruce_shelf
+setblock ~26 ~45 ~25 handcrafted:spruce_shelf
+setblock ~20 ~46 ~22 handcrafted:spruce_shelf
+setblock ~21 ~46 ~25 handcrafted:spruce_shelf
+setblock ~22 ~57 ~20 handcrafted:spruce_shelf
+setblock ~24 ~57 ~20 handcrafted:spruce_shelf
+setblock ~21 ~57 ~23 handcrafted:spruce_shelf
+setblock ~28 ~57 ~23 handcrafted:spruce_shelf
+setblock ~22 ~57 ~24 handcrafted:spruce_shelf
+setblock ~21 ~57 ~25 handcrafted:spruce_shelf
+setblock ~28 ~57 ~25 handcrafted:spruce_shelf
+setblock ~22 ~65 ~20 handcrafted:spruce_shelf
+setblock ~24 ~65 ~20 handcrafted:spruce_shelf
+setblock ~21 ~65 ~23 handcrafted:spruce_shelf
+setblock ~28 ~65 ~23 handcrafted:spruce_shelf
+setblock ~22 ~65 ~24 handcrafted:spruce_shelf
+setblock ~21 ~65 ~25 handcrafted:spruce_shelf
+setblock ~28 ~65 ~25 handcrafted:spruce_shelf
+setblock ~26 ~77 ~20 handcrafted:spruce_shelf
+setblock ~19 ~77 ~22 handcrafted:spruce_shelf
+setblock ~21 ~77 ~22 handcrafted:spruce_shelf
+setblock ~23 ~77 ~22 handcrafted:spruce_shelf
+setblock ~19 ~77 ~26 handcrafted:spruce_shelf
+setblock ~21 ~77 ~26 handcrafted:spruce_shelf
+setblock ~23 ~77 ~26 handcrafted:spruce_shelf
+setblock ~23 ~85 ~23 handcrafted:spruce_shelf
+setblock ~25 ~85 ~23 handcrafted:spruce_shelf
+setblock ~23 ~85 ~25 handcrafted:spruce_shelf
+setblock ~25 ~85 ~25 handcrafted:spruce_shelf
+setblock ~39 ~25 ~12 handcrafted:spruce_shelf
+setblock ~39 ~25 ~14 handcrafted:spruce_shelf
+setblock ~39 ~25 ~16 handcrafted:spruce_shelf
+setblock ~41 ~25 ~18 handcrafted:spruce_shelf
+setblock ~31 ~25 ~19 handcrafted:spruce_shelf
+setblock ~34 ~25 ~19 handcrafted:spruce_shelf
+setblock ~41 ~25 ~19 handcrafted:spruce_shelf
+setblock ~40 ~28 ~25 handcrafted:spruce_shelf
+setblock ~42 ~28 ~25 handcrafted:spruce_shelf
+setblock ~44 ~28 ~25 handcrafted:spruce_shelf
+setblock ~29 ~29 ~22 handcrafted:spruce_shelf
+setblock ~29 ~29 ~25 handcrafted:spruce_shelf
+setblock ~40 ~29 ~25 handcrafted:spruce_shelf
+setblock ~42 ~29 ~25 handcrafted:spruce_shelf
+setblock ~44 ~29 ~25 handcrafted:spruce_shelf
+setblock ~42 ~30 ~25 handcrafted:spruce_shelf
+setblock ~31 ~37 ~25 handcrafted:spruce_shelf
+setblock ~35 ~37 ~25 handcrafted:spruce_shelf
+setblock ~38 ~45 ~11 handcrafted:spruce_shelf
+setblock ~38 ~45 ~12 handcrafted:spruce_shelf
+setblock ~38 ~45 ~13 handcrafted:spruce_shelf
+setblock ~38 ~45 ~14 handcrafted:spruce_shelf
+setblock ~38 ~45 ~15 handcrafted:spruce_shelf
+setblock ~38 ~45 ~16 handcrafted:spruce_shelf
+setblock ~38 ~45 ~17 handcrafted:spruce_shelf
+setblock ~38 ~45 ~18 handcrafted:spruce_shelf
+setblock ~38 ~45 ~19 handcrafted:spruce_shelf
+setblock ~38 ~45 ~20 handcrafted:spruce_shelf
+setblock ~38 ~45 ~21 handcrafted:spruce_shelf
+setblock ~38 ~45 ~22 handcrafted:spruce_shelf
+setblock ~38 ~45 ~23 handcrafted:spruce_shelf
+setblock ~38 ~45 ~24 handcrafted:spruce_shelf
+setblock ~39 ~47 ~11 handcrafted:spruce_shelf
+setblock ~39 ~47 ~12 handcrafted:spruce_shelf
+setblock ~39 ~47 ~13 handcrafted:spruce_shelf
+setblock ~39 ~47 ~14 handcrafted:spruce_shelf
+setblock ~39 ~47 ~15 handcrafted:spruce_shelf
+setblock ~39 ~47 ~16 handcrafted:spruce_shelf
+setblock ~39 ~47 ~17 handcrafted:spruce_shelf
+setblock ~39 ~47 ~18 handcrafted:spruce_shelf
+setblock ~39 ~47 ~19 handcrafted:spruce_shelf
+setblock ~39 ~47 ~20 handcrafted:spruce_shelf
+setblock ~39 ~47 ~21 handcrafted:spruce_shelf
+setblock ~39 ~47 ~22 handcrafted:spruce_shelf
+setblock ~39 ~47 ~23 handcrafted:spruce_shelf
+setblock ~39 ~47 ~24 handcrafted:spruce_shelf
+setblock ~39 ~47 ~25 handcrafted:spruce_shelf
+setblock ~40 ~49 ~11 handcrafted:spruce_shelf
+setblock ~44 ~49 ~11 handcrafted:spruce_shelf
+setblock ~40 ~49 ~12 handcrafted:spruce_shelf
+setblock ~44 ~49 ~12 handcrafted:spruce_shelf
+setblock ~40 ~49 ~13 handcrafted:spruce_shelf
+setblock ~44 ~49 ~13 handcrafted:spruce_shelf
+setblock ~40 ~49 ~14 handcrafted:spruce_shelf
+setblock ~44 ~49 ~14 handcrafted:spruce_shelf
+setblock ~40 ~49 ~15 handcrafted:spruce_shelf
+setblock ~44 ~49 ~15 handcrafted:spruce_shelf
+setblock ~40 ~49 ~16 handcrafted:spruce_shelf
+setblock ~44 ~49 ~16 handcrafted:spruce_shelf
+setblock ~40 ~49 ~17 handcrafted:spruce_shelf
+setblock ~44 ~49 ~17 handcrafted:spruce_shelf
+setblock ~40 ~49 ~18 handcrafted:spruce_shelf
+setblock ~44 ~49 ~18 handcrafted:spruce_shelf
+setblock ~40 ~49 ~19 handcrafted:spruce_shelf
+setblock ~44 ~49 ~19 handcrafted:spruce_shelf
+setblock ~40 ~49 ~20 handcrafted:spruce_shelf
+setblock ~44 ~49 ~20 handcrafted:spruce_shelf
+setblock ~40 ~49 ~21 handcrafted:spruce_shelf
+setblock ~44 ~49 ~21 handcrafted:spruce_shelf
+setblock ~40 ~49 ~22 handcrafted:spruce_shelf
+setblock ~44 ~49 ~22 handcrafted:spruce_shelf
+setblock ~40 ~49 ~23 handcrafted:spruce_shelf
+setblock ~44 ~49 ~23 handcrafted:spruce_shelf
+setblock ~40 ~49 ~24 handcrafted:spruce_shelf
+setblock ~44 ~49 ~24 handcrafted:spruce_shelf
+setblock ~40 ~49 ~25 handcrafted:spruce_shelf
+setblock ~44 ~49 ~25 handcrafted:spruce_shelf
+setblock ~41 ~51 ~11 handcrafted:spruce_shelf
+setblock ~43 ~51 ~11 handcrafted:spruce_shelf
+setblock ~41 ~51 ~12 handcrafted:spruce_shelf
+setblock ~43 ~51 ~12 handcrafted:spruce_shelf
+setblock ~41 ~51 ~13 handcrafted:spruce_shelf
+setblock ~43 ~51 ~13 handcrafted:spruce_shelf
+setblock ~41 ~51 ~14 handcrafted:spruce_shelf
+setblock ~43 ~51 ~14 handcrafted:spruce_shelf
+setblock ~41 ~51 ~15 handcrafted:spruce_shelf
+setblock ~43 ~51 ~15 handcrafted:spruce_shelf
+setblock ~41 ~51 ~16 handcrafted:spruce_shelf
+setblock ~43 ~51 ~16 handcrafted:spruce_shelf
+setblock ~41 ~51 ~17 handcrafted:spruce_shelf
+setblock ~43 ~51 ~17 handcrafted:spruce_shelf
+setblock ~41 ~51 ~18 handcrafted:spruce_shelf
+setblock ~43 ~51 ~18 handcrafted:spruce_shelf
+setblock ~41 ~51 ~19 handcrafted:spruce_shelf
+setblock ~43 ~51 ~19 handcrafted:spruce_shelf
+setblock ~41 ~51 ~20 handcrafted:spruce_shelf
+setblock ~43 ~51 ~20 handcrafted:spruce_shelf
+setblock ~41 ~51 ~21 handcrafted:spruce_shelf
+setblock ~43 ~51 ~21 handcrafted:spruce_shelf
+setblock ~41 ~51 ~22 handcrafted:spruce_shelf
+setblock ~43 ~51 ~22 handcrafted:spruce_shelf
+setblock ~41 ~51 ~23 handcrafted:spruce_shelf
+setblock ~43 ~51 ~23 handcrafted:spruce_shelf
+setblock ~41 ~51 ~24 handcrafted:spruce_shelf
+setblock ~43 ~51 ~24 handcrafted:spruce_shelf
+setblock ~41 ~51 ~25 handcrafted:spruce_shelf
+setblock ~43 ~51 ~25 handcrafted:spruce_shelf
+setblock ~45 ~25 ~12 handcrafted:spruce_shelf
+setblock ~45 ~25 ~14 handcrafted:spruce_shelf
+setblock ~45 ~25 ~16 handcrafted:spruce_shelf
+setblock ~53 ~25 ~25 handcrafted:spruce_shelf
+setblock ~56 ~25 ~25 handcrafted:spruce_shelf
+setblock ~46 ~45 ~11 handcrafted:spruce_shelf
+setblock ~47 ~45 ~12 handcrafted:spruce_shelf
+setblock ~47 ~45 ~16 handcrafted:spruce_shelf
+setblock ~46 ~45 ~17 handcrafted:spruce_shelf
+setblock ~46 ~45 ~18 handcrafted:spruce_shelf
+setblock ~46 ~45 ~19 handcrafted:spruce_shelf
+setblock ~46 ~45 ~20 handcrafted:spruce_shelf
+setblock ~46 ~45 ~21 handcrafted:spruce_shelf
+setblock ~46 ~45 ~22 handcrafted:spruce_shelf
+setblock ~46 ~45 ~23 handcrafted:spruce_shelf
+setblock ~46 ~45 ~24 handcrafted:spruce_shelf
+setblock ~45 ~47 ~11 handcrafted:spruce_shelf
+setblock ~45 ~47 ~12 handcrafted:spruce_shelf
+setblock ~46 ~47 ~13 handcrafted:spruce_shelf
+setblock ~47 ~47 ~13 handcrafted:spruce_shelf
+setblock ~48 ~47 ~13 handcrafted:spruce_shelf
+setblock ~49 ~47 ~13 handcrafted:spruce_shelf
+setblock ~46 ~47 ~15 handcrafted:spruce_shelf
+setblock ~47 ~47 ~15 handcrafted:spruce_shelf
+setblock ~48 ~47 ~15 handcrafted:spruce_shelf
+setblock ~49 ~47 ~15 handcrafted:spruce_shelf
+setblock ~45 ~47 ~16 handcrafted:spruce_shelf
+setblock ~45 ~47 ~17 handcrafted:spruce_shelf
+setblock ~45 ~47 ~18 handcrafted:spruce_shelf
+setblock ~45 ~47 ~19 handcrafted:spruce_shelf
+setblock ~45 ~47 ~20 handcrafted:spruce_shelf
+setblock ~45 ~47 ~21 handcrafted:spruce_shelf
+setblock ~45 ~47 ~22 handcrafted:spruce_shelf
+setblock ~45 ~47 ~23 handcrafted:spruce_shelf
+setblock ~45 ~47 ~24 handcrafted:spruce_shelf
+setblock ~45 ~47 ~25 handcrafted:spruce_shelf
+setblock ~71 ~18 ~14 handcrafted:spruce_shelf
+setblock ~74 ~18 ~14 handcrafted:spruce_shelf
+setblock ~-18 ~25 ~28 handcrafted:spruce_shelf
+setblock ~-14 ~25 ~28 handcrafted:spruce_shelf
+setblock ~-5 ~27 ~29 handcrafted:spruce_shelf
+setblock ~-5 ~27 ~31 handcrafted:spruce_shelf
+setblock ~9 ~27 ~29 handcrafted:spruce_shelf
+setblock ~9 ~27 ~31 handcrafted:spruce_shelf
+setblock ~21 ~27 ~34 handcrafted:spruce_shelf
+setblock ~20 ~27 ~35 handcrafted:spruce_shelf
+setblock ~22 ~27 ~35 handcrafted:spruce_shelf
+setblock ~19 ~27 ~36 handcrafted:spruce_shelf
+setblock ~23 ~27 ~36 handcrafted:spruce_shelf
+setblock ~18 ~27 ~37 handcrafted:spruce_shelf
+setblock ~24 ~27 ~37 handcrafted:spruce_shelf
+setblock ~19 ~27 ~38 handcrafted:spruce_shelf
+setblock ~23 ~27 ~38 handcrafted:spruce_shelf
+setblock ~20 ~27 ~39 handcrafted:spruce_shelf
+setblock ~22 ~27 ~39 handcrafted:spruce_shelf
+setblock ~21 ~27 ~40 handcrafted:spruce_shelf
+setblock ~46 ~23 ~29 handcrafted:spruce_shelf
+setblock ~50 ~23 ~29 handcrafted:spruce_shelf
+setblock ~52 ~23 ~31 handcrafted:spruce_shelf
+setblock ~52 ~23 ~35 handcrafted:spruce_shelf
+setblock ~53 ~25 ~27 handcrafted:spruce_shelf
+setblock ~56 ~25 ~27 handcrafted:spruce_shelf
+setblock ~46 ~31 ~29 handcrafted:spruce_shelf
+setblock ~50 ~31 ~29 handcrafted:spruce_shelf
+setblock ~47 ~31 ~30 handcrafted:spruce_shelf
+setblock ~48 ~31 ~30 handcrafted:spruce_shelf
+setblock ~49 ~31 ~30 handcrafted:spruce_shelf
+setblock ~45 ~31 ~31 handcrafted:spruce_shelf
+setblock ~52 ~31 ~31 handcrafted:spruce_shelf
+setblock ~46 ~31 ~32 handcrafted:spruce_shelf
+setblock ~51 ~31 ~32 handcrafted:spruce_shelf
+setblock ~45 ~31 ~33 handcrafted:spruce_shelf
+setblock ~51 ~31 ~33 handcrafted:spruce_shelf
+setblock ~48 ~31 ~34 handcrafted:spruce_shelf
+setblock ~51 ~31 ~34 handcrafted:spruce_shelf
+setblock ~52 ~31 ~35 handcrafted:spruce_shelf
+setblock ~48 ~31 ~37 handcrafted:spruce_shelf
+setblock ~46 ~32 ~29 handcrafted:spruce_shelf
+setblock ~50 ~32 ~29 handcrafted:spruce_shelf
+setblock ~52 ~32 ~31 handcrafted:spruce_shelf
+setblock ~46 ~32 ~32 handcrafted:spruce_shelf
+setblock ~52 ~32 ~35 handcrafted:spruce_shelf
+setblock ~46 ~33 ~29 handcrafted:spruce_shelf
+setblock ~50 ~33 ~29 handcrafted:spruce_shelf
+setblock ~52 ~33 ~31 handcrafted:spruce_shelf
+setblock ~52 ~33 ~35 handcrafted:spruce_shelf
+setblock ~46 ~34 ~29 handcrafted:spruce_shelf
+setblock ~50 ~34 ~29 handcrafted:spruce_shelf
+setblock ~47 ~34 ~30 handcrafted:spruce_shelf
+setblock ~48 ~34 ~30 handcrafted:spruce_shelf
+setblock ~49 ~34 ~30 handcrafted:spruce_shelf
+setblock ~52 ~34 ~31 handcrafted:spruce_shelf
+setblock ~51 ~34 ~32 handcrafted:spruce_shelf
+setblock ~51 ~34 ~33 handcrafted:spruce_shelf
+setblock ~51 ~34 ~34 handcrafted:spruce_shelf
+setblock ~52 ~34 ~35 handcrafted:spruce_shelf
+setblock ~48 ~39 ~30 handcrafted:spruce_shelf
+setblock ~50 ~39 ~30 handcrafted:spruce_shelf
+setblock ~49 ~39 ~31 handcrafted:spruce_shelf
+setblock ~49 ~39 ~35 handcrafted:spruce_shelf
+setblock ~48 ~39 ~36 handcrafted:spruce_shelf
+setblock ~50 ~39 ~36 handcrafted:spruce_shelf
+setblock ~49 ~40 ~31 handcrafted:spruce_shelf
+setblock ~51 ~47 ~32 handcrafted:spruce_shelf
+setblock ~50 ~47 ~33 handcrafted:spruce_shelf
+setblock ~51 ~47 ~34 handcrafted:spruce_shelf
+setblock ~50 ~48 ~33 handcrafted:spruce_shelf
+setblock ~-17 ~27 ~54 handcrafted:spruce_shelf
+setblock ~-7 ~27 ~54 handcrafted:spruce_shelf
+setblock ~-18 ~27 ~55 handcrafted:spruce_shelf
+setblock ~-18 ~27 ~56 handcrafted:spruce_shelf
+setblock ~-6 ~27 ~56 handcrafted:spruce_shelf
+setblock ~-17 ~27 ~57 handcrafted:spruce_shelf
+setblock ~-7 ~27 ~57 handcrafted:spruce_shelf
+setblock ~-3 ~22 ~56 handcrafted:spruce_shelf
+setblock ~1 ~22 ~56 handcrafted:spruce_shelf
+setblock ~6 ~22 ~56 handcrafted:spruce_shelf
+setblock ~10 ~22 ~56 handcrafted:spruce_shelf
+setblock ~-2 ~29 ~46 handcrafted:spruce_shelf
+setblock ~0 ~29 ~46 handcrafted:spruce_shelf
+setblock ~4 ~29 ~46 handcrafted:spruce_shelf
+setblock ~6 ~29 ~46 handcrafted:spruce_shelf
+setblock ~-1 ~29 ~47 handcrafted:spruce_shelf
+setblock ~5 ~29 ~47 handcrafted:spruce_shelf
+setblock ~1 ~30 ~46 handcrafted:spruce_shelf
+setblock ~3 ~30 ~46 handcrafted:spruce_shelf
+setblock ~2 ~30 ~47 handcrafted:spruce_shelf
+setblock ~2 ~31 ~47 handcrafted:spruce_shelf
+setblock ~1 ~43 ~55 handcrafted:spruce_shelf
+setblock ~0 ~45 ~46 handcrafted:spruce_shelf
+setblock ~4 ~45 ~46 handcrafted:spruce_shelf
+setblock ~15 ~27 ~43 handcrafted:spruce_shelf
+setblock ~19 ~27 ~43 handcrafted:spruce_shelf
+setblock ~-17 ~27 ~59 handcrafted:spruce_shelf
+setblock ~-7 ~27 ~59 handcrafted:spruce_shelf
+setblock ~-18 ~27 ~60 handcrafted:spruce_shelf
+setblock ~-6 ~27 ~60 handcrafted:spruce_shelf
+setblock ~-17 ~27 ~62 handcrafted:spruce_shelf
+setblock ~-7 ~27 ~62 handcrafted:spruce_shelf
+setblock ~-3 ~24 ~69 handcrafted:spruce_shelf
+setblock ~7 ~24 ~69 handcrafted:spruce_shelf
+setblock ~-3 ~24 ~72 handcrafted:spruce_shelf
+setblock ~7 ~24 ~72 handcrafted:spruce_shelf
+setblock ~1 ~43 ~59 handcrafted:spruce_shelf
+setblock ~-2 ~43 ~68 handcrafted:spruce_shelf
+setblock ~6 ~43 ~68 handcrafted:spruce_shelf
+setblock ~-3 ~43 ~69 handcrafted:spruce_shelf
+setblock ~7 ~43 ~69 handcrafted:spruce_shelf
+setblock ~-3 ~43 ~70 handcrafted:spruce_shelf
+setblock ~7 ~43 ~70 handcrafted:spruce_shelf
+setblock ~-3 ~43 ~71 handcrafted:spruce_shelf
+setblock ~7 ~43 ~71 handcrafted:spruce_shelf
+setblock ~-2 ~43 ~72 handcrafted:spruce_shelf
+setblock ~6 ~43 ~72 handcrafted:spruce_shelf
+setblock ~0 ~43 ~73 handcrafted:spruce_shelf
+setblock ~2 ~55 ~67 handcrafted:spruce_shelf
+setblock ~1 ~55 ~68 handcrafted:spruce_shelf
+setblock ~3 ~55 ~68 handcrafted:spruce_shelf
+setblock ~0 ~55 ~69 handcrafted:spruce_shelf
+setblock ~4 ~55 ~69 handcrafted:spruce_shelf
+setblock ~7 ~55 ~69 handcrafted:spruce_shelf
+setblock ~-1 ~55 ~70 handcrafted:spruce_shelf
+setblock ~5 ~55 ~70 handcrafted:spruce_shelf
+setblock ~7 ~55 ~70 handcrafted:spruce_shelf
+setblock ~0 ~55 ~71 handcrafted:spruce_shelf
+setblock ~4 ~55 ~71 handcrafted:spruce_shelf
+setblock ~7 ~55 ~71 handcrafted:spruce_shelf
+setblock ~1 ~55 ~72 handcrafted:spruce_shelf
+setblock ~3 ~55 ~72 handcrafted:spruce_shelf
+setblock ~2 ~55 ~73 handcrafted:spruce_shelf
+setblock ~7 ~56 ~69 handcrafted:spruce_shelf
+setblock ~-1 ~56 ~70 handcrafted:spruce_shelf
+setblock ~7 ~56 ~70 handcrafted:spruce_shelf
+setblock ~7 ~56 ~71 handcrafted:spruce_shelf
+setblock ~7 ~57 ~69 handcrafted:spruce_shelf
+setblock ~7 ~57 ~70 handcrafted:spruce_shelf
+setblock ~7 ~57 ~71 handcrafted:spruce_shelf
+setblock ~7 ~58 ~69 handcrafted:spruce_shelf
+setblock ~7 ~58 ~70 handcrafted:spruce_shelf
+setblock ~7 ~58 ~71 handcrafted:spruce_shelf
+setblock ~7 ~59 ~69 handcrafted:spruce_shelf
+setblock ~7 ~59 ~70 handcrafted:spruce_shelf
+setblock ~7 ~59 ~71 handcrafted:spruce_shelf
+setblock ~-30 ~22 ~-31 handcrafted:spruce_shelf
+setblock ~-28 ~22 ~-31 handcrafted:spruce_shelf
+tellraw @s {"text":"[POFNIR] Prateleiras do Maester restauradas em Handcrafted (bonus opcional).","color":"light_purple"}
