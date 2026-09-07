@@ -169,6 +169,10 @@ file = "config/worldedit/schematics/highgarden.schem"
 hash = "cfd88f70f957ba4ef77842a2ec2b8aee678c6efb2441af291f55795c9e0653e3"
 
 [[files]]
+file = "config/yigd.json"
+hash = "64b2ba1bf344d347f7af30d6b5b73a54f4e819622ef905a77b83a349d0d06856"
+
+[[files]]
 file = "kubejs/client_scripts/pilares_tooltip.js"
 hash = "9e359d40e970f1f84d747dd3fe366471888ac6fa3bb5fd9e0a7a417bc32bfbe5"
 
@@ -468,6 +472,11 @@ hash = "fff1e00559f13c092b17fa83804279cf70191d7a99a4a98a4eb6bb30ac9a78db"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "c3855a5011cc263726532999f35c8691db9fa60b9d470758dd826d25c29ed4cb"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e9b48a41987c854dee8a24f4797d7619a6e8ca10a883ad2067f56e11bce6ede4"
 metafile = true
@@ -485,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "d93a794cc3b114b049f4fb2616a76a5c3e0e6da668bd4a8f367637dc69f40ddb"
 metafile = true
 
 [[files]]
@@ -630,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "cb9cb89e51e6948fa2a9790483c4eb3d2d739ac62da6fc838c18d3d8e7781d18"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "c96aee43a3e9e1b69311f7c9d3b7753320f30813b7d8d32f498a0601804e7322"
 metafile = true
 
 [[files]]
@@ -875,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]

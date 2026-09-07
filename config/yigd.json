@@ -1,0 +1,40 @@
+{
+  "graveConfig": {
+    "enabled": true,
+    "storeItems": true,
+    "storeXp": true,
+    "informGraveLocation": true,
+    "retrieveMethods": {
+      "onClick": true,
+      "onBreak": false,
+      "onSneak": false,
+      "onStand": false
+    },
+    "graveRobbing": {
+      "enabled": false,
+      "killerSkipWaitTime": false,
+      "afterTime": 1,
+      "timeUnit": "HOURS",
+      "robPriority": "INVENTORY",
+      "notifyWhenRobbed": true,
+      "tellWhoRobbed": true
+    },
+    "graveTimeout": {
+      "enabled": false,
+      "afterTime": 5,
+      "timeUnit": "HOURS",
+      "dropContentsOnTimeout": true
+    },
+    "generateGraveInVoid": false,
+    "generateOnlyWithinBorder": true,
+    "unlockable": true,
+    "dropItemsIfDestroyed": false,
+    "notifyOwnerIfDestroyed": true
+  },
+  "compatConfig": {
+    "enableTrinketsCompat": true,
+    "defaultTrinketsDropRule": "PUT_IN_GRAVE",
+    "enableTravelersBackpackCompat": true,
+    "defaultTravelersBackpackDropRule": "PUT_IN_GRAVE"
+  }
+}
